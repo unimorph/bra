@@ -7,7 +7,7 @@ Contains paradigms for Braj
 Source:TBA
 
 ## Annotators
-Ritesh Kumar
+Shyam Ratan, Ritesh Kumar
 
 ## Paradigm Samples
 TBA
