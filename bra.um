@@ -1,9 +1,7 @@
 लै	लेऊ	PROG;V;FORM;PRS;SG
-,	,	_
 जल	जल	N;3;MASC
 ग्रहन	ग्रहन	V;HAB;FORM;PRS;SG
 कर	करौ	V;HAB;FORM;PRS;SG
-।	।	_
 
 साधु	साधु	N;3;SG;MASC
 बाबा	बाबा	N;3;SG;MASC
@@ -17,49 +15,39 @@
 बढ़	बढ़ावत	PROG;FEM;V;PRS;SG
 हुए	भये	PROG;FEM;V;PRS;SG
 बोल	बोले	PROG;V;MASC;FORM;PRS;SG
--	-	_
 पथिक	पथिक	N;3;SG;MASC
-,	,	_
 बू	बू	3;SG;DET
 कहावत	कहावत	N;3;FEM;SG
 सुन	सुनी	PROG;FEM;V;FORM;PRS;SG
 है	है	3;SG;V
 कैं	कैं	CONJ
 ना	नाँय	PART;NEG
--	-	_
 कोस	कोस	N;3;SG;MASC
--	-	_
 कोस	कोस	N;3;SG;MASC
 पैं	पैं	ADP
 पग	पग	PL;N;3;MASC
 धुब	धुबै	V;MASC;HAB;FORM;PRS;SG
-,	,	_
 तीन	तीन	NUM
 कोस	कोस	N;3;SG;MASC
 पै	पै	ADP
 खा	खाय	V;MASC;HAB;FORM;PRS;SG
-।	।	_
 
 कह	कहै	V;FORM;PFV;PRS;SG
 घाघ	घाघ	N;3;SG;MASC
 तें	तें	ADP
 भड्डरी	भड्डरी	N;3;FEM;SG
-,	,	_
 मन	मन	N;3;SG;MASC
 आ	आवै	V;MASC;FORM;PFV;PRS;SG
 तहाँ	तहाँ	N;MASC
 जा	जाय	FEM;V;FORM;PFV;PRS;SG
-।	।	_
 
 मैं	मैंनें	1;PRO;SG
 जल	जल	N;3;MASC
 तें	तें	ADP
 हाथ	हाथ	PL;N;3;MASC
--	-	_
 मुँह	मुँह	N;3;SG;MASC
 और	और	CONJ
 पांव	पांव	PL;N;3;MASC
-,	,	_
 धो	धोये	PL;V;MASC;FORM;PFV;PRS
 और	और	CONJ
 फिरि	फिरि	ADV
@@ -71,7 +59,6 @@
 जल	जल	3;PRO;MASC
 पी	पी	PL;V;MASC;PFV;PRS
 लियौ	लियौ	PL;V;MASC;FORM;PRS
-।	।	_
 
 सच	सचमुच	ADV
 है	ही	PART
@@ -80,7 +67,6 @@
 आधा	आधी	DET
 रहि	रहि	FEM;V;PFV;PRS;SG
 गई	गई	PRS;FEM;V;SG
-।	।	_
 
 थोड़ौ	थोड़ौ	ADJ;SG;MASC
 सुस्त	सुस्तायबे	FEM;V;PFV;PRS;SG
@@ -97,16 +83,12 @@
 कैं	कैं	ADP
 बैठि	बैठि	V;MASC;PFV;PRS;SG
 गयौ	गयौ	PRS;V;SG;MASC
-।	।	_
 
-PUNCT	"	"	2
 हाँ	हाँ	N;POS
 तौ	तौ	CONJ
 पथिक	पथिक	N;2;SG;MASC
-,	,	_
 अब	अब	ADV
 सुन	सुनाऔ	V;MASC;HAB;FORM;PRS;SG
-,	,	_
 कहाँ	कहाँ	3;SG;PRO;MASC
 ते	ते	ADP
 आ	आइबौ	V;MASC;HAB;FORM;PRS;SG
@@ -118,8 +100,6 @@ PUNCT	"	"	2
 जाय	जाय	V;MASC;HAB;FORM;PRS;SG
 रह	रहे	V;MASC;HAB;PRS;SG
 हो	हो	V;MASC;FORM;PRS;SG
-?	?	_
-PUNCT	"	"	20
 
 मैं	मैंनें	1;SG;PRO;MASC
 अपने	अपने	1;MASC;FORM;SG;PRO
@@ -132,7 +112,6 @@ PUNCT	"	"	20
 बाबा	बाबा	MASC;FORM;N;2;SG
 कूँ	कूँ	NOM;ADP;SG;MASC
 बता	बतायौ	PRS;V;SG;MASC
-।	।	_
 
 साधु	साधु	3;MASC;FORM;N;SG
 बाबा	बाबा	3;MASC;FORM;N;SG
@@ -148,16 +127,13 @@ PUNCT	"	"	20
 तौ	तौ	CONJ
 पूछि	पूछि	V;MASC;PFV;PRS;SG
 बैठ	बैठुयौ	PRS;V;SG;MASC
-।	।	_
 
 बाबा	बाबा	3;MASC;FORM;N;SG
-,	,	_
 जि	जि	3;SG;DET
 जीवन	जीवन	N;3;SG;MASC
 कैसी	कैसी	DET
 पहेली	पहेली	N;3;FEM;SG
 है	है	PRS;SG;V;MASC
-?	?	_
 
 काऊ	काहू	3;PRO;SG
 का	कूँ	NOM;ADP;SG;MASC
@@ -177,7 +153,6 @@ PUNCT	"	"	20
 सुख	सुख	N;3;SG;MASC
 है	ही	PART
 सुख	सुख	N;3;SG;MASC
-।	।	_
 
 जि	जि	3;SG;DET
 दु:ख	दु:ख	N;3;SG;MASC
@@ -189,7 +164,6 @@ PUNCT	"	"	20
 ऊपर	ऊपर	3;MASC;FORM;N;SG
 बारे	बारे	3;MASC;FORM;SG;PRO
 नै	नै	ADP
-?	?	_
 
 मैं	मेरी	1;SG;PRO;MASC
 बात	बात	N;1;SG;MASC
@@ -197,10 +171,8 @@ PUNCT	"	"	20
 साधु	साधु	3;MASC;FORM;N;SG
 बाबा	बाबा	3;MASC;FORM;N;SG
 मंद	मंद	ADJ
--	-	_
 मंद	मंद	ADJ
 मुस्करा	मुस्कराये	V;MASC;FORM;PFV;PRS;SG
-।	।	_
 
 पथिक	पथिक	N;3;SG;MASC
 या	या	DET
@@ -209,7 +181,6 @@ PUNCT	"	"	20
 सब	सब	DET
 प्रानी	प्रानी	PL;N;3;MASC
 आप	अपने	PL;3;PRO;MASC
--	-	_
 अपने	अपने	PL;3;PRO;MASC
 करम	करमनु	PL;N;3;MASC
 का	कौ	ADP;ACC;SG;MASC
@@ -218,7 +189,6 @@ PUNCT	"	"	20
 भोग	भोगौ	V;MASC;FORM;PFV;PRS;SG
 कर	करें	V;MASC;PFV;PRS;SG
 हैं	हैं	V;MASC;FORM;PRS;SG
-।	।	_
 
 जानि	जानें	3;PRO;SG
 अच्छा	अच्छे	PL;ADJ;MASC
@@ -234,11 +204,9 @@ PUNCT	"	"	20
 करम	करम	PL;N;3;MASC
 कर	करे	PL;V;MASC;FORM;PFV;PRS
 हैं	हैं	PL;V;MASC;FORM;PRS
-,	,	_
 वे	वे	PL;3;PRO
 दु:ख	दु:ख	N;3;SG;MASC
 भोग	भोगैं	PL;V;MASC;FORM;PFV;PRS
-।	।	_
 
 मन	मानसिक	ADJ;3;SG;MASC
 दु:ख	दु:ख	N;3;SG;MASC
@@ -247,7 +215,6 @@ PUNCT	"	"	20
 का	कौ	ADP;ACC;SG;MASC
 दु:ख	दु:ख	N;3;SG;MASC
 ऊ	हू	PART
-।	।	_
 
 काऊ	काहूँ	3;PRO;SG
 का	के	NOM;ADP;SG;MASC
@@ -258,7 +225,6 @@ PUNCT	"	"	20
 बू	बू	3;SG;PRO
 दुख	दुखी	FEM;V;PFV;PRS;SG
 है	है	V;MASC;PRS;SG
-।	।	_
 
 काऊ	काहू	3;PRO;SG
 का	के	NOM;ADP;SG;MASC
@@ -271,7 +237,6 @@ PUNCT	"	"	20
 गई	गई	FEM;V;PFV;PRS;SG
 तब	तबऊ	PRO
 दु:ख	दु:ख	N;3;SG;MASC
-।	।	_
 
 काऊ	काहू	3;PRO;SG
 का	के	NOM;ADP;SG;MASC
@@ -288,13 +253,11 @@ PUNCT	"	"	20
 का	कौ	NOM;ADP;SG;MASC
 काऊ	कोऊ	3;PRO;SG
 नाता	नाते	PL;N;3
--	-	_
 रिस्ता	रिस्तेदार	PL;N;3
 समय	असमय	N;MASC
 है	ही	PART
 गुजरि	गुजरि	V;MASC;PFV;PRS;SG
 गई	गयौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 बस्स	बस्स	PART
 याही	याही	3;SG;DET
@@ -317,14 +280,12 @@ PUNCT	"	"	20
 हो	भये	PL;V;MASC;HAB;FORM;PRS
 बू	बू	PL;3;PRO
 अपना	अपने	3;SG;PRO;MASC
--	-	_
 अपना	अपने	3;SG;PRO;MASC
 मन	मन	N;3;SG
 में	में	ADP
 दु:ख	दु:खी	PL;N;3;MASC
 है	होयौं	PL;V;MASC;FORM;PFV;PRS
 कर	करें	PL;V;MASC;FORM;PFV;PRS
-।	।	_
 
 जि	जेई	3;SG;DET;MASC
 बात	बात	N;3;SG;MASC
@@ -334,12 +295,10 @@ PUNCT	"	"	20
 रह	रहौ	V;MASC;HAB;PRS;SG
 है	हूँ	V;MASC;PRS;SG
 बाबा	बाबा	3;MASC;FORM;N;SG
-,	,	_
 कै	कै	CONJ
 भौतु	भौतु	PL;ADJ;3
 सारे	सारे	PL;ADJ;3
 दु:ख	दु:ख	PL;N;3;MASC
-,	,	_
 मन	मन	N;3;SG;MASC
 का	कूँ	NOM;ADP;SG;MASC
 दु:ख	दु:खी	ADJ;3;SG;MASC
@@ -361,7 +320,6 @@ PUNCT	"	"	20
 मिल	मिलि	PROG;V;MASC;PRS;SG
 रह	रहौ	PROG;V;MASC;PRS;SG
 है	है	V;MASC;PRS;SG
-।	।	_
 
 ऊपर	ऊपर	N;3;SG;MASC
 बारे	बारे	3;SG;PRO;MASC
@@ -400,7 +358,6 @@ PUNCT	"	"	20
 मिलि	मिलि	V;PFV;PRS;SG
 रहा	रह्यौ	V;MASC;PFV;PRS;SG
 है	है	PRS;SG;V;MASC
-,	,	_
 ताते	ताते	3;SG;PRO
 फिरि	फिरि	PART
 बू	बू	3;SG;PRO;MASC
@@ -410,7 +367,6 @@ PUNCT	"	"	20
 कर	करै	PROG;V;MASC;PRS;SG
 ही	ही	PART
 ना	नाँय	PART;NEG
-।	।	_
 
 खाली	खाली	PART
 जि	जि	SG;DET
@@ -425,14 +381,12 @@ PUNCT	"	"	20
 करम	करम	N;3;SG;MASC
 कर	करौ	V;MASC;FORM;PFV;PRS;SG
 है	होयगौ	V;MASC;FORM;PRS;SG
-,	,	_
 जाकै	जाकै	3;SG;PRO;MASC
 दु:ख	दु:ख	N;3;SG;MASC
 भोग	भोगनौ	PROG;V;MASC;PRS;SG
 परि	परि	PROG;V;MASC;PRS;SG
 रहा	रह्यौ	PROG;V;MASC;PRS;SG
 है	है	PRS;SG;V;MASC
-,	,	_
 जा	या	3;SG;DET
 बात	बात	N;3;SG;MASC
 ते	ते	ADP
@@ -441,7 +395,6 @@ PUNCT	"	"	20
 तो	तो	CONJ
 ना	नाँय	PART;NEG
 मिल	मिलै	V;MASC;PFV;PRS;SG
-।	।	_
 
 जि	जि	3;SG;DET
 बात	बात	N;3;SG;MASC
@@ -453,14 +406,12 @@ PUNCT	"	"	20
 रहौ	रहौ	PROG;V;MASC;PRS;SG
 है	है	PROG;V;MASC;PRS;SG
 पथिक	पथिक	N;3;SG;MASC
-,	,	_
 परि	परि	CONJ
 मेरा	मेरौ	PROPN;1;SG;MASC
 मान	मानिबौ	N;3;SG;MASC
 कछु	कछु	3;SG;PRO;MASC
 औरु	औरु	3;SG;PRO;MASC
 है	है	PROG;V;MASC;PRS;SG
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 जि	जि	3;SG;DET
@@ -474,7 +425,6 @@ PUNCT	"	"	20
 जनम	जनम	N;3;SG;MASC
 में	में	ADP
 अपनी	अपनी	3;FEM;PRO;SG
--	-	_
 अपनी	अपनी	3;FEM;PRO;SG
 कर	करनी	N;3;SG;MASC
 का	कौ	ADP;ACC;SG;MASC
@@ -482,7 +432,6 @@ PUNCT	"	"	20
 भोग	भोगनौ	V;MASC;HAB;PRS;SG
 परे	परे	V;MASC;HAB;PRS;SG
 है	है	PRS;SG;V;MASC
-।	।	_
 
 बू	बू	SG;PRO;MASC
 अलग	अलग	ADJ;SG
@@ -495,7 +444,6 @@ PUNCT	"	"	20
 हम	हम	PL;1;MASC;FORM;PRO
 काऊ	काऊ	3;SG;DET
 लोभ	लोभ	N;3;SG;MASC
-,	,	_
 मोह	मोह	N;3;SG;MASC
 स्वारथ	स्वारथबस	N;3;SG;MASC
 का	कै	ADP;ACC;SG;MASC
@@ -511,9 +459,7 @@ PUNCT	"	"	20
 अच्छा	अच्छौ	ADJ;SG;MASC
 ना	नाँय	PART;NEG
 है	होय	PROG;V;MASC;PRS;SG
-।	।	_
 
-'	'	_
 अच्छा	अच्छौ	ADJ;SG;MASC
 समझ	समझि	PL;PROG;V;MASC;FORM;PRS
 का	कै	PROG;V;MASC;FORM;PRS;SG
@@ -524,30 +470,24 @@ PUNCT	"	"	20
 अच्छा	अच्छौ	ADJ;SG;MASC
 ना	नाँय	PART;NEG
 है	होय	PROG;V;MASC;PRS;SG
-,	,	_
 ऐसा	ऐसौ	SG;PRO;MASC
 कैसे	कैसे	ADV
 हैं	हैं	PROG;V;PRS;SG
 सक	सकै	PROG;V;PRS;SG
 है	है	PRS;SG;V
-'	'	_
 बाबा	बाबा	PL;N;3;MASC
-,	,	_
 कछु	कछु	3;SG;PRO
 मैं	मैं	N;1;SG;MASC
 समझ	समझौ	V;HAB;PRS;SG
 ना	नहीं	PART;NEG
-।	।	_
 
 कोऊ	कोऊ	3;SG;DET
 उदाहरन	उदाहरन	N;3;SG;MASC
 दै	दैकैं	PROG;V;MASC;FORM;PRS;SG
 समझ	समझाऔ	V;FORM;PRS;SG
-।	।	_
 
 सुनि	सुनि	PROG;V;MASC;PRS;SG
 पथिक	पथिक	N;3;SG;MASC
-,	,	_
 तोकूँ	तोकूँ	3;MASC;SG;PRO
 एक	एक	NUM
 बिल्कुलि	बिल्कुलि	ADV
@@ -561,17 +501,14 @@ PUNCT	"	"	20
 दै	दै	PROG;V;MASC;PRS;SG
 कर	कैं	PROG;V;MASC;PRS;SG
 सुन	सुनियौ	V;MASC;HAB;PRS;SG
-।	।	_
 
 कोऊ	कोऊ	3;SG;DET
 चालीस	चालीस	PL;NUM
 साल	साल	N;3;SG;MASC
 पैले	पैले	ADP
-,	,	_
 का	की	ADP
 बात	बात	N;3;SG;MASC
 है	है	PROG;V;MASC;PRS;SG
-।	।	_
 
 छटीकरा	छटीकरा	PROPN;3;SG;MASC
 का	कौं	ADP;ACC;SG;MASC
@@ -581,17 +518,14 @@ PUNCT	"	"	20
 रईस	रईस	ADJ;3;SG;MASC
 आदमी	आदमी	N;3;SG;MASC
 ए	हौ	V;MASC;PFV;PST;SG
-।	।	_
 
 बा	बाके	3;SG;PRO;MASC
 पास	पास	N
 भौतु	भौतु	PL;ADJ;3
 सारी	सारी	PL;ADJ;FEM;3
 जमीन	जमीन	N;3;FEM;SG
--	-	_
 जायदाद	जायदाद	N;3;FEM;SG
 ए	ही	FEM;V;PFV;PST;SG
-।	।	_
 
 एक	एक	NUM
 दिन	दिना	N;3;SG;MASC
@@ -604,7 +538,6 @@ PUNCT	"	"	20
 आ	आय	V;MASC;PFV;PST;SG
 रह	रहौ	V;MASC;PFV;PST;SG
 ए	हौ	PST;SG;V;MASC
-।	।	_
 
 संझा	संझा	N;3;FEM;SG
 का	की	ADP;ACC;FEM;SG
@@ -612,7 +545,6 @@ PUNCT	"	"	20
 है	है	V;MASC;PFV;PST;SG
 गयौ	गयौ	V;MASC;PFV;PST;SG
 ए	हतौ	PST;SG;V;MASC
-,	,	_
 वाही	वाही	3;SG;DET
 समैं	समैं	N;3;SG;MASC
 बा	बाकू	3;SG;PRO;MASC
@@ -620,7 +552,6 @@ PUNCT	"	"	20
 पथिक	पथिक	N;3;SG;MASC
 दिख	दिखाई	PL;PROG;V;MASC;PRS
 दिये	दिये	PL;V;MASC;PFV;PRS
-।	।	_
 
 धनपाल	धनपाल	PROPN;3;SG;MASC
 का	कूँ	NOM;ADP;SG;MASC
@@ -637,7 +568,6 @@ PUNCT	"	"	20
 हम	हम	PL;1;MASC;PRO
 व्यौपारी	व्यौपारी	N;3;SG;MASC
 हैं	हैं	PL;V;MASC;PRS
-।	।	_
 
 दूर	दूर	N;3;SG;MASC
 ब्यौपार	ब्यौपार	N;3;SG;MASC
@@ -660,7 +590,6 @@ PUNCT	"	"	20
 ठहर	ठहरिबौ	PL;PROG;V;MASC;FORM;PRS
 चाह	चाहैं	PL;PROG;V;MASC;FORM;PRS
 है	हैं	PL;V;MASC;FORM;PRS
-।	।	_
 
 का	का	PRO
 ठहर	ठहरिबे	ADJ;SG;MASC
@@ -672,25 +601,20 @@ PUNCT	"	"	20
 सक	सकौ	PROG;V;MASC;FORM;PRS;SG
 है	हौ	V;MASC;FORM;PRS;SG
 हम	हमकूँ	PL;3;MASC;FORM;PRO
-?	?	_
 
 सई	सांची	ADJ;FEM
--	-	_
 सई	सांची	ADJ;FEM
 बता	बतियां	PL;N;FEM;3
 
 सांस्मरन	सांस्मरनन	N;3;SG;MASC
 में	में	ADP
 नौंन	नौंन	N;3;SG;MASC
--	-	_
 मिर्च	मिर्च	N;3;FEM;SG
 ना	नांय	PART;NEG
 मिल	मिलायौ	V;MASC;PFV;PRS;SG
 जाए	जाए	PRS;V;SG;MASC
-।	।	_
 
 नोंन	नोंन	N;3;SG;MASC
--	-	_
 मिर्च	मिर्च	N;3;FEM;SG
 मिल	मिंलावैं	V;MASC;HAB;PRS;SG
 तो	तो	CONJ
@@ -702,7 +626,6 @@ PUNCT	"	"	20
 संस्मरन	संस्मरन	N;3;SG;MASC
 ना	नांय	PART;NEG
 रह	रहैं	V;MASC;PFV;PRS;SG
-।	।	_
 
 इन्नैं	इन्नैं	PL;3;PRO;MASC
 लिख	लिखिवे	PL;V;MASC;HAB;PRS
@@ -713,7 +636,6 @@ PUNCT	"	"	20
 ना	नांय	PART;NEG
 कर	करनी	FEM;V;PFV;PRS;SG
 परै	परै	PRS;V;FEM;SG
-।	।	_
 
 ज्यों	ज्यों	3;ADV;SG;MASC
 का	की	ADP;SG;MASC
@@ -723,56 +645,46 @@ PUNCT	"	"	20
 उतर	उतारी	FEM;V;PFV;PRS;SG
 भइ	भई	FEM;V;PFV;PRS;SG
 सई	साँची	ADJ;FEM
--	-	_
 सई	साँची	ADJ;FEM
 बात	बतियाँ	PL;N;FEM;3
 है	ही	PART
 गरे	गरे	N;3;SG;MASC
 उतर	उतरैं	PL;FEM;V;PFV;PRS
-।	।	_
 
 वे	वे	PL;3;MASC;FORM;PRO
 कब	कबऊ	PRO
 भुल	भुलाईऊ	PL;FEM;V;PFV;PRS
 ना	नाँय	PART;NEG
 जाएँ	जाएँ	FEM;V;PFV;PRS
-।	।	_
 
 हाँ	हाँ	N;POS
 इतेक	इतेक	SG;DET;MASC
 जरूर	जरूर	ADJ;MASC
 है	है	V;MASC;PFV;PRS;SG
-,	,	_
 घटना	घटना	N;3;FEM;SG
 बाच	बाचिबे	FEM;V;HAB;PRS;SG
--	-	_
 सुन	सुनिबे	PROG;FEM;V;PRS;SG
 में	में	ADP
 रोचक	रोचक	ADJ;FEM;SG
-,	,	_
 ज्ञानवर्द्धक	ज्ञानवर्द्धक	ADJ;FEM;SG
-,	,	_
 आनंद	आनंद-दायक	ADJ;FEM;SG
 अरु	अरु	CONJ
 प्रेरना	प्रेरना	ADJ;FEM;SG
 स्रोत	स्रोत	ADJ;FEM;SG
 है	हौनी	PL;FEM;V;PFV;PRS
 चाह	चहिए	PL;PRS;FEM;V
-।	।	_
 
 पचास	पचास	PL;NUM
 बरस	बरस	N;3;SG;MASC
 पुराना	पुरानी	ADJ;FEM;SG
 बात	बात	N;3;SG;MASC
 है	है	V;MASC;PFV;PRS;SG
-।	।	_
 
 सन्	सन्	N
 उन्नीस	उन्नीस	NUM
 सौ	सौ	NUM
 तिरेपन	तिरेपन	NUM
 ए	हौ	V;MASC;PFV;PST;SG
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 एक	एक	NUM
@@ -785,37 +697,29 @@ PUNCT	"	"	20
 का	कूँ	ADP;ACC;FEM;SG
 पढ़ा	पढ़ा	V;MASC;HAB;PST;SG
 रह	रह्यौ	V;MASC;HAB;PST;SG
-।	।	_
 
 ल्हौरे	ल्हौरे	PL;ADJ;MASC
--	-	_
 ल्हौरे	ल्हौरे	PL;ADJ;MASC
 बालक	बालक	PL;N;3;MASC
-।	।	_
 
 बिल्कुल	बिल्कुल	ADV
 अबोध	अबोध	ADJ;MASC
-।	।	_
 
 रागद्वेस	रागद्वेस	PL;N;3;MASC
 सौं	सौं	ADP
 दूर	दूर	ADJ;SG;MASC
-।	।	_
 
 सई	साँची	ADJ;FEM
--	-	_
 सई	साँची	ADJ;FEM
 बात	बात	N;3;FEM;SG
 कह	कहबे	PL;V;MASC;HAB;PRS
 बाऔ	बारे	ADP
-।	।	_
 
 लग	लगी	ADJ;FEM;SG
 लूथरी	लूथरी	N;3;FEM;SG
 का	कौ	ADP
 का	का	DET
 काम	काम	N;3;FEM;SG
-।	।	_
 
 जो	जो	3;SG;PRO
 मन	मन	N;3;SG;MASC
@@ -823,7 +727,6 @@ PUNCT	"	"	20
 सोई	सोई	3;SG;PRO
 होट	होटन	PL;N;3;MASC
 पै	पै	ADP
-।	।	_
 
 मुख	मुख	N;3;SG;MASC
 में	में	ADP
@@ -835,17 +738,14 @@ PUNCT	"	"	20
 सीख	सीखी	FEM;V;PFV;PRS;SG
 है	ही	PART
 ना	नाहीं	PART;NEG
-।	।	_
 
 जि	यों	3;SG;DET
 समझ	समझौ	PL;FEM;V;PFV;PRS
 भगवान	भगवान	N;3;SG;MASC
 के	के	NOM;ADP;SG;MASC
 रूप	सरूप	PL;N;3;MASC
-।	।	_
 
 तौ	तौ	CONJ
-,	,	_
 पाठ	पाठ	N;3;SG;MASC
 जो	जो	3;SG;DET;MASC
 पढ़	पढ़ा	V;MASC;HAB;PRS;SG
@@ -853,15 +753,11 @@ PUNCT	"	"	20
 बू	बू	3;SG;PRO;MASC
 हिन्दी	हिन्दी	PROPN;3;FEM;SG
 का	कौ	ADP
-।	।	_
 
 सीर्सक	सीर्सक	N;3;SG;MASC
 ए	हौ	PL;V;MASC;PFV;PST
-PUNCT	"	"	4
 गोबिंद	गोबिंद	PROPN;3;SG;MASC
 बढई	बढई	PROPN;3;SG;MASC
-PUNCT	"	"	5
-।	।	_
 
 पाठ	पाठ	N;3;SG;MASC
 जब	जब	PRO
@@ -872,7 +768,6 @@ PUNCT	"	"	5
 कछू	कछू	DET
 सवाल	सवाल	N;3;SG;MASC
 पूछ	पूछे	PL;V;MASC;PFV;PST
-।	।	_
 
 मैं	मेरौ	1;SG;PRO;MASC
 अरु	अरु	CONJ
@@ -886,53 +781,39 @@ PUNCT	"	"	5
 तरियाँ	तरियाँ	N;3;SG;MASC
 सौ	सौ	ADP
 था	हौ	V;MASC;PFV;PST;SG
-:-	:-	_
 बढ़ई	बढ़ई	N;3;SG;MASC
 कौन	कौन	3;SG;PRO;MASC
 सौ	सौ	ADP
 कह	कहैं	V;MASC;FORM;PFV;PRS;SG
-?	?	_
 
 जो	जो	3;SG;PRO;MASC
 लकड़ी	लकड़ी	N;3;FEM;SG
 का	कौ	NOM;ADP;SG;MASC
 काम	काम	N;3;SG;MASC
 कर	करे	V;MASC;HAB;PRS;SG
-।	।	_
 
 लकड़ी	लकड़ी	N;3;FEM;SG
 ते	ते	ADP
 का	का	PRO
--	-	_
 का	का	PRO
 चीज	चीज	PL;N;FEM;3
 बन	बनै	PL;FEM;V;PFV;PRS
-?	?	_
 
 कुरसी	कुरसी	N;3;FEM;SG
--	-	_
 मेज	मेज	N;3;FEM;SG
--	-	_
 खाट	खाट	N;3;FEM;SG
--	-	_
 डैस्क	डैस्क	N;3;FEM;SG
--	-	_
 बोर्ड	बोर्ड	N;3;SG;MASC
-।	।	_
 
 कुरसी	कुरसी	N;3;FEM;SG
 कसी	कसी	PRO
 हो	होय	V;MASC;PFV;PRS;SG
-?	?	_
 
 कारी	कारी	ADJ;FEM;SG
--	-	_
 पीरी	पीरी	ADJ;FEM;SG
-,	,	_
 चार	चार	PL;NUM
 पाँय	पाँयन	PL;N;FEM;3
 वारी	वारी	PART
-।	।	_
 
 हाथ	हाथ	PL;N;3;MASC
 पाँय	पाँयन	PL;N;FEM;3
@@ -943,25 +824,21 @@ PUNCT	"	"	5
 का	का	PL;3;PRO;MASC
 का	का	PL;3;PRO;MASC
 है	हॉय	V;MASC;PFV;PRS;SG
-?	?	_
 
 और	और	CONJ
 कछू	कछू	3;PRO;MASC
 नां	नांय	PART;NEG
 हो	होय	V;MASC;PFV;PRS;SG
-।	।	_
 
 बैल	बैलन	PL;N;3;MASC
 का	कूँ	NOM;ADP;FEM;PL
 खूब	खूब	PL;ADJ;MASC
 खवा	खवाय	PL;N;3;MASC
--	-	_
 पिबा	पिबाय	PL;N;3;MASC
 का	कै	CONJ
 तैयार	तैयार	ADJ;SG;MASC
 कर	करौ	PL;V;MASC;PFV;PST
 जात	जातौ	PL;PST;V;MASC
-।	।	_
 
 रस्ता	रस्ता	N;3;SG;MASC
 में	में	ADP
@@ -969,11 +846,9 @@ PUNCT	"	"	5
 का	की	NOM;ADP;FEM;SG
 दौड़	दौड़	PL;3;MASC;FORM;N
 हो	हौंती	PL;V;MASC;FORM;PFV;PST
-।	।	_
 
 होड़	होड़	N;3;SG;MASC
 हो	हौंती	PL;V;MASC;FORM;PFV;PST
-।	।	_
 
 तौ	तौ	CONJ
 बहलीन	बहलीन	PL;N;3;MASC
@@ -981,7 +856,6 @@ PUNCT	"	"	5
 दौड़	दौड़	PL;N;3;MASC
 है	है	PL;IPFV;V;MASC;PRS
 रह	रही	PL;PRS;V;MASC
-।	।	_
 
 मैं	मैं	3;SG;PRO;MASC
 जा	जा	3;DET
@@ -991,22 +865,18 @@ PUNCT	"	"	5
 बू	बू	3;SG;PRO
 पलट	पलट	V;SG;MASC
 गई	गई	FEM;V;PFV;PST;SG
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 एक	एक	NUM
 सूरन	सूरन	PL;N;3;MASC
-(	(	_
 बबूल	बबूल	N;3;SG;MASC
 का	के	PL;ADP;ACC;MASC
 काँटौ	काँटे	PL;N;3;MASC
-)	)	_
 का	के	PL;ADP;ACC;MASC
 ढेर	ढेर	N;3;SG;MASC
 पै	पै	ADP
 गिर	जा	V;SG;MASC
 परा	परौ	INFM;V;MASC;PFV;PST;SG
-।	।	_
 
 मैं	मेरे	1;SG;PRO;MASC
 सरीर	सरीर	N;1;SG;MASC
@@ -1015,7 +885,6 @@ PUNCT	"	"	5
 सूर	सूर	PL;N;3;MASC
 टूट	टूट	V;SG;MASC
 गए	गए	PL;V;MASC;PFV;PST
-।	।	_
 
 उठ	उठबे	V;MASC;PFV;PST;SG
 पै	पै	ADP
@@ -1024,7 +893,6 @@ PUNCT	"	"	5
 मालिम	मालिम	N;3
 न	नहीं	PART;NEG
 परा	परी	FEM;V;PFV;PST;SG
-।	।	_
 
 पर	पर	CONJ
 गांव	गांव	N;3;SG;MASC
@@ -1033,7 +901,6 @@ PUNCT	"	"	5
 पीड़ा	पीड़ा	N;3;FEM;SG
 है	हैबे	V;SG;MASC
 लग	लगी	FEM;V;PFV;PST;SG
-।	।	_
 
 जनवासौ	जनवासे	N;3;SG;MASC
 में	में	ADP
@@ -1044,15 +911,12 @@ PUNCT	"	"	5
 में	में	ADP
 आ	आ	V;SG;MASC
 गए	गए	PL;V;MASC;PFV;PST
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 परौ	परौ	ADV;SG;MASC
--	-	_
 परौ	परौ	ADV;SG;MASC
 कराह	कराहतौ	V;SG;MASC
 रह	रह्यौ	INFM;V;MASC;PFV;PST;SG
-।	।	_
 
 पीरा	पीरा	N;3;FEM;SG
 असह	असहनीय	ADJ;FEM
@@ -1061,7 +925,6 @@ PUNCT	"	"	5
 न	नहीं	PART;NEG
 जा	जा	V;MASC
 सक	सकै	FEM;V;HAB;PRS;SG
-।	।	_
 
 रात	रात	N;3;FEM;SG
 का	कूँ	ADP;ACC;SG;MASC
@@ -1070,7 +933,6 @@ PUNCT	"	"	5
 पी	पीकैं	PL;V;MASC;HAB;FORM;PRS
 सो	सो	V;SG
 गए	गए	PL;V;MASC;PFV;PST
-।	।	_
 
 मैं	मेरी	3;FEM;PRO;SG
 एक	एक	NUM
@@ -1080,7 +942,6 @@ PUNCT	"	"	5
 अाँख	अाँख	N;3;FEM;SG
 न	नहीं	PART;NEG
 लग	लगी	FEM;V;PFV;PST;SG
-।	।	_
 
 सवेरौ	सवेरे	N;3;SG;MASC
 चार	चार	PL;NUM
@@ -1090,11 +951,9 @@ PUNCT	"	"	5
 जी	जी	PART;3;MASC;FORM;SG
 चपरासी	चपरासी	N;3;SG;MASC
 उठ	उठे	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 जगल	जगल	N;3;SG;MASC
 गए	गए	PL;V;MASC;FORM;PFV;PST
-।	।	_
 
 कुआं	कुआं	N;3;SG;MASC
 पै	पै	ADP
@@ -1104,7 +963,6 @@ PUNCT	"	"	5
 राम	राम	PROPN;3;MASC;FORM;SG
 जप	जपते	V;SG;FORM;MASC
 आ	आए	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 वे	वे	3;MASC;FORM;SG;PRO
 तेल	तेल	N;3;SG;MASC
@@ -1119,14 +977,12 @@ PUNCT	"	"	5
 पाठ	पाठ	3;V;FEM;SG
 कर	करबे	V;SG;FORM;MASC
 लग	लगे	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 वे	वे	3;MASC;FORM;SG;PRO
 कम	कम	ADJ
 पढ़	पढ़े	V;SG;FORM;MASC
 लिख	लिखे	V;SG;FORM;MASC
 ए	हे	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 जो	जो	PRO
 भजन	भजन	N;3;SG;MASC
@@ -1137,7 +993,6 @@ PUNCT	"	"	5
 में	में	ADP
 लिख	लिख	V;SG;MASC
 ले	लेते	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 वा	वाई	3;DET;MASC
 पोथी	पोथी	N;3;FEM;SG
@@ -1147,7 +1002,6 @@ PUNCT	"	"	5
 दो	दो	PL;NUM
 दोहा	दोहा	N;3;SG;MASC
 पढ़	पढ़े	PL;V;MASC;FORM;PFV;PST
-।	।	_
 
 बिन	बिन्नैं	3;MASC;FORM;SG;PRO
 यह	यह	DET
@@ -1166,7 +1020,6 @@ PUNCT	"	"	5
 है	ही	PART
 तेज	तेज	N;MASC
 है	ही	FEM;V;PFV;PST;SG
-।	।	_
 
 दो	दो	PL;NUM
 बार	बार	N
@@ -1178,7 +1031,6 @@ PUNCT	"	"	5
 कठ	कठ	V;SG
 है	है	V;SG;MASC
 जातौ	जातौ	INFM;V;MASC;PFV;SG
-।	।	_
 
 मैं	मोय	INFM;1;MASC;SG;PRO
 सैकरा	सैकरान	PL;NUM
@@ -1187,7 +1039,6 @@ PUNCT	"	"	5
 तरियाँ	तरियाँ	N
 याद	याद	V;SG
 भए	भए	PL;V;MASC;PFV;PST
-।	।	_
 
 सबेरे	सबेरे	N;3;SG;MASC
 मैं	मेरी	INFM;3;MASC;SG;PRO
@@ -1196,13 +1047,11 @@ PUNCT	"	"	5
 स्वॉत	स्वॉत	N;SG;3
 पर	पर	V;SG;MASC
 गई	गई	FEM;V;PFV;PST;SG
-।	।	_
 
 सूर	सूर	N;3;MASC
 काँटा	काँटे	PL;N;3;MASC
 निकास	निकास	V;SG;MASC
 दिए	दिए	PL;FEM;V;PFV;PST
-।	।	_
 
 तेल	तेल	N;3;SG;MASC
 लगा	लगाय	V;MASC;HAB;PRS;SG
@@ -1210,7 +1059,6 @@ PUNCT	"	"	5
 मैं	मैं	INFM;1;MASC;SG;PRO
 नवहा	नवहाय	PRS;V;SG;MASC
 दियौ	दियौ	V;MASC;PFV;PST;SG
-।	।	_
 
 जब	जब	3;MASC;FORM;SG;PRO
 तसल्ली	तसल्ली	N;3;FEM;SG
@@ -1233,18 +1081,15 @@ PUNCT	"	"	5
 अर्थ	अर्थ	N;3;SG;MASC
 जान	जानौ	V;MASC;FORM;PFV;PST;SG
 का	का	PRO
-?	?	_
 
 वे	वे	PL;3;MASC;FORM;PRO
 का	कौनसे	PL;PRO;MASC
 देव	देवता	3;MASC;FORM;N;SG
 का	के	PL;ADP;ACC;MASC
 है	हैं	PL;PROG;V;MASC;FORM;PRS
-?	?	_
 
 वे	वे	3;MASC;FORM;SG;PRO
 बोल	बोले	V;MASC;FORM;PFV;PST;SG
--	-	_
 भैया	भैया	3;MASC;FORM;N;SG
 मैं	मोय	INFM;1;MASC;SG;PRO
 कछू	कछू	PRO
@@ -1264,7 +1109,6 @@ PUNCT	"	"	5
 का	के	NOM;ADP;SG;MASC
 तो	तो	PART
 है	हुंगे	PL;V;MASC;FORM;PFV;PRS
-?	?	_
 
 अब	अब	ADV
 रोज	रोज	N
@@ -1272,13 +1116,11 @@ PUNCT	"	"	5
 पाठ	पाठ	N;3;SG;MASC
 कर	कर	V;SG;MASC
 ले	लऊँ	INFM;V;MASC;HAB;PRS;SG
-।	।	_
 
 मैं	मैनैं	1;SG;PRO;MASC
 बिन	बिनकौ	3;MASC;FORM;SG;PRO
 अर्थ	अर्थ	N;3;SG;MASC
 समझ	समझायौ	V;MASC;FORM;PFV;PRS;SG
-।	।	_
 
 एक	एक	N;3;SG;MASC
 तो	तो	CONJ
@@ -1291,23 +1133,18 @@ PUNCT	"	"	5
 श्रृंगार	श्रृंगार	N;3;SG;MASC
 का	कौ	ADP;ACC;SG;MASC
 ए	हौ	INFM;V;MASC;PFV;PST;SG
-।	।	_
 
 बिन	बिन्नै	3;MASC;FORM;SG;PRO
 अर्थ	अर्थ	N;3;SG;MASC
 समझ	समझौ	V;MASC;FORM;PFV;PST;SG
 तौ	तौ	CONJ
 बोल	बोले	V;MASC;FORM;PFV;PST;SG
--	-	_
 राम	राम	PROPN;3;MASC;FORM;SG
--	-	_
 राम	राम	PROPN;3;MASC;FORM;SG
-।	।	_
 
 पल्लैं	पल्लैं	N;3;SG;MASC
 पर	पर	ADP
 गऔ	गई	FEM;V;PFV;PRS;SG
-।	।	_
 
 हम	हम	1;MASC;FORM;SG;PRO
 तौं	तौं	ADP
@@ -1315,7 +1152,6 @@ PUNCT	"	"	5
 है	ही	PART
 मान	मानै	V;SG;MASC
 ए	हे	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 अब	अब	ADV
 ना	ना	PART;NEG
@@ -1323,7 +1159,6 @@ PUNCT	"	"	5
 कर	करिंगे	V;MASC;FORM;PROSP;FUT;SG
 मैं	मैंनै	1;SG;PRO;MASC
 कह	कही	FEM;V;PFV;PST;SG
--	-	_
 असल	असली	ADJ;FEM
 भजन	भजन	N;3;SG;MASC
 तौ	तौ	PART
@@ -1340,16 +1175,13 @@ PUNCT	"	"	5
 पूरौ	पूरौ	V;SG;MASC
 न	नहीं	PART;NEG
 है	होयगौ	V;MASC;PROSP;FUT;SG
-।	।	_
 
 वे	वे	3;MASC;FORM;SG;PRO
 बोल	बोले	V;MASC;FORM;PFV;PRS;SG
--	-	_
 अच्छा	अच्छौ	ADJ;SG;MASC
 तौ	तौ	PART
 न	नहीं	PART;NEG
 छोडि	छोडिंगे	V
-।	।	_
 
 ऐसौ	ऐसे	SG;DET;MASC
 ए	हे	PL;V;MASC;FORM;PFV;PST
@@ -1357,7 +1189,6 @@ PUNCT	"	"	5
 भगत	भगत	3;MASC;FORM;N;SG
 पुराने	पुराने	PL;ADJ;MASC
 लोग	लोग	PL;N;3;MASC
-।	।	_
 
 राष्ट्	राष्ट्रीय	ADJ;FORM;FEM
 लेख	लेखिका	N;3;SG;MASC
@@ -1368,52 +1199,39 @@ PUNCT	"	"	5
 सायं	सायं	N;3;FEM;SG
 3	3	PL;NUM
 बज	बजे	PL;N;MASC
-'	'	_
 ब्रजभाषा	ब्रजभाषा	PROPN;3;FEM;SG
 काव्य	काव्य	PROPN;SG;MASC
 गोष्ठी	गोष्ठी	PROPN;3;FEM;SG
-'	'	_
 का	कौ	NOM;ADP;SG;MASC
 आयोजन	आयोजन	V;SG;MASC
 कर	करौ	V;SG;MASC
 गयौ	गयौ	V;MASC;PFV;PST;SG
-।	।	_
 
 जामिं	जामें	SG;PRO
 पधार	पधारे	V
 श्री	श्री	N;3;SG;MASC
 श्यामसुन्दर	श्यामसुन्दर	PROPN;3;SG;MASC
 अकिंचन	अकिंचन	PROPN;3;SG;MASC
-,	,	_
 डॉ.	डॉ.	N;SG;3
 सीता	सीता	PROPN;3;FEM;SG
 शर्मा	शर्मा	PROPN;SG;3
-,	,	_
 डॉ.	डॉ.	N;SG;3
 रेखा	रेखा	PROPN;3;FEM;SG
 गुप्ता	गुप्ता	PROPN;SG;3
-,	,	_
 श्रीमती	श्रीमती	N;3;FEM;SG
 सुशीला	सुशीला	PROPN;3;SG;MASC
 शील	शील	PROPN;SG;3
-,	,	_
 श्री	श्री	N;3;SG;MASC
 वरुण	वरुण	PROPN;3;SG;MASC
 चतुर्वेदी	चतुर्वेदी	PROPN;SG;3
-,	,	_
 हरिओम	हरिओम	PROPN;3;SG;MASC
-'	'	_
 हरि	हरि	PROPN;3;SG;MASC
-'	'	_
-,	,	_
 श्रीमती	श्रीमती	N;3;FEM;SG
 चेतना	चेतना	PROPN;3;SG;MASC
 शर्मा	शर्मा	PROPN;SG;3
-,	,	_
 श्री	श्री	N;3;SG;MASC
 विट्ठल	विट्ठल	PROPN;3;SG;MASC
 पारीक	पारीक	PROPN;SG;3
-,	,	_
 श्री	श्री	N;3;SG;MASC
 भूपेन्द्र	भूपेन्द्र	PROPN;3;SG;MASC
 भरतपुरी	भरतपुरी	PROPN;SG;3
@@ -1431,7 +1249,6 @@ PUNCT	"	"	5
 मंत्रमुग्ध	मंत्रमुग्ध	ADJ;SG
 कर	कर	V;SG;MASC
 दियौ	दियौ	V;MASC;FORM;PFV;PRS;SG
-।	।	_
 
 जा	जा	SG;DET
 गोष्ठी	गोष्ठी	N;3;FEM;SG
@@ -1442,7 +1259,6 @@ PUNCT	"	"	5
 भरतपुरी	भरतपुरी	PROPN;3;SG;MASC
 ने	नैं	ADP
 कियौ	कियौ	V;MASC;PFV;PST;SG
-।	।	_
 
 आज	आज	N
 ते	ते	ADP
@@ -1467,14 +1283,12 @@ PUNCT	"	"	5
 मे	मेरे	1;SG;PRO;MASC
 संग	संग	ADP
 ए	हे	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 वे	वे	3;MASC;FORM;SG;PRO
 मेरा	मेरे	1;MASC;FORM;SG;PRO
 साडू	साडू	N;3;SG;MASC
 भैया	भैया	3;MASC;FORM;N;SG
 ए	हे	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 सब	सबरी	ADJ;FEM
 बरात	बरात	N;SG;MASC
@@ -1483,7 +1297,6 @@ PUNCT	"	"	5
 कोट	कोट	N;SG;MASC
 पेंट	पेंट	N;FEM;SG
 वारे	वारे	PL;ADP;MASC
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 और	और	CONJ
@@ -1492,7 +1305,6 @@ PUNCT	"	"	5
 धोती	धोती	N;3;FEM;SG
 कुरता	कुरता	N;3;SG;MASC
 वारे	वारे	PL;ADP;MASC
-।	।	_
 
 सब	सब	PL;N;3
 हम	हमें	PL;1;PRO;MASC
@@ -1501,14 +1313,12 @@ PUNCT	"	"	5
 तरै	नाँई	ADP
 देख	देख	V;SG;MASC
 रह	रहे	PL;V;MASC;FORM;PFV;PST
-।	।	_
 
 हम	हम	PL;1;MASC;FORM;PRO
 अपऔ	अपनी	FORM;FEM;PRO;SG
 मस्त	मस्ती	N;3;FEM;SG
 में	में	ADP
 मस्त	मस्त	ADJ;SG;MASC
-।	।	_
 
 एक	एक	NUM
 बडे	बडे	ADJ;MASC
@@ -1517,7 +1327,6 @@ PUNCT	"	"	5
 सब	सबरी	PL;ADJ;3
 बरात	बरात	PL;N;1;MASC
 समा	समागई	PL;V;MASC;FORM;PFV;PST
-।	।	_
 
 बगल	बगल	N;SG
 में	में	ADP
@@ -1526,14 +1335,12 @@ PUNCT	"	"	5
 बड़ौ	बड़ौ	ADJ;SG;MASC
 कमरा	कमरा	N;3;SG;MASC
 ए	हौ	V;MASC;PFV;PST;SG
-।	।	_
 
 हम	हम	PL;1;MASC;FORM;PRO
 दुएै	दोनों	PL;NUM
 बा	बामें	3;PRO
 लेट	लेट	V;SG;MASC
 गऔ	गए	PL;V;MASC;FORM;PFV;PRS
-।	।	_
 
 आगरा	आगरे	PROPN;3;SG;MASC
 का	के	PL;ADP;ACC;MASC
@@ -1543,7 +1350,6 @@ PUNCT	"	"	5
 में	में	ADP
 आ	आवै	PL;V;FORM;MASC
 ए	हे	PL;V;MASC;FORM;PFV;PST
-।	।	_
 
 झाँक	झाँक	V;SG;MASC
 कैं	कैं	V;SG;MASC
@@ -1556,7 +1362,6 @@ PUNCT	"	"	5
 चल	चले	PL;V;MASC
 जा	जावै	PL;V;MASC;FORM;PFV;PST
 ए	हे	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 को	कोउ	SG;DET
 हम	हमारे	PL;1;MASC;FORM;PRO
@@ -1567,13 +1372,11 @@ PUNCT	"	"	5
 जरूर	जरूर	ADV
 कर	कर	V;SG;MASC
 जा	जाते	PL;V;MASC;FORM;PFV;PST
-।	।	_
 
 दूसरे	दूसरे	NUM;MASC
 दिन	दिना	N;3;SG;MASC
 बढ़ार	बढ़ार	N;3;SG;MASC
 ए	ही	FEM;V;PFV;PST;SG
-।	।	_
 
 सवेरौ	सवेरे	PL;N;3;MASC
 नास्ता	नास्ता	N;3;SG;MASC
@@ -1581,7 +1384,6 @@ PUNCT	"	"	5
 पाछै	पाछै	ADP
 समाज	समाज	N;3;SG;MASC
 जुर	जुरी	FEM;V;PFV;PST;SG
-।	।	_
 
 बा	बामें	3;SG;PRO;MASC
 एक	एक	NUM
@@ -1609,23 +1411,19 @@ PUNCT	"	"	5
 वारौ	वारौ	3;ADP;SG;MASC
 और	और	DET
 न	नांए	PROSP;PART;FUT;SG
-।	।	_
 
 कासीनाथ	कासीनाथ	PROPN;3;SG;MASC
 जी	जी	N;FORM;MASC
 बिन	बिनकें	3;MASC;FORM;SG;PRO
 पास	पास	N
 बैठ	बैठे	V;MASC;HAB;PST;SG
-।	।	_
 
 विन	विन्नै	3;MASC;FORM;SG;PRO
 कै	कही	FEM;V;PFV;PST;SG
--	-	_
 आप	आप	3;MASC;FORM;SG;PRO
 इन	इनसौं	3;MASC;FORM;SG;PRO
 कविता	कविता	N;3;FEM;SG
 पढ़	पढ़वाइए	FEM;V;HAB;PRS;SG
-।	।	_
 
 हम	हमारे	3;MASC;FORM;SG;PRO
 भाई	भाई	N;3;SG;MASC
@@ -1636,7 +1434,6 @@ PUNCT	"	"	5
 उन	उनकूँ	3;MASC;FORM;SG;PRO
 बुला	बुलाकैं	V;SG;MASC
 ला	लाऊँ	V;MASC;HAB;PRS;SG
-।	।	_
 
 कासीनाथ	कासीनाथ	PROPN;3;SG;MASC
 जी	जी	PART;FORM;MASC
@@ -1648,7 +1445,6 @@ PUNCT	"	"	5
 में	में	ADP
 लै	लै	V;SG;FORM;MASC
 गऔ	गए	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 मैं	मैंनैं	1;SG;PRO;MASC
 देख	देखौ	V;MASC;HAB;PRS;SG
@@ -1660,7 +1456,6 @@ PUNCT	"	"	5
 सँवर	सँवरे	PL;ADJ;MASC
 बैठ	बैठें	PL;HAB;V;MASC
 है	हैं	V;MASC;HAB;FORM;PRS;SG
-।	।	_
 
 टोप	टोप	N;3;SG;MASC
 और	और	CONJ
@@ -1669,34 +1464,27 @@ PUNCT	"	"	5
 लग	लगा	V;SG;MASC
 रख	रखे	PL;PRS;V;MASC
 है	हैं	V;MASC;FORM;PFV;PRS;SG
-।	।	_
 
 मैं	मेरौ	1;SG;PRO;MASC
 परिचै	परिचै	N;3;FEM;SG
 कर	करायौ	V;MASC;PFV;PST;SG
-।	।	_
 
 श्री	श्री	PART;FORM;MASC
 प्रिन्सीपल	प्रिन्सीपल	N;3;SG;MASC
 साहब	साहब	PART;3;MASC;FORM;SG
 बोल	बोले	V;MASC;HAB;PRS;SG
--	-	_
 आप	आप	3;MASC;FORM;SG;PRO
 कविता	कविता	N;3;FEM;SG
 पढ़	पढ़ौ	V;MASC;HAB;PRS;SG
 का	का	PRO
-?	?	_
 
 मैं	मैंनै	1;MASC;FORM;SG;PRO
 विनम्र	विनम्रता	ADV;MASC
 सौं	सौं	ADP
 कह	कही	FEM;V;PFV;PRS;SG
--	-	_
 हाँ	हाँ	N;POS
 कब	कबहू	PRO
--	-	_
 कब	कबहू	PRO
-।	।	_
 
 प्रिन्सीपल	प्रिन्सीपल	N;3;SG;MASC
 साहब	साहब	PART;3;MASC;FORM;SG
@@ -1712,7 +1500,6 @@ PUNCT	"	"	5
 अच्छौ	अच्छी	ADJ;FEM
 कविता	कविता	N;3;FEM;SG
 पढ़	पढ़ै	V;MASC;HAB;PRS;SG
-।	।	_
 
 वे	वे	3;MASC;FORM;SG;PRO
 मैं	मोते	1;SG;PRO;MASC
@@ -1723,19 +1510,16 @@ PUNCT	"	"	5
 आप	आप	3;MASC;FORM;SG;PRO
 कविता	कविता	N;3;FEM;SG
 सुन	सुनाए	V;MASC;HAB;FORM;PRS;SG
-।	।	_
 
 मैं	मैं	INFM;1;MASC;SG;PRO
 उन	उनसौं	3;MASC;FORM;SG;PRO
 जिद्द	जिद्द	N;3;FEM;SG
 कर	करतौ	INFM;V;MASC;HAB;PRS;SG
 रह	रह्यौ	INFM;V;MASC;HAB;PRS;SG
--	-	_
 आप	आप	3;MASC;FORM;SG;PRO
 पहलैं	पहलैं	ADV;MASC
 इन	इनसौं	3;MASC;FORM;SG;PRO
 सुन	सुनवाइए	V;MASC;HAB;FORM;PRS;SG
-।	।	_
 
 वे	वे	3;MASC;FORM;SG;PRO
 फिर	फिर	ADV
@@ -1745,15 +1529,11 @@ PUNCT	"	"	5
 तरै	तरियाँ	N
 समझ	समझाबे	V;MASC;HAB;PRS;SG
 लग	लगे	V;MASC;HAB;FORM;PRS;SG
--	-	_
 कविता	कवितान	PL;FEM;3;FORM;N
 में	में	ADP
 वीर	वीर	3;MASC;FORM;N;SG
-,	,	_
 श्रृंगार	श्रृंगार	N;3;SG;MASC
-,	,	_
 करूणा	करूणा	N;3;SG;MASC
-,	,	_
 हास्य	हास्य	N;3;SG;MASC
 आदि	आदि	PART
 रस	रस	N;3;SG;MASC
@@ -1761,7 +1541,6 @@ PUNCT	"	"	5
 आप	आप	3;MASC;FORM;SG;PRO
 कौ	कौनसौ	3;SG;PRO;MASC
 पढ़	पढ़ौ	V;MASC;PROSP;FUT;SG
-?	?	_
 
 मैं	मैंनै	INFM;1;MASC;SG;PRO
 कह	कही	V;MASC;PFV;PRS;SG
@@ -1769,14 +1548,11 @@ PUNCT	"	"	5
 कहा	कहा	PRO
 पसन्द	पसन्द	V;SG;MASC
 है	है	V;MASC;HAB;PRS;SG
-?	?	_
 
 वे	वे	3;MASC;FORM;SG;PRO
 बोल	बोले	V;MASC;PFV;PRS;SG
--	-	_
 वीर	वीर	N;3;SG;MASC
 रस	रस	N;3;SG;MASC
-।	।	_
 
 मैं	मैंनै	INFM;1;MASC;SG;PRO
 काफी	काफी	ADJ
@@ -1787,7 +1563,6 @@ PUNCT	"	"	5
 वे	वे	PL;3;MASC;DET
 बालक	बालक	PL;3;MASC;FORM;N
 सुन	सुनावै	PL;PROG;V;MASC;PRS
-।	।	_
 
 मैं	मोय	INFM;1;MASC;SG;PRO
 पतौ	पतौ	INFM;V;MASC;PRS;SG
@@ -1800,7 +1575,6 @@ PUNCT	"	"	5
 न	नहीं	PART;NEG
 सुन	सुना	V;SG;MASC
 सक	सकिंगे	V;MASC;FORM;PROSP;FUT;SG
-।	।	_
 
 जि	यही	ADJ;FEM
 भयो	भयो	PRS;V;SG
@@ -1815,7 +1589,6 @@ PUNCT	"	"	5
 छन्द	छन्द	N;3;SG;MASC
 पेल	पेल	INFM;V;SG;MASC
 दऔ	दिए	PL;V;MASC;PRS
-।	।	_
 
 सुन	सुनिकै	PROG;V;SG;MASC
 और	और	CONJ
@@ -1824,7 +1597,6 @@ PUNCT	"	"	5
 दंग	दंग	V;SG;MASC
 रह	रह	V;MASC
 गऔ	गए	PL;V;MASC;FORM;PFV;PRS
-।	।	_
 
 फिर	फिर	CONJ
 मैं	मैनैं	INFM;1;MASC;SG;PRO
@@ -1832,7 +1604,6 @@ PUNCT	"	"	5
 सुन	सुनाबे	V;MASC;FORM;PST;SG
 का	की	ADP
 कह	कही	FEM;V;FORM;PFV;PST;SG
-।	।	_
 
 पर	पर	CONJ
 वे	वे	3;MASC;FORM;SG;PRO
@@ -1849,17 +1620,14 @@ PUNCT	"	"	5
 सूँघ	सूँघ	V;SG;MASC
 गऔ	गयो	INFM;V;MASC;PFV;PST;SG
 ए	होय	V;MASC;PFV;PST;SG
-।	।	_
 
 मैं	मैंनैं	INFM;1;MASC;SG;PRO
 प्रिन्सीपल	प्रिन्सीपल	N;3;SG;MASC
 साहब	साहब	PART;3;MASC;FORM;SG
 सौं	सौं	ADP
 कह	कही	FEM;V;PFV;PST;SG
--	-	_
 आप	आपई	3;MASC;FORM;SG;PRO
 सुन	सुनाऔ	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 वे	वे	3;MASC;FORM;SG;PRO
 बोल	बोले	V;MASC;FORM;PFV;PST;SG
@@ -1867,16 +1635,13 @@ PUNCT	"	"	5
 तौ	तौ	PART
 न	नहीं	PART;NEG
 जान	जानते	V;MASC;FORM;PFV;PRS;SG
--	-	_
 हम	हमतो	1;MASC;FORM;SG;PRO
 पढ़	पढ़ाते	PROG;V;MASC;FORM;PST;SG
 है	हैं	PROG;V;MASC;FORM;PRS;SG
-।	।	_
 
 मैं	मैनै	INFM;1;MASC;SG;PRO
 फिर	फिर	ADV
 कह	कही	FEM;V;PFV;PRS;SG
--	-	_
 आप	आप	3;MASC;FORM;SG;PRO
 श्री	श्री	N;FORM;SG;MASC
 गुरू	गुरू	3;MASC;FORM;N;SG
@@ -1897,23 +1662,19 @@ PUNCT	"	"	5
 बहुत	बहुत	ADJ
 लज्जित	लज्जित	V;FEM;SG
 भऔ	भए	FEM;V;FORM;PFV;PRS;SG
-।	।	_
 
 बोल	बोले	V;MASC;FORM;PFV;PST;SG
--	-	_
 आप	आपके	3;MASC;FORM;SG;PRO
 सामनें	सामनें	N
 हम	हम	3;MASC;FORM;SG;PRO
 का	का	PRO
 सुन	सुना	V;SG;MASC
 सक	सकैं	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 आप	आप	3;MASC;FORM;SG;PRO
 तौ	तौ	PART
 सागर	सागर	N;3;SG;MASC
 है	है	V;MASC;FORM;PFV;PRS;SG
-।	।	_
 
 मैं	मैंनै	INFM;1;MASC;SG;PRO
 कह	कही	FEM;V;PFV;PST;SG
@@ -1921,12 +1682,10 @@ PUNCT	"	"	5
 आप	आप	3;MASC;FORM;SG;PRO
 और	और	DET
 सुन	सुनिए	PROG;V;MASC;FORM;PRS;SG
-।	।	_
 
 फिर	फिर	CONJ
 मैं	मैंनैं	INFM;1;MASC;SG;PRO
 50	50	PL;NUM
--	-	_
 60	60	PL;NUM
 कवि	कवित्त	PL;N;3;MASC
 श्रृंगार	श्रृंगार	N;3;SG;MASC
@@ -1934,15 +1693,12 @@ PUNCT	"	"	5
 और	और	DET
 परास	परास	V;SG;MASC
 दऔ	दिए	PL;PROG;V;MASC;PRS
-।	।	_
 
 सुन	सुनिकैं	V;MASC;PFV;PRS;SG
 हक्का	हक्का	ADJ;SG;MASC
--	-	_
 बक्का	बक्का	ADJ;SG;MASC
 रह	रह	PRS;V;SG;MASC
 गऔ	गए	PL;PROG;V;MASC;PRS
-।	।	_
 
 फिर	फिर	CONJ
 तौ	तौ	CONJ
@@ -1961,18 +1717,15 @@ PUNCT	"	"	5
 आवभगत	आवभगत	N;3;SG;MASC
 कर	करबे	PL;V;MASC;HAB;PRS
 लगौ	लगे	PL;PROG;V;MASC;PRS
-।	।	_
 
 बड़ा	बड़ी	ADJ;FEM
 खातिर	खातिर	N;3;FEM;SG
 कर	करी	FEM;V;PFV;PST;SG
-।	।	_
 
 पूरौ	पूरौ	ADJ;SG;MASC
 आगरा	आगरौ	PROPN;3;SG;MASC
 सहर	सहर	N;3;SG;MASC
 दिख	दिखायौ	V;MASC;PFV;PST;SG
-।	।	_
 
 वे	वे	PL;3;MASC;FORM;PRO
 सुन	सुनबे	PL;V;MASC;HAB;PRS
@@ -1984,14 +1737,12 @@ PUNCT	"	"	5
 लिख	लिखवाते	PL;PROG;V;MASC;FORM;PRS
 हू	हू	PART
 रह	रहे	PL;V;MASC;FORM;PFV;PRS
-।	।	_
 
 जि	यह	SG;PRO;MASC
 ए	हो	V;MASC;PFV;PST;SG
 अनजान	अनजाने	ADJ;SG;MASC
 ते	ते	ADP
 टकराव	टकराव	N;3;SG;MASC
-।	।	_
 
 टकराव	टकराव	N;3;SG;MASC
 में	में	ADP
@@ -2003,7 +1754,6 @@ PUNCT	"	"	5
 में	में	ADP
 माल	माल	N;3;SG;MASC
 चाह	चाहिए	V;MASC;HAB;PRS;SG
-।	।	_
 
 अब	अब	ADV;MASC
 सौं	सौं	ADP
@@ -2023,30 +1773,25 @@ PUNCT	"	"	5
 करहैला	करहैला	PROPN;3;SG;MASC
 ग्राम	ग्राम	N;3;SG;MASC
 गऔ	गयौ	INFM;V;MASC;PFV;PST;SG
-।	।	_
 
 बिन	बिन	PL;DET;MASC
 दिना	दिनान	PL;N;3;MASC
 में	में	ADP
 गाड़ी	गाड़ी	N;3;FEM;SG
--	-	_
 बहलीन	बहलीन	PL;N;3;MASC
 सौं	सौं	ADP
 बरात	बरात	N;3;FEM;SG
 जा	जावै	V;FEM;SG
 ए	हो	FEM;V;PFV;PST;SG
-।	।	_
 
 बडौ	बडी	ADJ;FEM
 तैयार	तैयारी	N;3;FEM;SG
 हौ	हौंती	PL;FEM;V;PFV;PST
-।	।	_
 
 नवनीत	नवनीत	PROPN;3;SG;MASC
 जो	जो	3;MASC;FORM;SG;PRO
 का	कौ	NOM;ADP;SG;MASC
 डिबिया	डिबिया	N;3;FEM;SG
--	-	_
 वियोग	वियोग	N;3;SG;MASC
 
 ठंडाई	ठंडाई	N;3;FEM;SG
@@ -2058,41 +1803,31 @@ PUNCT	"	"	5
 लई	लीनी	FEM;V;PFV;PST;SG
 और	और	CONJ
 दो	दो	PL;NUM
--	-	_
 चार	चार	PL;NUM
 जोर	जोर	ADJ;SG;MASC
--	-	_
 जोर	जोर	ADJ;SG;MASC
 का	की	ADP
-'	'	_
 छींक	छींक	N;3;FEM;SG
-'	'	_
 आ	आयीं	PL;FEM;V;HAB;PST
-।	।	_
 
 अखाड़े	अखाड़े	N;3;SG;MASC
 पै	पै	ADP
 पाँड़ेजी	पाँड़ेजी	PROPN;3;MASC;FORM;SG
-,	,	_
 शास्त्री	शास्त्री	PROPN;3;SG;MASC
 जी	जी	PROPN;3;MASC;FORM;SG
-,	,	_
 आचार्य	आचार्य	PROPN;3;MASC;FORM;SG
 लक्ष्मणदत्त	लक्ष्मणदत्त	PROPN;3;SG;MASC
 जी	जी	PROPN;3;MASC;FORM;SG
-,	,	_
 बड़ौ	बड़	ADJ;SG;MASC
 बाबा	बाबा	N;3;SG;MASC
 सब	सब	PL;DET;MASC
 जने	जने	PL;N;3;MASC
 हुलास	हुलास	N;3;SG;MASC
 सूँघ	सूँघते	PL;V;MASC;PFV;PST
-।	।	_
 
 हम	हम	PL;1;MASC;FORM;PRO
 बच्चा	बच्चा	N;3;SG;MASC
 ए	हे	PL;V;MASC;PFV;PST
-,	,	_
 हम	हमें	PL;1;MASC;FORM;PRO
 या	या	DET
 छींक	छींक	N;3;FEM;SG
@@ -2104,7 +1839,6 @@ PUNCT	"	"	5
 हो	होतो	V;MASC;PFV;PST;SG
 और	और	CONJ
 कबू	कबू	ADV
--	-	_
 कबू	कबू	ADV
 हम	हमऊ	PL;1;MASC;FORM;PRO
 हुलास	हुलास	N;3;SG;MASC
@@ -2112,7 +1846,6 @@ PUNCT	"	"	5
 चुटकी	चुटकी	N;3;FEM;SG
 लै	लै	V;SG;MASC
 लेत	लेते	PL;V;MASC;FORM;PFV;PST
-।	।	_
 
 बिन	बिन	3;SG;DET
 दिन	दिनन	PL;N;3;MASC
@@ -2121,7 +1854,6 @@ PUNCT	"	"	5
 बड़ौ	बड़ौ	ADJ;SG;MASC
 प्रचलन	प्रचलन	N;3;SG;MASC
 ए	हो	V;MASC;PFV;PST;SG
-।	।	_
 
 हुलास	हुलास	N;3;SG;MASC
 का	कौ	ADP;ACC;SG;MASC
@@ -2131,25 +1863,20 @@ PUNCT	"	"	5
 माणिकलाल	माणिकलाल	PROPN;3;SG;MASC
 जी	जी	PROPN;3;MASC;FORM;SG
 चतुर्वेदी	चतुर्वेदी	PROPN;3;SG;MASC
-'	'	_
 मालारविन्दम्	मालारविन्दम्	PROPN;3;MASC
-'	'	_
 ते	ते	ADP
 सुन	सुनौ	V;MASC;PFV;PST;SG
-।	।	_
 
 बिन	बिनके	3;MASC;FORM;SG;PRO
 बाबा	बाबा	3;MASC;FORM;N;SG
 ए	हे	V;MASC;FORM;PFV;PST;SG
 नवनीत	नवनीत	PROPN;3;SG;MASC
 जी	जी	PROPN;3;MASC;FORM;SG
-।	।	_
 
 मथुरा	मथुरा	PROPN;3;SG;MASC
 का	के	ADP;ACC;SG;MASC
 प्रसिद्ध	प्रसिद्ध	ADJ;SG;MASC
 कवि	कवि	N;3;SG;MASC
-।	।	_
 
 बाबू	बाबू	PROPN;3;SG;MASC
 जगन्नाथदास	जगन्नाथदास	PROPN;3;SG;MASC
@@ -2159,14 +1886,12 @@ PUNCT	"	"	5
 और	और	CONJ
 प्रशंसक	प्रशंसक	N;3;SG;MASC
 ए	हे	V;MASC;FORM;PFV;PST;SG
-,	,	_
 जब	जब	MASC;CONJ
 कबू	कबू	CONJ
 बिन	बिनके	3;MASC;FORM;SG;PRO
 पास	पास	ADV
 आ	आऔ	V;SG;MASC
 कर	करते	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 नवनीत	नवनीत	PROPN;3;SG;MASC
 जी	जी	PART;3;MASC;FORM;SG
@@ -2185,7 +1910,6 @@ PUNCT	"	"	5
 एक	एक	NUM;SG
 डिबिया	डिबिया	N;3;FEM;SG
 रह	रहती	FEM;V;PFV;PST;SG
-।	।	_
 
 वौ	वौ	3;SG;DET
 अत्यन्त	अत्यन्त	ADJ
@@ -2197,7 +1921,6 @@ PUNCT	"	"	5
 नें	नें	ADP
 दऔ	दीनी	FEM;V;PFV;PST;SG
 ए	ही	FEM;V;PFV;PST;SG
-।	।	_
 
 एक	एक	NUM;SG
 दिन	दिना	N;3;SG;MASC
@@ -2214,7 +1937,6 @@ PUNCT	"	"	5
 का	कों	ADP;MASC;NOM;FORM;SG
 मसखरी	मसखरी	N;3;FEM;SG
 सूझ	सूझी	FEM;V;PFV;PST;SG
-।	।	_
 
 और	और	CONJ
 बिन	बिननें	3;MASC;FORM;SG;PRO
@@ -2229,53 +1951,41 @@ PUNCT	"	"	5
 गायब	गायब	V;SG;MASC
 कर	करया	FEM;V;PFV;PST;SG
 दऔ	दीनी	FEM;V;PFV;PST;SG
-।	।	_
 
 नवनीत	नवनीत	PROPN;3;SG;MASC
 जी	जी	3;MASC;FORM;N;SG
 बेचैन	बेचैन	V;SG;MASC
 है	है	V;SG;MASC
 गऔ	गये	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 चार	चारों	PL;NUM
 तरफ	तरफ	N;3;SG;MASC
-,	,	_
 अगल	अगल	N;FEM;SG
--	-	_
 बगल	बगल	N;FEM;SG
-,	,	_
 आरे	आरे	N;3;SG;MASC
 में	में	ADP
-,	,	_
 ताबारे	ताबारे	N;3;SG;MASC
 में	में	ADP
-,	,	_
 कौने	कौने	N;3;SG;MASC
 में	में	ADP
-,	,	_
 आंतरे	आंतरे	N;3;SG;MASC
 में	में	ADP
-,	,	_
 फिर	फिर	ADV
 ढ़ड़	ढ़ड़	N;3;SG;MASC
 आ	आये	V;MASC;PFV;PST;SG
 फिर	फिर	CONJ
 पूछ	पूछन	V;SG;MASC
 लग	लगें	V;FORM;PFV;PST;SG
--	-	_
 मैं	मेरी	INFM;3;MASC;SG;PRO
 डिबिया	डिबिया	N;3;FEM;SG
 कहां	कहां	PRO;MASC
 चल	चली	FEM;V;PFV;PST;SG
 गऔ	गयी	FEM;V;PFV;PST;SG
-।	।	_
 
 बड़ी	बड़ी	ADJ;FEM;SG
 देर	देर	N;3;FEM;SG
 है	है	V;SG;MASC
 गऔ	गयी	FEM;V;PFV;PST;SG
-,	,	_
 कान	कान	N;3;SG;MASC
 पै	पै	ADP
 जनेऊ	जनेऊ	N;3;SG;MASC
@@ -2283,7 +1993,6 @@ PUNCT	"	"	5
 डिबिया	डिबिया	N;3;FEM;SG
 का	की	ADP;ACC;FEM;SG
 खोज	खोज	N;3;SG;MASC
-।	।	_
 
 डिबिया	डिबिया	N;3;FEM;SG
 तौ	तौ	CONJ
@@ -2304,22 +2013,17 @@ PUNCT	"	"	5
 अष्टघड़ी	अष्टघड़ी	N;3;FEM;SG
 का	की	ADP;ACC;FEM;SG
 संगिनी	संगिनी	N;3;FEM;SG
-।	।	_
 
 संगिनी	संगिनी	N;3;FEM;SG
 सो	सो	ADP
 संगिनी	संगिनी	N;3;FEM;SG
-।	।	_
 
 डिबिया	डिबिया	N;3;FEM;SG
--	-	_
 संगिनी	संगिनी	N;3;FEM;SG
 होय	होय	FEM;V;PFV;PRS;SG
 या	या	CONJ
 लेख	लेखनी	N;3;FEM;SG
--	-	_
 संगिनी	संगिनी	N;3;FEM;SG
-।	।	_
 
 वा	वा	SG;DET;MASC
 संगिनी	संगिनी	N;3;FEM;SG
@@ -2351,11 +2055,9 @@ PUNCT	"	"	5
 बिन	बिनें	3;MASC;FORM;SG;PRO
 चैन	चैन	N;3;SG;MASC
 कहाँ	कहाँ	PRO
-?	?	_
 
 नंबर	नंबर	N;SG;MASC
 तीन	तीन	NUM
-,	,	_
 मूँड़	मूँड़	N;SG;MASC
 का	के	ADP;ACC;SG;MASC
 बार	बार	PL;N;3;MASC
@@ -2364,7 +2066,6 @@ PUNCT	"	"	5
 और	और	CONJ
 नंबर	नंबर	N;SG;MASC
 चार	चार	NUM
-,	,	_
 मूँड़	मूँड़	N;3;SG;MASC
 पै	पै	ADP
 बार	बार	PL;N;3;MASC
@@ -2375,16 +2076,12 @@ PUNCT	"	"	5
 करम	करम	N;3;SG;MASC
 छूट	छूट	V;SG;MASC
 जा	जांगे	PL;V;MASC;PROSP;FUT
-,	,	_
 मलेच्छ	मलेच्छ	N;3;SG;MASC
 है	है	V;FEM;SG
 जा	जायगौ	V;MASC;PROSP;FUT;SG
-।	।	_
 
 दम्भू	दम्भू	N;3;SG;MASC
-,	,	_
 कम्भू	कम्भू	N;3;SG;MASC
-,	,	_
 मद्दा	मद्दा	N;3;SG;MASC
 और	और	CONJ
 धंसी	धंसी	N;3;SG;MASC
@@ -2395,7 +2092,6 @@ PUNCT	"	"	5
 ते	ते	ADP
 चिड़ी	चिड़ी	N;3;FEM;SG
 निकर	निकारते	PL;V;MASC;FORM;PFV;PST
-।	।	_
 
 बिन	बिनकी	3;MASC;FORM;SG;PRO
 भार	भारी	ADJ;FEM;SG
@@ -2407,7 +2103,6 @@ PUNCT	"	"	5
 हल	हलकौ	ADJ;SG;MASC
 पर	पर	V;SG;MASC
 जात	जातौ	INFM;V;MASC;PFV;PST;SG
-,	,	_
 फिर	फिर	CONJ
 जा	जा	DET;MASC
 दिन	दिना	N;3;SG;MASC
@@ -2418,7 +2113,6 @@ PUNCT	"	"	5
 जि	यै	SG;DET;MASC
 बात	बात	N;3;SG;MASC
 कह	कही	FEM;V;PFV;PST;SG
-,	,	_
 वा	वा	DET;MASC
 दिन	दिना	N;3;SG;MASC
 का	के	ADP;ACC;SG;MASC
@@ -2428,7 +2122,6 @@ PUNCT	"	"	5
 न	नांय	PART;NEG
 कर	करानी	FEM;V;PFV;PST;SG
 परी	परी	FEM;V;PFV;PST;SG
-।	।	_
 
 दत्तजी	दत्तजी	PROPN;3;MASC;FORM;SG
 ते	ते	ADP
@@ -2437,7 +2130,6 @@ PUNCT	"	"	5
 पैलौ	पैलौ	SG;NUM;MASC
 परचौ	परचौ	N;3;SG;MASC
 ए	ओ	INFM;FEM;V;PFV;PST;SG
-।	।	_
 
 सामन	सामन	N;3;SG;MASC
 का	के	PL;ADP;ACC;MASC
@@ -2465,13 +2157,11 @@ PUNCT	"	"	5
 कैंप	कैंप	N;3;SG;MASC
 लग	लगाऔ	V;MASC;PFV;PST;SG
 कर	करते	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 बा	बा	DET;MASC
 कैंप	कैंप	N;3;SG;MASC
 में	में	ADP
 एक	एक	NUM;SG
--	-	_
 दो	दो	PL;NUM
 दम	दम	N;3;SG;MASC
 मैं	मैं	INFM;1;MASC;SG;PRO
@@ -2480,7 +2170,6 @@ PUNCT	"	"	5
 सेवक	सेवक	N;3;SG;MASC
 बन	बनौ	INFM;V;MASC;PFV;PST;SG
 ए	ओ	INFM;V;MASC;PFV;PST;SG
-।	।	_
 
 तब	तभी	CONJ
 बिन	बिनें	3;MASC;FORM;SG;PRO
@@ -2491,7 +2180,6 @@ PUNCT	"	"	5
 तुक	तुकबंदी	N;3;FEM;SG
 कर	कर	V;SG;MASC
 लै	लेओं	INFM;V;MASC;HAB;PRS;SG
-।	।	_
 
 अब	अब	ADV;MASC
 तौ	तौ	CONJ
@@ -2499,7 +2187,6 @@ PUNCT	"	"	5
 धुन	धुन	N;3;FEM;SG
 लग	लगाय	V;SG;MASC
 दऔ	दीनी	FEM;V;FORM;PFV;PST;SG
-।	।	_
 
 वे	वे	3;MASC;FORM;SG;PRO
 मैं	मेरे	INFM;1;MASC;SG;PRO
@@ -2512,7 +2199,6 @@ PUNCT	"	"	5
 कवि	कवित्त	N;3;SG;MASC
 बन	बनामन	PROG;INFM;V;MASC;PRS;SG
 लग	लगौ	PROG;INFM;V;MASC;PRS;SG
-।	।	_
 
 ऐसौ	ऐसी	FEM;DET
 धुन	धुन	N;3;FEM;SG
@@ -2528,14 +2214,12 @@ PUNCT	"	"	5
 बन	बनाय	V;SG;MASC
 का	कें	V;SG;MASC
 सो	सोतों	FEM;V;HAB;PST;SG
-।	।	_
 
 मैं	मैं	INFM;1;MASC;SG;PRO
 और	और	CONJ
 मैं	मेरौ	INFM;1;MASC;SG;PRO
 संगत	संगती	N;3;SG;MASC
 महेन्द्र	महेन्द्र	PROPN;3;SG;MASC
-(	(	_
 जो	जो	INFM;1;MASC;SG;PRO
 पीछौ	पीछे	ADP
 पै	पै	ADP
@@ -2545,7 +2229,6 @@ PUNCT	"	"	5
 ते	ते	ADP
 कविता	कविता	N;3;SG;MASC
 रच	रचतो	INFM;V;MASC;PFV;PST;SG
-,	,	_
 मथुरा	मथुरा	PROPN;3;SG;MASC
 का	के	ADP;ACC;SG;MASC
 कवि	कवि	N;3;SG;MASC
@@ -2554,12 +2237,10 @@ PUNCT	"	"	5
 का	कौ	ADP;ACC;SG;MASC
 बेटा	बेटा	N;3;SG;MASC
 ए	ओ	INFM;V;MASC;PFV;PST;SG
-)	)	_
 बिन	बिनके	3;MASC;FORM;SG;PRO
 घर	घर	N;3;SG;MASC
 जा	जान	PROG;INFM;V;MASC;PRS;SG
 लग	लगे	PL;PROG;V;MASC;FORM;PRS
-।	।	_
 
 विन	विनके	3;MASC;FORM;SG;PRO
 कमरा	कमरा	N;3;SG;MASC
@@ -2577,10 +2258,8 @@ PUNCT	"	"	5
 पै	पै	ADP
 नजर	नजर	ADV;SG;MASC
 जा	जाती	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 अगल	अगल	N;FEM;SG
--	-	_
 बगल	बगल	N;FEM;SG
 का	की	ADP;ACC;FEM;SG
 दीवार	दीवारन	PL;N;3;MASC
@@ -2600,12 +2279,10 @@ PUNCT	"	"	5
 जी	जी	PART;3;MASC;FORM;SG
 का	की	ADP;ACC;FEM;SG
 बड़ौ	बड़ी	ADJ;FEM;SG
--	-	_
 बड़ौ	बड़ी	ADJ;FEM;SG
 तसवीर	तसवीर	N;3;SG;MASC
 लग	लगी	V;FEM;SG
 ए	हीं	V;MASC;PFV;PST;SG
-।	।	_
 
 अलमारी	अलमारी	N;3;FEM;SG
 का	के	PL;ADP;ACC;MASC
@@ -2631,7 +2308,6 @@ PUNCT	"	"	5
 सीसी	सीसी	N;3;FEM;SG
 धर	धरी	V;FEM;SG
 रह	रहतीं	PL;FEM;V;FORM;PFV;PST
-।	।	_
 
 बिन	बिनमें	3;MASC;FORM;SG;PRO
 ते	ते	ADP
@@ -2642,7 +2318,6 @@ PUNCT	"	"	5
 गोली	गोली	N;3;FEM;SG
 ऊ	ऊ	PART
 ए	ई	PL;FEM;V;PFV;PRS
-।	।	_
 
 कवि	कवित्त	N;3;SG;MASC
 सोध	सोधबे	V;MASC;HAB;PRS;SG
@@ -2654,7 +2329,6 @@ PUNCT	"	"	5
 तक	तक	ADP
 लग	लग	V;SG;MASC
 जा	जाते	PL;V;MASC;PST
-,	,	_
 तब	तब	PRO;MASC
 तक	तक	ADP
 हम	हम	PL;3;MASC;FORM;PRO
@@ -2664,7 +2338,6 @@ PUNCT	"	"	5
 उलट	उलटते	PL;V;MASC;FORM;PFV;PST
 और	और	CONJ
 जब	जब	PRO;MASC
--	-	_
 कबू	कबू	PRO;MASC
 बोतल	बोतल	N;3;FEM;SG
 में	में	ADP
@@ -2676,7 +2349,6 @@ PUNCT	"	"	5
 में	में	ADP
 डार	डार	V;SG;MASC
 जात	जाते	V;MASC;PFV;PST;SG
-।	।	_
 
 दत्त	दत्त	PROPN;3;SG;MASC
 जी	जी	3;MASC;FORM;N;SG
@@ -2700,16 +2372,13 @@ PUNCT	"	"	5
 आप	आप	1;MASC;FORM;SG;PRO
 ई	ई	PART
 कर	करते	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 झारू	झारू	N;3;FEM;SG
 बुहार	बुहारी	N;3;FEM;SG
 कपड़ा	कपड़ा	N;3;SG;MASC
--	-	_
 लत्ता	लत्ता	N;3;SG;MASC
 और	और	CONJ
 रसौई	रसौई	N;3;FEM;SG
-।	।	_
 
 हम	हम	PL;3;PRO;MASC
 लोग	लोग	PL;N;3;MASC
@@ -2732,19 +2401,15 @@ PUNCT	"	"	5
 आगौ	आगौ	N;3;SG;MASC
 लै	लै	V;SG;MASC
 लै	लेते	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 रांजा	रांजा	N;3;SG;MASC
 का	की	ADP;ACC;SG;MASC
 ब्यारू	ब्यारू	N;3;FEM;SG
-'	'	_
 फैली	फैली	N;3;FEM;SG
-'	'	_
 का	की	ADP;ACC;SG;MASC
 दुकान	दुकान	N;3;FEM;SG
 पै	पै	ADP
 कर	करते	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 संजा	संजा	N;3;FEM;SG
 का	कों	ADP
@@ -2758,7 +2423,6 @@ PUNCT	"	"	5
 अथांई	अथांई	N;3;FEM;SG
 पै	पै	ADP
 ठहर	ठहरते	V;MASC;FORM;PFV;PST;SG
-,	,	_
 नेंक	नेंक	ADJ;FEM
 देर	देर	N;FEM
 बिसराप्त	बिसराप्त	N;3;SG;MASC
@@ -2778,15 +2442,12 @@ PUNCT	"	"	5
 जा	जायकें	V;SG;MASC
 बैठ	बैठ	V;SG;MASC
 जा	जाते	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 वे	वे	3;MASC;FORM;SG;PRO
 जहाँ	जहाँ	PRO;MASC
 ठहर	ठहरते	V;MASC;FORM;PFV;PST;SG
-,	,	_
 म्हाँ	म्हाँई	N;MASC
 सामाजिक	सामाजिक	ADJ
-,	,	_
 साहित्यिक	साहित्यिक	ADJ
 और	और	CONJ
 राजनैतिक	राजनैतिक	ADJ
@@ -2795,12 +2456,10 @@ PUNCT	"	"	5
 कार्यकता	कार्यकता	N;3;SG;MASC
 विन	विनते	3;MASC;FORM;SG;PRO
 बोल	बोलबे	PL;V;MASC
--	-	_
 बतरा	बतरायबे	PL;V;MASC
 का	कों	ADP
 जुर	जुर	V;SG;MASC
 जा	जाते	PL;V;MASC;FORM;PFV;PST
-।	।	_
 
 सहर	सहर	N;3;SG;MASC
 में	में	ADP
@@ -2809,12 +2468,10 @@ PUNCT	"	"	5
 का	कौ	ADP;ACC;SG;MASC
 कार्यकर्तां	कार्यकर्तां	N;3;SG;MASC
 हो	होय	INFM;V;SG;MASC
-,	,	_
 चांय	चांय	CONJ
 काऊ	काऊ	DET
 बिरादरी	बिरादरी	N;3;FEM;SG
 का	कौ	ADP;ACC
-,	,	_
 दत्त	दत्तजी	PROPN;3;MASC;FORM;SG
 सब	सबते	PL;3;PRO;MASC
 प्रेम	प्रेम	N;3;SG;MASC
@@ -2822,7 +2479,6 @@ PUNCT	"	"	5
 राज	राजी	N;3;FEM;SG
 खूस	खूसी	N;3;FEM;SG
 पूछ	पूछते	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 तुम	तुम	MASC;FORM;2;SG;PRO
 दो	दो	PL;NUM
@@ -2840,20 +2496,16 @@ PUNCT	"	"	5
 ते	ते	ADP
 सुरू	सुरू	N;SG;MASC
 हो	होतो	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 कट्टर	कट्टर	ADJ
 कांग्रेस	कांग्रेसी	N;3;SG;MASC
 ए	हे	PL;V;MASC;FORM;PFV;PST
-,	,	_
 बड़ौ	बड़े	PL;ADJ;MASC
--	-	_
 बड़ौ	बड़े	PL;ADJ;MASC
 नेता	नेतन	PL;N;3;MASC
 ने	ने	ADP
 पिचान	पिचान	N;3;FEM;SG
 ए	ई	FEM;V;FORM;PFV;PST;SG
-,	,	_
 वरधा	वरधा	PROPN;3;SG;MASC
 में	में	ADP
 गांधी	गांधी	PROPN;3;SG;MASC
@@ -2862,7 +2514,6 @@ PUNCT	"	"	5
 संग	संग	ADP
 रह	रहे	V;MASC;FORM;PFV;PST;SG
 ए	ए	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 बूआ	बूआ	N;3;FEM;SG
 नैं	नैं	ADP
@@ -2878,7 +2529,6 @@ PUNCT	"	"	5
 है	ही	PART
 बच्चा	बच्चा	N;3;SG;MASC
 पार	पारे	PL;V;MASC;PFV;PST
-।	।	_
 
 बा	बानैं	INFM;FEM;3;SG;PRO
 अपऔ	अपनी	FEM;PRO;SG
@@ -2889,7 +2539,6 @@ PUNCT	"	"	5
 पै	पै	ADP
 उडेर	उडेर	V;SG;MASC
 दऔ	दई	FEM;V;PFV;PST;SG
-।	।	_
 
 गाँव	गाँव	N;3;SG;MASC
 का	के	PL;ADP;ACC;MASC
@@ -2898,7 +2547,6 @@ PUNCT	"	"	5
 का	कूँ	ADP;ACC;SG;MASC
 घेर	घेरे	V;SG;MASC
 रह	रहते	PL;V;MASC;PFV;PST
-।	।	_
 
 कोऊ	कोऊ	DET
 बच्चा	बच्चा	N;3;SG;MASC
@@ -2909,7 +2557,6 @@ PUNCT	"	"	5
 का	कूँ	ADP
 लेही	लेही	N;3;FEM;SG
 माँग	माँगतौं	INFM;V;MASC;PFV;PST;SG
-।	।	_
 
 कोऊ	कोऊ	DET
 छोरी	छोरी	N;3;FEM;SG
@@ -2922,7 +2569,6 @@ PUNCT	"	"	5
 रंग	रंगीन	ADJ;SG;MASC
 कपरा	कपरा	N;3;SG;MASC
 माँग	माँगती	INFM;FEM;V;PFV;PST;SG
-।	।	_
 
 बुआ	बुआ	N;3;FEM;SG
 सब	सबकी	3;FEM;PRO;SG
@@ -2931,7 +2577,6 @@ PUNCT	"	"	5
 कर	करिकैं	V;MASC;HAB;FORM;PRS;SG
 खुस	खुसी	N;3;FEM;SG
 बटोर	बटोरती	INFM;FEM;V;PFV;PST;SG
-।	।	_
 
 बा	बाके	INFM;FEM;3;SG;PRO
 पास	पास	ADP
@@ -2940,7 +2585,6 @@ PUNCT	"	"	5
 निरास	निरास	ADJ;3;SG;MASC
 न	नाँय	PART;NEG
 हो	होतौ	INFM;V;MASC;PFV;PST;SG
-।	।	_
 
 न	ना	PART;NEG
 कर	करिबौ	V;MASC;HAB;PRS;SG
@@ -2950,7 +2594,6 @@ PUNCT	"	"	5
 है	ही	PART
 न	ना	PART;NEG
 ए	हतौ	V;MASC;PFV;PST;SG
-।	।	_
 
 बूआ	बूआ	N;3;FEM;SG
 नैं	नैं	ADP
@@ -2965,14 +2608,12 @@ PUNCT	"	"	5
 सीख	सीख	V;MASC;HAB;PRS;SG
 लऔ	लियौ	V;MASC;PFV;PST;SG
 ए	हौ	V;MASC;PFV;PST;SG
-।	।	_
 
 या	याते	PRO;MASC
 बु	बु	3;FEM;PRO;SG
 भजन	भजन	N;3;SG;MASC
 गाय	गाय	V;MASC;HAB;PRS;SG
 का	कैं	V;MASC;HAB;PRS;SG
-,	,	_
 रतजगौ	रतजगौ	N;3;SG;MASC
 जग	जगाय	V;MASC;HAB;PRS;SG
 का	कैं	V
@@ -2981,7 +2622,6 @@ PUNCT	"	"	5
 मन	मन	N;3;SG;MASC
 मोह	मोह	V;MASC;HAB;PRS;SG
 लै	लेती	FEM;V;PFV;PST;SG
-।	।	_
 
 बा	बाके	INFM;FEM;3;SG;PRO
 सुरीलौ	सुरीले	ADJ;SG;MASC
@@ -2994,9 +2634,7 @@ PUNCT	"	"	5
 गाँव	गाँव	N;3;SG;MASC
 का	के	PL;ADP;ACC;MASC
 छोटौ	छोटे	PL;3;MASC;FORM;N
--	-	_
 बड़ौ	बड़े	PL;3;MASC;FORM;N
-,	,	_
 जवान	जवान	PL;N;3;MASC
 और	और	CONJ
 बूढ़ौ	बूढ़े	PL;3;MASC;FORM;N
@@ -3004,26 +2642,21 @@ PUNCT	"	"	5
 में	में	ADP
 भर	भर	V;MASC;HAB;PRS;SG
 जा	जाते	PL;V;MASC;FORM;PFV;PST
-।	।	_
 
 धीरें	धीरें	ADV;FEM
--	-	_
 धीरें	धीरें	ADV;FEM
 समै	समै	N;3;SG;MASC
 बीत	बीततौ	V;SG;MASC
 गयौ	गयौ	V;MASC;PFV;PST;SG
-।	।	_
 
 बूआ	बूआ	N;3;FEM;SG
 बुढ़ा	बुढ़ा	ADJ;FEM;SG
 गयौ	गई	INFM;V;MASC;PFV;PST;SG
-।	।	_
 
 भला	भला	PART
 पीस	पीसनौ	N;3;SG;MASC
 कैसैं	कैसैं	PRO;MASC
 पीस	पीसती	INFM;V;MASC;PFV;PST;SG
-।	।	_
 
 बुआ	बुआ	N;3;FEM;SG
 नैं	नैं	ADP
@@ -3034,7 +2667,6 @@ PUNCT	"	"	5
 कब	कबहूँ	FEM;PRO
 बढ़	बढ़ाई	FEM;V;PFV;PST;SG
 न	नाँही	PART;NEG
-।	।	_
 
 या	या	DET
 कारन	कारन	N;3;SG;MASC
@@ -3044,7 +2676,6 @@ PUNCT	"	"	5
 अखर	अखरती	V;MASC;PFV;PST;SG
 न	ना	PART;NEG
 ए	हीं	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 पै	पै	CONJ
 ठालौ	ठाली	ADV;FEM
@@ -3053,7 +2684,6 @@ PUNCT	"	"	5
 न	नाँय	PART;NEG
 रूचौ	रूचै	V;MASC;HAB;PRS;SG
 ए	हौ	V;MASC;PFV;PST;SG
-।	।	_
 
 बूआ	बूआ	N;3;FEM;SG
 बस्ती	बस्ती	N;3;FEM;SG
@@ -3061,12 +2691,10 @@ PUNCT	"	"	5
 बच्चा	बच्चान	PL;N;3;MASC
 का	की	ADP;ACC;FEM;SG
 हार	हारी	N;3;FEM;SG
--	-	_
 बिमार	बिमारी	N;3;FEM;SG
 में	में	ADP
 काम	काम	V;MASC;HAB;PRS;SG
 आ	आती	INFM;FEM;V;PFV;PST;SG
-।	।	_
 
 वा	वा	DET;MASC
 जमानौ	जमाने	N;3;SG;MASC
@@ -3077,7 +2705,6 @@ PUNCT	"	"	5
 हुऔ	हुऔ	V;MASC;HAB;PRS;SG
 कर	करै	V;MASC;HAB;PRS;SG
 ए	हे	PL;V;MASC;PFV;PST
-।	।	_
 
 सयानौ	सयानी	ADJ;FEM;SG
 औरत	औरत	3;V;FEM;SG
@@ -3089,7 +2716,6 @@ PUNCT	"	"	5
 अंजाम	अंजाम	N;3;SG;MASC
 देत	देती	V;MASC;PFV;PST;SG
 ए	हीं	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 बूआ	बूआ	N;3;FEM;SG
 का	कौ	NOM;ADP;SG;MASC
@@ -3102,12 +2728,10 @@ PUNCT	"	"	5
 बड़ौ	बड़ौ	ADJ;SG;MASC
 सहारौ	सहारौ	N;3;SG;MASC
 मिल	मिलतौ	V;MASC;PFV;PST;SG
-।	।	_
 
 बूआ	बूआ	3;FEM;PRO;SG
 साहसी	साहसी	ADJ;FEM;SG
 ए	हती	INFM;FEM;V;PFV;PST;SG
-।	।	_
 
 या	या	DET;MASC
 कारन	कारन	N;SG;MASC
@@ -3117,7 +2741,6 @@ PUNCT	"	"	5
 घबरा	घबराती	FEM;V;HAB;PRS;SG
 न	ना	PART;NEG
 ए	हीं	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 बहुत	बहुतई	ADJ;FEM
 धीरज	धीरज	N;3;SG;MASC
@@ -3126,12 +2749,10 @@ PUNCT	"	"	5
 प्रसव	प्रसव	N;3;SG;MASC
 कर	कराय	V;MASC;HAB;PRS;SG
 दै	देती	INFM;FEM;V;PFV;PST;SG
-।	।	_
 
 गाँव	गाँव	N;3;SG;MASC
 का	के	PL;ADP;ACC;MASC
 लोग	लोग	PL;N;3;MASC
--	-	_
 लुगाई	लुगाई	PL;N;FEM;3
 गरम	गरमी	N;3;FEM;SG
 का	के	PL;ADP;ACC;MASC
@@ -3140,7 +2761,6 @@ PUNCT	"	"	5
 तीरथ	तीरथ	N;3;SG;MASC
 कर	करिबे	V;MASC;HAB;PRS;SG
 जा	जामते	PL;V;MASC;PFV;PST
-।	।	_
 
 बूआ	बूआ	N;3;FEM;SG
 सौं	सौं	ADP
@@ -3148,14 +2768,12 @@ PUNCT	"	"	5
 चल	चलिबे	V;MASC;HAB;PRS;SG
 का	की	ADP
 कह	कहते	V;MASC;PFV;PST;SG
-।	।	_
 
 पै	पै	CONJ
 बूआ	बूआ	N;3;FEM;SG
 कहीं	कहीं	3;FEM;PRO;SG
 न	नाँय	PART;NEG
 जा	जाती	INFM;FEM;V;PFV;PST;SG
-।	।	_
 
 बू	बू	INFM;FEM;3;SG;PRO
 अपऔ	अपने	PL;3;PRO;MASC
@@ -3163,14 +2781,10 @@ PUNCT	"	"	5
 का	कूँ	ADP;ACC;SG;MASC
 है	ही	PART
 पूजा	पूजा	N;3;FEM;SG
--	-	_
 सेवा	सेवा	N;3;FEM;SG
 मान	मानती	INFM;FEM;V;PFV;PST;SG
-।	।	_
 
 कह	कहती	FEM;V;PFV;PST;SG
--	-	_
-'	'	_
 मन	मन	N;3;SG;MASC
 चंगा	चंगा	ADJ;3;SG;MASC
 तौ	तौ	CONJ
@@ -3178,9 +2792,7 @@ PUNCT	"	"	5
 में	में	ADP
 है	ही	PART
 गंगा	गंगा	N;3;FEM;SG
-।	।	_
 
-'	'	_
 काहू	काहू	3;SG;PRO;MASC
 का	कूँ	NOM;ADP;SG;MASC
 बेबात	बेबात	ADJ
@@ -3191,7 +2803,6 @@ PUNCT	"	"	5
 है	ही	PART
 न	ना	PART;NEG
 ए	हौ	V;MASC;PFV;PST;SG
-।	।	_
 
 बू	बू	INFM;FEM;3;SG;PRO
 तौ	तौ	PART
@@ -3204,7 +2815,6 @@ PUNCT	"	"	5
 बन	बनी	FEM;V;HAB;PRS;SG
 रह	रहती	INFM;FEM;V;PFV;PST;SG
 ए	ही	INFM;FEM;V;PFV;PRS;SG
-।	।	_
 
 एक	एक	NUM
 दिन	दिना	N;3;SG;MASC
@@ -3220,16 +2830,13 @@ PUNCT	"	"	5
 बुला	बुलायौ	V;MASC;PFV;PST;SG
 और	और	CONJ
 बोल	बोली	FEM;V;PFV;PST;SG
--	-	_
 लाला	लाला	N;3;SG;MASC
-,	,	_
 आज	आजकल	PL;N;3;MASC
 मै	मेरी	FEM;PRO;SG
 सेहत	सेहत	N;3;SG;MASC
 ठीक	ठीक	ADJ;FEM
 न	नाँय	PART;NEG
 रह	रहै	PROG;FEM;V;PRS;SG
-।	।	_
 
 पतौ	पतौ	V;MASC;HAB;PRS;SG
 न	नाँय	PART;NEG
@@ -3237,7 +2844,6 @@ PUNCT	"	"	5
 जान	जान	N;3;FEM;SG
 छूट	छूट	V;MASC;HAB;PRS;SG
 जा	जाय	FEM;V;PROSP;FUT;SG
-।	।	_
 
 मैं	मेरी	3;FEM;PRO;SG
 मन	मन	N;3;SG;MASC
@@ -3245,7 +2851,6 @@ PUNCT	"	"	5
 साध	साध	N;3;FEM;SG
 जि	जि	FEM;DET
 है	है	V;MASC;PFV;PRS;SG
-,	,	_
 का	कै	CONJ
 मैं	मैं	INFM;FEM;3;SG;PRO
 अपऔ	अपनी	FEM;PRO;SG
@@ -3254,12 +2859,9 @@ PUNCT	"	"	5
 गाँव	गाँव	N;3;SG;MASC
 में	में	ADP;ACC;SG;MASC
 एक	एक	NUM;SG
-'	'	_
 कुआँ	कुआँ	N;3;SG;MASC
-'	'	_
 बन	बनाय	V;MASC;PFV;PRS;SG
 जा	जाऊँ	V;MASC;PFV;PRS;SG
-।	।	_
 
 यासौं	यासौं	PRO
 गरम	गरमी	N;3;FEM;SG
@@ -3270,7 +2872,6 @@ PUNCT	"	"	5
 का	कूँ	NOM;ADP;PL;MASC
 राहत	राहत	N;3;FEM;SG
 मिल	मिलैगी	FEM;V;PROSP;FUT;SG
-।	।	_
 
 गाँव	गाँव	N;3;SG;MASC
 बारौ	बारेन	PL;ADP;MASC
@@ -3281,14 +2882,12 @@ PUNCT	"	"	5
 सहारौ	सहारौ	N;3;SG;MASC
 मिल	मिल	3;V;SG
 जा	जायगौ	V;MASC;PROSP;FUT;SG
-।	।	_
 
 खरचा	खरचा	N;3;SG;MASC
 हो	होयगौ	V;MASC;PROSP;FUT;SG
 बाय	बाय	3;SG;PRO;MASC
 मैं	मैं	3;SG;PRO;MASC
 जुट	जुटाऊँगी	FEM;V;PROSP;FUT;SG
-।	।	_
 
 भले	भले	ADJ;SG;MASC
 आदमी	आदमी	N;3;SG;MASC
@@ -3302,11 +2901,9 @@ PUNCT	"	"	5
 में	में	ADP
 परि	परि	V;MASC;HAB;PRS;SG
 गयौ	गयौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 सोच	सोचिवे	PROG;V;MASC;PRS;SG
 लग	लग्यौ	PROG;V;MASC;PRS;SG
--	-	_
 बुढ़ापौ	बुढ़ापे	N;3;SG;MASC
 में	में	ADP
 बूआ	बूआ	N;3;FEM;SG
@@ -3315,7 +2912,6 @@ PUNCT	"	"	5
 चल	चल	V;SG;MASC
 गयौ	गयौ	V;MASC;PFV;PST;SG
 है	है	V;MASC;PFV;PRS;SG
-।	।	_
 
 बिचारौ	बिचारी	ADJ;FORM;FEM;SG
 दौ	दौ	PL;NUM
@@ -3324,12 +2920,10 @@ PUNCT	"	"	5
 खा	खायवौ	N;3;SG;MASC
 जुट	जुटाय	PROG;V;MASC;PRS;SG
 ले	ले	PROG;V;MASC;PRS;SG
-,	,	_
 जि	जि	DET;MASC
 का	का	PRO
 कम	कम	ADJ;MASC
 है	है	PRS;SG;V;MASC
-?	?	_
 
 पैं	पैं	CONJ
 याकूँ	याकूँ	INFM;FEM;3;SG;PRO
@@ -3339,10 +2933,8 @@ PUNCT	"	"	5
 धुन	धुन	N;3;FEM;SG
 सवार	सवार	V;MASC;PFV;PRS;SG
 ए	ही	PST;FEM;V;SG
-।	।	_
 
 दस	दस	PL;NUM
--	-	_
 बारह	बारह	PL;NUM
 दिन	दिना	N;3;SG;MASC
 बाद	बाद	ADP
@@ -3355,7 +2947,6 @@ PUNCT	"	"	5
 घर	घर	N;3;SG;MASC
 जा	जाय	PROG;V;MASC;PRS;SG
 धमक	धमकी	INFM;V;MASC;PFV;PRS;SG
-।	।	_
 
 भले	भले	ADJ;MASC
 आदमी	आदमी	N;3;SG;MASC
@@ -3365,10 +2956,8 @@ PUNCT	"	"	5
 बड़ौ	बड़ौ	ADJ;MASC
 पछतावौ	पछतावौ	N;3;SG;MASC
 भए	भयौ	V;MASC;PFV;PST;SG
-।	।	_
 
 सोच	सोचौ	PROG;V;MASC;PRS;SG
--	-	_
 जा	जाके	INFM;FEM;3;SG;PRO
 नेह	नेह	N;3;SG;MASC
 सौं	सौं	ADP
@@ -3377,13 +2966,10 @@ PUNCT	"	"	5
 अपऔ	अपनौ	SG;PRO;MASC
 बचपन	बचपन	N;3;SG;MASC
 बिता	बितायौ	V;MASC;PFV;PST;SG
-,	,	_
 छोटौ	छोटे	PL;ADJ;MASC
--	-	_
 मोटौ	मोटे	PL;ADJ;MASC
 काम	काम	N;3;SG;MASC
 कर	करवाये	V;MASC;PFV;PST
-,	,	_
 भजन	भजन	N;3;SG;MASC
 और	और	CONJ
 गीत	गीत	N;3;SG;MASC
@@ -3403,30 +2989,25 @@ PUNCT	"	"	5
 मौं	मौंह	N;3;SG;MASC
 फेर	फेर	V;MASC;PFV;PRS;SG
 लियौ	लियौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 आदमी	आदमी	N;3;SG;MASC
 बोल	बोलौ	PROG;V;MASC;PRS;SG
 बूआ	बूआ	N;3;FEM;SG
-,	,	_
 बा	बा	DET;MASC
 गाँव	गाँव	N;3;SG;MASC
 में	में	ADP
 पानी	पानी	N;3;SG;MASC
 नीच	नीचौ	ADJ;3;SG;MASC
 है	है	V;MASC;PFV;PRS;SG
-।	।	_
 
 या	या	DET
 कारन	कारन	N;3;SG;MASC
 दो	दो	PL;NUM
--	-	_
 ढाई	ढाई	PL;NUM
 हजार	हजार	PL;N;MASC
 रूपया	रूपया	PL;N;3;MASC
 लग	लग	V;SG;MASC
 जा	जावैगौ	V;MASC;PROSP;FUT;SG
-।	।	_
 
 या	या	DET
 कारन	कारन	N;3;SG;MASC
@@ -3435,7 +3016,6 @@ PUNCT	"	"	5
 खींच	खींच	V;SG;MASC
 गया	गयौ	V;MASC;PFV;PST;SG
 ए	हो	INFM;V;MASC;PST;SG
-।	।	_
 
 भले	भले	ADJ;MASC
 आदमी	आदमी	N;3;SG;MASC
@@ -3450,24 +3030,19 @@ PUNCT	"	"	5
 उदासी	उदासी	N;3;FEM;SG
 छाय	छाय	V;SG;MASC
 गई	गई	V;MASC;PFV;PRS;SG
-।	।	_
 
 मन	मन	N;3;SG;MASC
 मे	माँहिं	ADP
 हिसाब	हिसाब	N;3;SG;MASC
 लग	लगाइबे	PROG;V;MASC;PRS;SG
 लग	लगी	PROG;V;MASC;PRS;SG
-।	।	_
 
 पैं	पैं	CONJ
 हिम्मत	हिम्मत	N;3;FEM;SG
 न	नाँय	PART;NEG
 हार	हारी	FEM;V;PFV;PRS;SG
-।	।	_
 
 बोल	बोली	FEM;V;PFV;PRS;SG
-,	,	_
-'	'	_
 कल	कल	N;3;SG;MASC
 भोर	भोर	N;3;SG;MASC
 हो	भये	V;SG;MASC
@@ -3476,12 +3051,9 @@ PUNCT	"	"	5
 मिल	मिलियौं	INFM;V;MASC;PROSP;FUT;SG
 तौ	तौ	PART
 सही	सही	PART
-।	।	_
-'	'	_
 
 अगले	अगले	ADJ;MASC
 दिन	दिना	N;3;SG;MASC
-,	,	_
 भलौ	भलौ	ADJ;SG;MASC
 मानुस	मानुस	N;3;SG;MASC
 बूआ	बूआ	N;3;FEM;SG
@@ -3491,13 +3063,11 @@ PUNCT	"	"	5
 जा	जा	V;MASC;PFV;PRS;SG
 ठाड़ौ	ठाड़ौ	V;MASC;PFV;PRS;SG
 भए	भयौ	PRS;SG;V;MASC
-।	।	_
 
 बूआ	बूआ	N;3;FEM;SG
 नैं	नैं	ADP
 बाकूँ	बाकूँ	INFM;3;MASC;SG;PRO
 बिठा	बिठायौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 बाके	बाके	INFM;3;MASC;SG;PRO
 हाथ	हाथन	PL;N;3;MASC
@@ -3506,7 +3076,6 @@ PUNCT	"	"	5
 पुरानौ	पुरानौ	ADJ;SG;MASC
 डिब्बा	डिब्बा	N;3;SG;MASC
 दियौ	दियौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 डिब्बा	डिब्बा	N;3;SG;MASC
 में	में	ADP
@@ -3517,12 +3086,10 @@ PUNCT	"	"	5
 के	के	PL;ADP;ACC;MASC
 रूपैया	रूपैया	PL;N;3;MASC
 है	हे	PL;V;MASC;PFV;PST
-।	।	_
 
 कछु	कछु	DET
 खेरीज	खेरीज	N;3;FEM;SG
 ए	हती	PL;FEM;V;PFV;PST
-।	।	_
 
 एक	एक	NUM;SG
 बटुआ	बटुआ	N;3;SG;MASC
@@ -3536,7 +3103,6 @@ PUNCT	"	"	5
 की	की	ADP;ACC;FEM;SG
 जंजीर	जंजीर	N;3;FEM;SG
 निकार	निकारी	V;MASC;PFV;PRS;SG
-।	।	_
 
 जि	जि	DET
 गहने	गहने	PL;N;3;MASC
@@ -3549,34 +3115,28 @@ PUNCT	"	"	5
 बाकूँ	बाकूँ	INFM;FEM;3;SG;PRO
 दये	दये	V;MASC;PFV;PRS;SG
 भए	हुगे	PL;V;MASC
-,	,	_
 ऐसौ	ऐसौ	SG;DET;MASC
 अंदाज	अंदाजौ	V;SG;MASC
 भए	भयौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 भले	भले	PL;ADJ;MASC
 मानुस	मानुस	N;3;SG;MASC
 नैं	नैं	ADP
 रूपैया	रूपैया	PL;N;3;MASC
 गिने	गिने	PL;V;MASC;PFV;PRS
-।	।	_
 
 पूरे	पूरे	PL;ADJ;MASC
 नौ	नौ	PL;N
 सौ	सौ	PL;N
 भये	भये	PL;V;MASC;PFV;PRS
-।	।	_
 
 गहने	गहने	PL;N;3;MASC
 हू	हू	PART
 तीन	तीन	PL;N
--	-	_
 चार	चार	PL;N
 सौ	सौ	PL;N
 के	के	PL;ADP;ACC;MASC
 समझ	समझौ	PROG;V;MASC;PRS;SG
-।	।	_
 
 बूढ़ी	बूढ़ी	ADJ;FEM;SG
 बूआ	बूआ	N;3;FEM;SG
@@ -3590,7 +3150,6 @@ PUNCT	"	"	5
 तरियाँ	तरियाँ	N
 ढँगेर	ढँगेर	PROG;V;MASC;PRS;SG
 दई	दई	PRS;V;SG;MASC
-।	।	_
 
 बूआ	बूआ	N;3;FEM;SG
 नैं	नैं	ADP
@@ -3600,7 +3159,6 @@ PUNCT	"	"	5
 अपनी	अपनी	1;FEM;PRO;SG
 इच्छा	इच्छा	N;3;FEM;SG
 दबा	दबाई	PROG;V;MASC;PRS;SG
-।	।	_
 
 एक	एक	NUM
 तौ	तौ	PART
@@ -3626,9 +3184,7 @@ PUNCT	"	"	5
 बू	बू	INFM;3;MASC;SG;PRO
 आधी	आधी	NUM
 फुटी	फुटी	N;3;FEM;SG
-,	,	_
 जैसे	जैसे	ADV;SG;MASC
--	-	_
 तैसे	तैसे	ADV;SG;MASC
 हाथ	हाथ	N;3;SG;MASC
 बढ़ा	बढ़ा	PROG;V;MASC;PRS;SG
@@ -3640,7 +3196,6 @@ PUNCT	"	"	5
 लौट	लौटबौ	V;MASC;PFV;PRS;SG
 भारी	भारी	ADJ;FEM
 पर	परगौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 नीचे	नीचे	N;FEM;SG
 उतरे	उतरे	PROG;V;MASC;PRS;SG
@@ -3650,14 +3205,12 @@ PUNCT	"	"	5
 सुट्याब	सुट्याब	N;3;FEM;SG
 सिरू	सिरू	PROG;V;MASC;PRS;SG
 हैगौ	हैगौ	PROG;V;MASC;PRS;SG
-।	।	_
 
 इ	इ	DET
 पतंग	पतंग	N;3;FEM;SG
 तौ	तौ	PART
 फार	फारई	FEM;V;PFV;PRS;SG
 दई	दई	FEM;V;PFV;PRS;SG
-,	,	_
 पैलें	पैलें	N;SG;MASC
 लूट	लूटी	FEM;V;PFV;PRS;SG
 भए	भई	FEM;V;PFV;PRS;SG
@@ -3665,15 +3218,12 @@ PUNCT	"	"	5
 ऊ	ऊ	PART
 फारि	फारि	FEM;V;PFV;PRS;SG
 दई	दई	FEM;V;PFV;PRS;SG
-।	।	_
 
 कैसी	कैसी	FEM;DET;SG
 गुस्सा	गुस्सा	N;3;SG;MASC
 आ	आई	FEM;V;PFV;PST;SG
-,	,	_
 कितेक	कितेक	FEM;DET
 फूट	फूट	ADJ;SG;MASC
--	-	_
 फूट	फूट	ADJ;SG;MASC
 कें	कें	V;MASC;PFV;PRS;SG
 रो	रोये	PL;V;MASC;PFV;PST
@@ -3685,7 +3235,6 @@ PUNCT	"	"	5
 मैया	मैया	FEM;3;FORM;N;SG
 मरि	मरि	INFM;FEM;V;PFV;PST;SG
 गई	गई	INFM;FEM;V;PFV;PST;SG
-।	।	_
 
 वा	वा	DET;MASC
 दिन	दिना	N;3;SG;MASC
@@ -3696,11 +3245,9 @@ PUNCT	"	"	5
 हाथ	हाथ	N;3;SG;MASC
 न	न	PART;NEG
 लग	लगायौ	V;MASC;PFV;PST;SG
-,	,	_
 भूख	भूखेई	V;MASC;HAB;PRS;SG
 सो	सो	V;MASC;HAB;PRS;SG
 गये	गये	PL;V;MASC;PFV;PST
-।	।	_
 
 दूसरे	दूसरे	NUM;MASC
 दिन	दिना	N;3;SG;MASC
@@ -3729,14 +3276,12 @@ PUNCT	"	"	5
 सो	सो	CONJ
 बाके	बाके	3;SG;PRO;MASC
 हाड़	हाड़	N;3;SG;MASC
--	-	_
 पांस	पांस	N;3;SG;MASC
 टूट	टूट	V;MASC;PFV;PRS;SG
 गये	गये	V;MASC;PFV;PST;SG
 अरु	अरु	CONJ
 बिचारौ	बिचारौ	N;3;SG;MASC
 मर	मरगौ	V;MASC;PFV;PST;SG
-।	।	_
 
 अब	अब	ADV
 हम	हमन्नें	PL;3;MASC;FORM;PRO
@@ -3751,7 +3296,6 @@ PUNCT	"	"	5
 बिन	बिनते	3;MASC;FORM;SG;PRO
 माफी	माफी	N;3;FEM;SG
 मांग	मांगी	FEM;V;PFV;PST;SG
-।	।	_
 
 कान	कान	N;3;SG;MASC
 में	में	ADP
@@ -3762,7 +3306,6 @@ PUNCT	"	"	5
 पतंग	पतंग	N;3;FEM;SG
 नई	नई	PART;NEG
 उड़	उड़ामिंगे	V;MASC;PROSP;FUT;SG
-।	।	_
 
 आज	आज	ADV
 जब	जब	PRO
@@ -3780,7 +3323,6 @@ PUNCT	"	"	5
 मन	मन	N;3;SG;MASC
 न	नाँय	PART;NEG
 कर	करै	PROG;V;MASC;PRS;SG
-।	।	_
 
 परछांइ	परछांइयां	PL;PROPN;FEM;3
 
@@ -3789,7 +3331,6 @@ PUNCT	"	"	5
 कौ	कौ	ADP;ACC;SG;MASC
 दिन	दिना	N;3;SG;MASC
 ए	हतौ	V;MASC;PFV;PST;SG
-।	।	_
 
 सदा	सदा	ADV
 की	की	ADP;FEM
@@ -3801,14 +3342,12 @@ PUNCT	"	"	5
 जाय	जाय	PROG;V;MASC;PRS;SG
 रह्यौ	रह्यौ	V;MASC;PST;SG
 ए	हौ	PST;SG;V;MASC
-,	,	_
 दुपैरी	दुपैरी	N;3;FEM;SG
 कौ	कौ	ADP;ACC;SG;MASC
 एक	एक	NUM
 बजि	बजि	V;MASC;PFV;PRS;SG
 रह्यौ	रह्यौ	V;MASC;PFV;PST;SG
 ए	हौ	PST;SG;V;MASC
-।	।	_
 
 सड़क	सड़क	N;3;FEM;SG
 तौ	तौ	PART
@@ -3828,7 +3367,6 @@ PUNCT	"	"	5
 घूमि	घूमि	PROG;V;MASC;PRS;SG
 रह्यौ	रह्यौ	V;MASC;PFV;PST;SG
 ए	हो	PST;SG;V;MASC
-।	।	_
 
 या	या	DET;MASC
 पाटन	पाटन	N;SG;MASC
@@ -3847,7 +3385,6 @@ PUNCT	"	"	5
 में	में	ADP
 ठन	ठनी	FEM;V;PFV;PST;SG
 ए	ही	PST;SG;V;MASC
-।	।	_
 
 या	या	DET;MASC
 सड़क	सड़क	N;3;FEM;SG
@@ -3858,7 +3395,6 @@ PUNCT	"	"	5
 हाथी	हाथिन	PL;N;3;MASC
 की	की	ADP;ACC;FEM;SG
 होरी	होरी	N;3;FEM;SG
-,	,	_
 अटंडां	अटंडां	N;3;FEM;SG
 की	की	ADP;ACC;FEM;SG
 सवार	सवारी	N;3;FEM;SG
@@ -3868,7 +3404,6 @@ PUNCT	"	"	5
 सवार	सवारी	N;3;FEM;SG
 देख	देखी	FEM;V;PFV;PST;SG
 भए	हुंगी	PST;FEM;V;SG
-।	।	_
 
 सिग	सिगरी	ADJ;FEM
 सोभा	सोभा	N;3;FEM;SG
@@ -3888,26 +3423,21 @@ PUNCT	"	"	5
 जा	जा	V;MASC;PFV;PST;SG
 रह्यौ	रह्यौ	V;MASC;PFV;PST;SG
 ए	हौ	V;MASC;PFV;PST;SG
-।	।	_
 
 सुनसान	सुनसान	ADJ;SG;MASC
 ए	हौ	V;MASC;PFV;PST;SG
-।	।	_
 
 इक्कौ	इक्कौ	N;SG;MASC
--	-	_
 दुक्कौ	दुक्कौ	N;SG;MASC
 या	या	DET;MASC
 माऊँ	माऊँ	N;3;FEM;SG
 ते	ते	ADP
-,	,	_
 बा	बा	SG;DET;MASC
 माऊँ	माऊँ	N;3;FEM;SG
 चलि	चल्यौ	V;MASC;PFV;PST;SG
 जा	जा	V;MASC;PFV;PST;SG
 रह्यौ	रह्यौ	V;MASC;PFV;PST;SG
 ए	हौ	PST;SG;V;MASC
-।	।	_
 
 अजान	अजान	N;3;FEM;SG
 की	की	ADP;ACC;FEM;SG
@@ -3918,16 +3448,13 @@ PUNCT	"	"	5
 बुलन्द	बुलन्दी	N;3;FEM;SG
 पै	पै	ADP
 ए	हती	FEM;V;PFV;PST;SG
-।	।	_
 
 पै	पै	CONJ
 नमाज	नमाजी	N;3;FEM;SG
 नांये	नांये	PART;MASC;PFV;PST;SG
-।	।	_
 
 दस	दस	PL;NUM
 बीस	बीस	PL;NUM
--	-	_
 बीस	बीस	PL;NUM
 कदम	कदमन	PL;N;3;MASC
 की	की	ADP;ACC;FEM;SG
@@ -3940,7 +3467,6 @@ PUNCT	"	"	5
 आ	आय	V;MASC;PFV;PST;SG
 रहे	रहे	PL;V;MASC;PFV;PST
 ए	हे	PL;PST;V;MASC
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 याही	याही	FEM;DET
@@ -3955,7 +3481,6 @@ PUNCT	"	"	5
 दहशत	दहशत	N;3;FEM;SG
 सी	सी	PART;FEM
 ए	हती	V;MASC;PFV;PST;SG
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 खोंयो	खोंयो	PROG;V;MASC;PRS;SG
@@ -3973,18 +3498,13 @@ PUNCT	"	"	5
 कू	कू	PL;ADP;ACC;MASC
 पकर	पकरि	V;MASC;PFV;PRS;SG
 लियौ	लियौ	V;MASC;PFV;PST;SG
-।	।	_
 
 बोलि	बोल्यौ	V;MASC;PFV;PST;SG
-,	,	_
-'	'	_
 मोए	मोए	3;SG;PRO;MASC
 जानत	जानत	PROG;V;MASC;PRS;SG
 है	है	PROG;V;MASC;PRS;SG
 कै	कै	CONJ
 न	नाँय	PART;NEG
-।	।	_
-'	'	_
 
 मैं	मैं	1;SG;PRO;MASC
 तौ	तौ	PART
@@ -3992,13 +3512,11 @@ PUNCT	"	"	5
 में	में	ADP
 आय	आय	V;MASC;PFV;PST;SG
 गयौ	गयौ	V;MASC;PFV;PST;SG
-,	,	_
 कमबख्यत	कमबख्यत	ADJ;SG;MASC
 चीख	चीख	N;3;FEM;SG
 हूं	हूं	PART
 न	नाँय	PART;NEG
 निकस	निकसी	FEM;V;PFV;PST;SG
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 अबै	अबै	N;FEM
@@ -4012,12 +3530,9 @@ PUNCT	"	"	5
 सवाल	सवाल	N;3;SG;MASC
 जड़	जड़	V;MASC;PFV;PRS;SG
 दियौ	दियौ	V;MASC;PFV;PST;SG
-'	'	_
 भूलि	भूलि	V;MASC;PFV;PRS;SG
 गयौ	गयौ	INFM;V;MASC;PFV;PST;SG
 ना	ना	PART;NEG
-?	?	_
-'	'	_
 
 ठिगने	ठिगने	ADJ;SG;MASC
 कद	कद	N;3;SG;MASC
@@ -4027,11 +3542,9 @@ PUNCT	"	"	5
 आदमी	आदमी	N;3;SG;MASC
 दुप्पल	दुप्पल	ADJ;SG;MASC
 टोपी	टोपी	N;3;FEM;SG
-,	,	_
 कुर्ता	कुर्ता	N;3;SG;MASC
 अरु	अरु	CONJ
 तहमद	तहमद	N;3;SG;MASC
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 अवाक	अवाक	V;MASC;PFV;PST;SG
@@ -4041,13 +3554,11 @@ PUNCT	"	"	5
 भूलि	भूलि	V;MASC;PFV;PRS;SG
 गयौ	गयौ	INFM;V;MASC;PFV;PST;SG
 ना	ना	PART;NEG
-?	?	_
 
 अपुन	अपुन	PL;1;PRO;MASC
 गोली	गोली	N;3;FEM;SG
 खैली	खैली	FEM;V;PFV;PST;SG
 कर	करते	PL;V;MASC;PFV;PST
-।	।	_
 
 सुन	सुनकें	V;MASC;PFV;PST;SG
 कछु	कछु	DET
@@ -4055,7 +3566,6 @@ PUNCT	"	"	5
 में	में	ADP
 जी	जी	N;3;SG;MASC
 आ	आयौ	V;MASC;PFV;PST;SG
-।	।	_
 
 पचहतर	पचहतर	PL;NUM
 बरस	बरस	N;3;SG;MASC
@@ -4064,17 +3574,13 @@ PUNCT	"	"	5
 याद	याद	N;3;FEM;SG
 उभर	उभरन	PROG;V;MASC;PRS;SG
 लग	लगीं	PL;PROG;FEM;V;PRS
-।	।	_
 
 मेरे	मेरे	1;SG;PRO;MASC
 म्हों	म्हों	N;3;SG;MASC
 ते	ते	ADP
 निकस	निकस	V;MASC;PFV;PRS;SG
 पर्यौ	पर्यौ	V;MASC;PFV;PRS;SG
-'	'	_
 सकोरिया	सकोरिया	PROPN;3;SG;MASC
-?	?	_
-'	'	_
 
 अरु	अरु	CONJ
 बू	बू	INFM;3;MASC;SG;PRO
@@ -4082,7 +3588,6 @@ PUNCT	"	"	5
 न	नाँय	PART;NEG
 शकूर	शकूर	PROPN;3;SG;MASC
 मुहम्मद	मुहम्मद	PROPN;3;SG;MASC
-।	।	_
 
 मैंने	मैंने	1;SG;PRO;MASC
 सहज	सहज	ADJ;MASC
@@ -4090,20 +3595,15 @@ PUNCT	"	"	5
 सौं	सौं	ADP
 कह्यौ	कह्यौ	V;MASC;PFV;PST;SG
 होवै	होवैगौ	V;MASC;PFV;PST;SG
-,	,	_
 सारौ	सारौ	ADJ;INFM;SG;MASC
 सकोरिया	सकोरिया	PROPN;3;SG;MASC
 बू	बू	INFM;3;MASC;SG;PRO
 मुस्काय	मुस्काय	PROG;V;MASC;PRS;SG
 गयौ	गयौ	INFM;V;MASC;PFV;PST;SG
-,	,	_
 बोल	बोल्यौ	V;MASC;PFV;PST;SG
-'	'	_
 भूल	भूल्यौ	PROG;V;MASC;PRS;SG
 तौ	तौ	PART
 न	नाँय	PART;NEG;MASC;PFV;PST;SG
-।	।	_
-'	'	_
 
 सलाम	सलाम	N;3;FEM;SG
 कर	कर	PROG;V;MASC;PRS;SG
@@ -4118,18 +3618,15 @@ PUNCT	"	"	5
 याद	यादन	PL;N;FEM;3
 में	में	ADP
 उलझत	उलझत	PROG;V;MASC;PRS;SG
--	-	_
 उलझत	उलझत	PROG;V;MASC;PRS;SG
 गन्तव्य	गन्तव्य	N;3;SG;MASC
 की	की	ADP;ACC;FEM;SG
 ओर	ओर	ADP
 बढ़	बढ़	PROG;V;MASC;PRS;SG
 गयौ	गयौ	V;MASC;PFV;PST;SG
-।	।	_
 
 भूल	भूलन	V;MASC;PFV;PRS;SG
 चाह	चाहूं	V;MASC;PFV;PRS;SG
-:	:	_
 भूल	भूल	PROG;V;MASC;PRS;SG
 न	न	PART;NEG
 पाऊँ	पाऊँ	PROG;V;MASC;PRS;SG
@@ -4154,45 +3651,32 @@ PUNCT	"	"	5
 चाब	चाब	N;3;SG;MASC
 लग	लग	PROG;V;MASC;PRS;SG
 गयौ	गयौ	V;MASC;PFV;PST;SG
-।	।	_
 
 मैं	मैंनैं	1;SG;PRO;MASC
 15	15	PL;NUM
--	-	_
 16	16	PL;NUM
 छन्द	छन्द	N;3;SG;MASC
 कंठ	कंठ	V;MASC;PFV;PRS;SG
 कर	कर	V;MASC;PFV;PRS;SG
 लिए	लिए	V;MASC;PFV;PST;SG
-।	।	_
 
 इन	इन	PL;DET;MASC
 छन्द	छन्दन	PL;N;3;MASC
 में	में	ADP
 गनेस	गनेस	PROPN;3;SG;MASC
-,	,	_
 सरस्वती	सरस्वती	PROPN;3;FEM;SG
-,	,	_
 राम	राम	PROPN;3;SG;MASC
-,	,	_
 जानकी	जानकी	PROPN;3;FEM;SG
-,	,	_
 लछमन	लछमन	PROPN;3;SG;MASC
-,	,	_
 हनुमान	हनुमान	PROPN;3;SG;MASC
-,	,	_
 कृष्ण	कृष्ण	PROPN;3;SG;MASC
-,	,	_
 राधिका	राधिका	PROPN;3;FEM;SG
-,	,	_
 शिव	शिव	PROPN;3;SG;MASC
-,	,	_
 भगवती	भगवती	PROPN;3;FEM;SG
 आदि	आदि	PART
 के	के	PL;ADP;ACC;MASC
 छन्द	छन्द	N;3;SG;MASC
 ए	हे	PL;V;MASC;PFV;PST
-।	।	_
 
 एक	एक	NUM;SG
 दिन	दिना	N;3;SG;MASC
@@ -4200,13 +3684,11 @@ PUNCT	"	"	5
 खाट	खाट	N;3;SG;MASC
 पै	पै	ADP
 परौ	परौ	V;MASC;HAB;PST;SG
--	-	_
 परौ	परौ	V;MASC;HAB;PST;SG
 छन्द	छन्दन	PL;N;3;MASC
 कूँ	कूँ	PL;ADP;ACC;MASC
 दुहरा	दुहरा	PROG;V;MASC;PRS;SG
 रहयौ	रहयौ	V;MASC;PFV;PST;SG
-।	।	_
 
 मेरौ	मेरौ	1;SG;PRO;MASC
 भानजौ	भानजौ	N;3;SG;MASC
@@ -4216,7 +3698,6 @@ PUNCT	"	"	5
 कूँ	कूँ	PL;ADP;ACC;MASC
 सुन	सुन	V;MASC;HAB;PRS;SG
 रह्यौ	रह्यौ	V;MASC;PFV;PST;SG
-।	।	_
 
 बू	बू	INFM;3;MASC;SG;PRO
 सौंख	सौंख	PROPN;3;FEM;SG
@@ -4224,7 +3705,6 @@ PUNCT	"	"	5
 रह	रहबे	PROG;V;MASC;PRS;SG
 बारौ	बारौ	ADP;SG;MASC
 हो	हो	PST;SG;V;MASC
-।	।	_
 
 जब	जब	CONJ
 बू	बू	INFM;3;MASC;SG;PRO
@@ -4250,7 +3730,6 @@ PUNCT	"	"	5
 तौ	तौ	CONJ
 कविता	कविता	N;3;FEM;SG
 सुन	सुनवाइंगे	V;MASC;FORM;PROSP;FUT;SG
-।	।	_
 
 कछू	कछू	DET
 दिन	दिना	N;3;SG;MASC
@@ -4258,7 +3737,6 @@ PUNCT	"	"	5
 मैं	मैं	1;SG;PRO;MASC
 सौंख	सौंख	PROPN;3;FEM;SG
 गयौ	गयौ	V;MASC;PFV;PST;SG
-।	।	_
 
 सौंख	सौंख	PROPN;3;FEM;SG
 वारेन	वारेन	PL;N;3;MASC
@@ -4271,7 +3749,6 @@ PUNCT	"	"	5
 प्रोग्राम	प्रोग्राम	N;3;SG;MASC
 रख	रख	PROG;V;MASC;PRS;SG
 लियौ	लियौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 रात	रात	N;3;FEM;SG
 कूँ	कूँ	ADP;ACC;SG;MASC
@@ -4281,12 +3758,10 @@ PUNCT	"	"	5
 तखत	तखत	N;3;SG;MASC
 बिछ	बिछा	V;MASC;PFV;PRS;SG
 दई	दई	FEM;V;PFV;PRS;SG
-,	,	_
 सामई	सामई	ADV;MASC
 जाजुम	जाजुम	N;3;FEM;SG
 बिछ	बिछा	V;MASC;PFV;PRS;SG
 दई	दई	FEM;V;PFV;PRS;SG
-।	।	_
 
 साँझ	साँझ	N;3;FEM;SG
 कूँ	कूँ	ADP;ACC;SG;MASC
@@ -4300,7 +3775,6 @@ PUNCT	"	"	5
 बुलऊआ	बुलऊआ	N;3;SG;MASC
 आ	आ	V;MASC;PFV;PRS;SG
 गयौ	गयौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 मेरे	मेरे	1;SG;PRO;MASC
 पूछ	पूछबे	PROG;V;MASC;PRS;SG
@@ -4315,7 +3789,6 @@ PUNCT	"	"	5
 कविता	कविता	N;3;FEM;SG
 पाठ	पाठ	N;3;SG;MASC
 हो	होयगौ	V;MASC;PROSP;FUT;SG
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 या	या	DET;MASC
@@ -4326,19 +3799,15 @@ PUNCT	"	"	5
 मैं	मैं	1;SG;PRO;MASC
 का	का	SG;PRO;MASC
 सुन	सुनाऊँगौ	V;MASC;PROSP;FUT;SG
-।	।	_
 
 सब	सबन	PL;3;PRO;MASC
 कौ	कौ	ADP;ACC;SG;MASC
 आग्रह	आग्रह	N;1;SG;MASC
-।	।	_
 
 डरते	डरते	ADV;SG;MASC
--	-	_
 डरते	डरते	ADV;SG;MASC
 पहुंच	पहुंच	V;MASC;PFV;PRS;SG
 गयौ	गयौ	V;MASC;PFV;PST;SG
-।	।	_
 
 देख	देखौ	PROG;V;MASC;PRS;SG
 लगभग	लगभग	ADJ
@@ -4348,10 +3817,8 @@ PUNCT	"	"	5
 पै	पै	ADP
 जम	जमे	PL;V;MASC;PFV;PST
 नए	नए	PART;NEG
-।	।	_
 
 5	5	PL;NUM
--	-	_
 6	6	PL;NUM
 कविता	कविता	N;3;FEM;SG
 पाठ	पाठ	N;3;SG;MASC
@@ -4361,7 +3828,6 @@ PUNCT	"	"	5
 पै	पै	ADP
 आसीन	आसीन	PL;FEM;V;PFV;PRS
 ए	हे	PL;PST;V;MASC
-।	।	_
 
 मेरे	मेरे	1;SG;PRO;MASC
 पहुंच	पहुंचते	PROG;V;MASC;PRS;SG
@@ -4369,7 +3835,6 @@ PUNCT	"	"	5
 बड़ी	बड़ी	ADJ;FEM
 आवभगत	आवभगत	N;3;FEM;SG
 कर	करी	V;MASC;PFV;PST;SG
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 कछूआ	कछूआ	N;3;SG;MASC
@@ -4386,7 +3851,6 @@ PUNCT	"	"	5
 पास	पास	ADP
 बैठ	बैठ	PROG;V;MASC;PRS;SG
 गयौ	गयौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 बिन्नै	बिन्नै	3;MASC;FORM;SG;PRO
 जब	जब	ADV
@@ -4399,22 +3863,18 @@ PUNCT	"	"	5
 पहल	पहल	N;3;FEM;SG
 की	की	ADP;ACC;FEM;SG
 कह	कही	FEM;V;PFV;PST;SG
-।	।	_
 
 बिन	बिन्नै	3;MASC;FORM;SG;PRO
 मोपै	मोपै	1;SG;PRO;MASC
 कृपा	कृपा	N;3;FEM;SG
 करी	करी	FEM;V;PFV;PST;SG
-।	।	_
 
 दो	दो	PL;NUM
--	-	_
 दो	दो	PL;NUM
 छन्द	छन्द	N;3;SG;MASC
 सब	सबन	PL;3;PRO;MASC
 नै	नै	ADP
 पढ़	पढ़े	PL;V;MASC;PFV;PST
-।	।	_
 
 अपने	अपने	1;SG;PRO;MASC
 नम्बर	नम्बर	N;3;SG;MASC
@@ -4425,30 +3885,25 @@ PUNCT	"	"	5
 छन्द	छन्द	N;3;SG;MASC
 पढ़	पढ़	PROG;V;MASC;PRS;SG
 दिए	दिए	PL;V;MASC;PFV;PST
-।	।	_
 
 मेरी	मेरी	1;FEM;PRO;SG
 आवाज	आवाज	N;3;FEM;SG
 अच्छी	अच्छी	ADJ;FEM
-।	।	_
 
 सुनि	सुनिकै	V;MASC;PFV;PRS;SG
 स्रोता	स्रोता	N;3;SG;MASC
 तारीफ	तारीफ	N;3;FEM;SG
 कर	करबे	PL;V;MASC;PFV;PST
 लगे	लगे	PL;V;MASC;PFV;PST
-।	।	_
 
 फिर	फिर	CONJ
 दो	दो	PL;NUM
--	-	_
 दो	दो	PL;NUM
 छन्द	छन्द	N;3;SG;MASC
 के	के	NOM;ADP;PL;MASC
 चार	चार	PL;NUM
 दौर	दौर	N;3;SG;MASC
 भए	भए	PL;V;MASC;PFV;PST
-।	।	_
 
 सब	सब	PL;3;DET;MASC
 के	के	PL;ADP;ACC;MASC
@@ -4456,7 +3911,6 @@ PUNCT	"	"	5
 खलास	खलास	PL;PROG;V;MASC;PRS
 है	है	PL;PROG;V;MASC;PRS
 गए	गए	PL;V;MASC;PFV;PST
-।	।	_
 
 बिन्नै	बिन्नै	3;MASC;FORM;SG;PRO
 प्रस्ताव	प्रस्ताव	N;3;SG;MASC
@@ -4464,7 +3918,6 @@ PUNCT	"	"	5
 अब	अब	ADV
 बन्द	बन्द	V;MASC;PFV;PRS;SG
 कर	करौ	PROG;V;MASC;PRS;SG
-।	।	_
 
 चाह	चाह	PROG;V;MASC;PRS;SG
 तौ	तौ	CONJ
@@ -4476,13 +3929,11 @@ PUNCT	"	"	5
 चुप्प	चुप्प	V;MASC;PFV;PST;SG
 साध	साधकैं	V;MASC;PFV;PST;SG
 बैठ	बैठौ	V;MASC;PFV;PST;SG
-।	।	_
 
 पर	पर	CONJ
 स्रोता	स्रोता	N;3;SG;MASC
 नहीं	नहीं	PART;NEG
 माने	माने	PL;V;MASC;PFV;PST
-।	।	_
 
 वे	वे	3;MASC;FORM;SG;PRO
 बोले	बोले	V;MASC;FORM;PFV;PST;SG
@@ -4491,7 +3942,6 @@ PUNCT	"	"	5
 सौ	सौ	ADP
 और	और	N;MASC
 सुन	सुनौं	V;MASC;PFV;PRS;SG
-।	।	_
 
 तब	तब	ADV
 मैं	मैंनैं	1;SG;PRO;MASC
@@ -4501,7 +3951,6 @@ PUNCT	"	"	5
 संग	संग	ADV
 परोस	परोस	PROG;V;MASC;PRS;SG
 दिए	दिए	PL;V;MASC;PFV;PST
-।	।	_
 
 सब	सब	PL;3;DET;MASC
 नैं	नैं	ADP
@@ -4509,19 +3958,16 @@ PUNCT	"	"	5
 वाह	वाह	N;3;FEM;SG
 वाह	वाह	N;3;FEM;SG
 कर	करी	FEM;V;PFV;PST;SG
-।	।	_
 
 पढंत	पढंत	N;3;FEM;SG
 कार्यक्रम	कार्यक्रम	N;3;SG;MASC
 समाप्त	समाप्त	V;MASC;PFV;PST;SG
 भए	भयौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 मेरी	मेरी	1;FEM;PRO;SG
 हूं	हूं	PART
 जान	जान	N;3;FEM;SG
 बच	बची	V;MASC;PFV;PRS;SG
-।	।	_
 
 बिन	बिन्नैं	3;MASC;FORM;SG;PRO
 का	का	PRO;MASC
@@ -4533,7 +3979,6 @@ PUNCT	"	"	5
 और	और	N
 मसालौ	मसालौ	N;3;SG;MASC
 न	नांऔ	NEG;V;MASC;PFV;PST;SG
-।	।	_
 
 वर्तमान	वर्तमान	ADJ;FEM
 केरल	केरल	PROPN;3;SG;MASC
@@ -4555,7 +4000,6 @@ PUNCT	"	"	5
 कैं	कैं	PROG;V;MASC;PRS;SG
 केरल	केरल	PROPN;3;SG;MASC
 पौंहच	पौंहचनौ	PROG;V;MASC;PRS;SG
-,	,	_
 पूरी	पूरी	FEM;DET
 पन्द्रह	पन्द्रह	PL;NUM
 सोलह	सोलह	PL;NUM
@@ -4563,7 +4007,6 @@ PUNCT	"	"	5
 की	की	NOM;ADP;FEM;SG
 यात्रा	यात्रा	N;3;FEM;SG
 ए	ही	FEM;V;PFV;PST;SG
-।	।	_
 
 ह्याँ	ह्याँ	POS;PRO
 उत्तर	उत्तर	N;3;SG;MASC
@@ -4572,7 +4015,6 @@ PUNCT	"	"	5
 दसन	दसन	N;3;SG;MASC
 दुर्लभ	दुर्लभ	ADJ;MASC
 है	हैं	V;MASC;FORM;PFV;PRS;SG
-।	।	_
 
 ऐसे	ऐसे	SG;DET;MASC
 प्रदेस	प्रदेस	N;3;SG;MASC
@@ -4586,7 +4028,6 @@ PUNCT	"	"	5
 भर	भर	PROG;V;MASC;PRS;SG
 देय	देय	PROG;V;MASC;PRS;SG
 है	है	PRS;SG;V;MASC
-।	।	_
 
 अपने	अपने	1;SG;PRO;MASC
 सरकारी	सरकारी	N;3;FEM;SG
@@ -4608,7 +4049,6 @@ PUNCT	"	"	5
 विसै	विसै	3;ADP;SG;MASC
 में	में	ADP
 सुन्यौ	सुन्यौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 आपको	आपको	MASC;FORM;2;SG;PRO
 जन्म	जन्म	N;3;SG;MASC
@@ -4625,7 +4065,6 @@ PUNCT	"	"	5
 परलोक	परलोकवासी	ADJ;FEM
 हो	हो	V;MASC;PFV;PST;SG
 गये	गये	V;MASC;PFV;PST;SG
-।	।	_
 
 स्वाति	स्वाति	PROPN;3;SG;MASC
 तिरुनाल	तिरुनाल	PROPN;3;SG;MASC
@@ -4650,7 +4089,6 @@ PUNCT	"	"	5
 में	में	ADP
 भयौ	भयौ	V;MASC;PFV;PST;SG
 ए	हौ	V;MASC;PFV;PST;SG
-।	।	_
 
 आपके	आपके	MASC;FORM;2;SG;PRO
 कुलदेव	कुलदेव	N;3;SG;MASC
@@ -4658,7 +4096,6 @@ PUNCT	"	"	5
 पद्मनाभ	पद्मनाभ	PROPN;3;SG;MASC
 प्रभु	प्रभु	PROPN;3;SG;MASC
 है	हैं	PROG;V;MASC;FORM;PRS;SG
-।	।	_
 
 बिनकी	बिनकी	FEM;3;FORM;SG;PRO
 छाप	छाप	N;3;FEM;SG
@@ -4669,7 +4106,6 @@ PUNCT	"	"	5
 में	में	ADP
 लग	लगाई	PROG;V;MASC;PRS;SG
 है	है	PRS;SG;V;MASC
-।	।	_
 
 आपके	आपके	MASC;FORM;2;SG;PRO
 पद	पद	N;3;SG;MASC
@@ -4677,16 +4113,13 @@ PUNCT	"	"	5
 वाध्यार	वाध्यार	PROPN;3;SG;MASC
 की	की	ADP;ACC;FEM;SG
 पुस्तक	पुस्तक	N;3;FEM;SG
-'	'	_
 स्वाति	स्वाति	PROPN;3;SG;MASC
 तिरुनाल	तिरुनाल	PROPN;3;SG;MASC
 संगीत	संगीत	PROPN;3;FEM;SG
 कृतित्व	कृतित्व	PROPN;3;SG;MASC
-'	'	_
 में	में	ADP
 प्राप्त	प्राप्त	PROG;V;MASC;PRS;SG
 है	है	PRS;SG;V;MASC
-।	।	_
 
 या	या	DET;MASC
 पुस्तक	पुस्तक	N;3;FEM;SG
@@ -4695,7 +4128,6 @@ PUNCT	"	"	5
 मलयालम	मलयालम	N;3;FEM;SG
 लिपि	लिपि	N;3;FEM;SG
 है	है	PROG;V;MASC;PRS;SG
-।	।	_
 
 अतएव	अतएव	CONJ
 मित्रगण	मित्रगण	PL;N;3;MASC
@@ -4706,8 +4138,6 @@ PUNCT	"	"	5
 में	में	ADP
 लिप्यन्तरन	लिप्यन्तरन	N;3;FEM;SG
 कर	करकै	PROG;V;MASC;PRS;SG
--	-	_
-'	'	_
 केरल	केरल	PROPN;3;SG;MASC
 भारती	भारती	PROPN;3;FEM;SG
 में	में	ADP
@@ -4718,13 +4148,11 @@ PUNCT	"	"	5
 हिन्दी	हिन्दी	PROPN;3;FEM;SG
 के	के	ADP;ACC;SG;MASC
 अग्रदूत	अग्रदूत	PROPN;3;SG;MASC
-'	'	_
 शीर्षक	शीर्षक	N;3;SG;MASC
 ते	ते	ADP
 प्रकासित	प्रकासित	PROG;V;MASC;PRS;SG
 कियौ	कियौ	V;MASC;PFV;PST;SG
 गयौ	गयौ	V;MASC;PFV;PST;SG
-।	।	_
 
 आप	आपकूँ	MASC;FORM;2;SG;PRO
 संगीत	संगीत	N;3;FEM;SG
@@ -4732,7 +4160,6 @@ PUNCT	"	"	5
 अच्छौ	अच्छौ	ADJ;SG;MASC
 ज्ञान	ज्ञान	N;3;SG;MASC
 ए	हौ	PROG;V;MASC;PRS;SG
-।	।	_
 
 अतएव	अतएव	CONJ
 प्रत्येक	प्रत्येक	SG;DET;MASC
@@ -4745,14 +4172,12 @@ PUNCT	"	"	5
 हू	हू	PART
 दियौ	दियौ	PROG;V;MASC;PRS;SG
 है	है	PRS;SG;V;MASC
-।	।	_
 
 पहलें	पहलें	ADV;MASC
 बोयना	बोयना	N;3;FEM;SG
 की	की	ADP;ACC;FEM;SG
 सड़क	सड़क	N;3;FEM;SG
 हो	होयगी	V;MASC;PROSP;FUT;SG
-।	।	_
 
 भैया	भैया	N;3;SG;MASC
 साहब	साहब	3;MASC;FORM;N;SG
@@ -4765,7 +4190,6 @@ PUNCT	"	"	5
 सुन	सुनाऊँगौ	V;MASC;PROSP;FUT;SG
 पर	पर	CONJ
 पीछें	पीछें	ADV
-।	।	_
 
 पहले	पहले	N;SG;MASC
 वो	वो	3;SG;DET;MASC
@@ -4786,7 +4210,6 @@ PUNCT	"	"	5
 बात	बात	N;3;FEM;SG
 सुरू	सुरू	PROG;V;MASC;PRS;SG
 की	कीनी	PROG;FEM;V;PRS;SG
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 पंडित	पंडित	N;3;SG;MASC
@@ -4807,13 +4230,11 @@ PUNCT	"	"	5
 चरण	चरण	N;3;SG;MASC
 बन	बन	PROG;V;MASC;PRS;SG
 जाय	जाय	PROG;V;MASC;PRS;SG
-।	।	_
 
 कह	कहिबे	PROG;V;MASC;PRS;SG
 की	की	ADP;FEM;SG
 जरूरत	जरूरत	N;3;SG;MASC
 न	नांय	PART;NEG;MASC;PRS;SG
-।	।	_
 
 पूरी	पूरी	ADJ;FEM;SG
 वातावरण	वातावरण	N;3;SG;MASC
@@ -4821,7 +4242,6 @@ PUNCT	"	"	5
 सौं	सौं	ADP
 भरि	भरि	V;MASC;PFV;PRS;SG
 गयौ	गयौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 जा	जा	DET;MASC
 बीच	बीच	ADV;FEM
@@ -4835,7 +4255,6 @@ PUNCT	"	"	5
 कहूं	कहूं	ADV;FEM
 चले	चले	V;MASC;PFV;PRS;SG
 गये	गये	V;MASC;PFV;PRS;SG
-।	।	_
 
 बाके	बाके	PRO;MASC
 बाद	बाद	ADP
@@ -4846,7 +4265,6 @@ PUNCT	"	"	5
 सम्मेलन	सम्मेलन	N;3;SG;MASC
 चल	चलतौ	V;MASC;PFV;PST;SG
 रह	रह्यौ	V;MASC;PFV;PST;SG
-।	।	_
 
 हम	हम	PL;3;PRO;MASC
 लोग	लोग	N;3;SG;MASC
@@ -4861,7 +4279,6 @@ PUNCT	"	"	5
 बाद	बाद	ADP
 बम्बई	बम्बई	PROPN;3;SG;MASC
 गये	गये	PL;V;MASC;PFV;PST
-।	।	_
 
 भैया	भैया	N;3;SG;MASC
 साहब	साहब	3;MASC;FORM;N;SG
@@ -4869,7 +4286,6 @@ PUNCT	"	"	5
 अभिभावक	अभिभावक	N;3;SG;MASC
 ए	हे	V;MASC;PFV;PST;SG
 ही	ही	PART
-।	।	_
 
 बिन	बिन	3;SG;PRO;MASC
 के	के	ADP;ACC;SG;MASC
@@ -4882,16 +4298,13 @@ PUNCT	"	"	5
 हमारे	हमारे	PL;3;MASC;FORM;PRO
 आतिथेय	आतिथेय	N;3;SG;MASC
 ए	हे	V;MASC;PFV;PST;SG
--	-	_
 रह	रहिबे	MASC;PFV;N;PRS;SG
 कौं	कौं	ADP;ACC;SG;MASC
 एक	एक	NUM;SG
 फ्लेट	फ्लेट	N;3;SG;MASC
-,	,	_
 घूमबे	घूमबे	MASC;PFV;N;PRS;SG
 कौ	कौ	ADP;ACC;SG;MASC
 मोटरकार	मोटरकार	N;3;FEM;SG
-,	,	_
 भोजन	भोजन	N;3;SG;MASC
 कूँ	कूँ	ADP;ACC;SG;MASC
 रसोइ	रसोइया	N;3;SG;MASC
@@ -4899,7 +4312,6 @@ PUNCT	"	"	5
 पूरौ	पूरौ	ADJ;SG;MASC
 इन्तजाम	इन्तजाम	N;3;SG;MASC
 ए	हो	V;MASC;PFV;PST;SG
-।	।	_
 
 बाहर	बाहर	ADJ
 लौंड्री	लौंड्री	N;3;FEM;SG
@@ -4908,7 +4320,6 @@ PUNCT	"	"	5
 की	की	ADP;ACC;FEM;SG
 दुकान	दुकान	N;3;FEM;SG
 ए	ही	FEM;V;PFV;PST;SG
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 मैले	मैले	PL;ADJ;MASC
@@ -4918,7 +4329,6 @@ PUNCT	"	"	5
 लै	लैकें	PROG;V;MASC;PRS;SG
 चल	चल	PROG;V;MASC;PRS;SG
 दियौ	दियौ	PROG;V;MASC;PRS;SG
-।	।	_
 
 भैया	भैया	N;3;SG;MASC
 साहब	साहब	3;MASC;FORM;N;SG
@@ -4926,20 +4336,16 @@ PUNCT	"	"	5
 टोक	टोक	PROG;V;MASC;PRS;SG
 कें	कें	PROG;V;MASC;FORM;PRS;SG
 पूछ	पूछी	PROG;FEM;V;PRS;SG
--	-	_
 कहाँ	कहाँ	3;SG;PRO;MASC
 चल	चल	PROG;V;MASC;PRS;SG
 दये	दये	PROG;V;MASC;PRS;SG
-?	?	_
 
 मेरी	मेरी	1;FEM;PRO;SG
 उत्तर	उत्तर	N;3;SG;MASC
 सुन	सुनकैं	PROG;V;MASC;PRS;SG
 बोल	बोले	PROG;V;MASC;FORM;PRS;SG
-।	।	_
 
 रूक	रूको	PROG;V;MASC;PRS;SG
-।	।	_
 
 बताओ	बताओ	PROG;V;MASC;PRS;SG
 तुम्हारे	तुम्हारे	2;SG;PRO;MASC
@@ -4948,37 +4354,31 @@ PUNCT	"	"	5
 कपड़ा	कपड़ा	N;3;SG;MASC
 न	नांय	PART;NEG
 है	हैं	PL;PROG;V;MASC;PRS
-?	?	_
 
 और	और	DET
 तौ	तौ	PART
 काम	काम	N;3;SG;MASC
 चल	चल	PROG;V;MASC;PRS;SG
 जा	जाइगौ	V;MASC;PROSP;FUT;SG
-,	,	_
 धोती	धोती	N;3;FEM;SG
 मैल	मैली	ADJ;FEM;SG
 है	है	PROG;V;MASC;PRS;SG
 गई	गई	PROG;V;MASC;PRS;SG
 है	हैं	PL;PROG;V;MASC;PRS
-।	।	_
 
 जा	जाइकें	PROG;V;MASC;FORM;PRS;SG
 बजार	बजार	N;3;SG;MASC
 ते	ते	ADP
 ले	ले	PROG;V;MASC;PRS;SG
 आ	आओ	PROG;V;MASC;FORM;PRS;SG
-।	।	_
 
 पईसा	पईसा	N;3;SG;MASC
 न	ना	PART;NEG
 होय	होय	PROG;V;MASC;PRS;SG
-,	,	_
 तौ	तौ	CONJ
 हम	हमसौं	1;MASC;FORM;SG;PRO
 लै	लै	PROG;V;MASC;PRS;SG
 जा	जाऔ	PROG;V;MASC;PRS;SG
-।	।	_
 
 सजा	सजा	N;3;FEM;SG
 समै	समै	N;3;SG;MASC
@@ -4986,7 +4386,6 @@ PUNCT	"	"	5
 देख	देखकें	PROG;V;MASC;PRS;SG
 मैं	मैंने	1;SG;PRO;MASC
 पूछ	पूछी	PROG;FEM;V;PRS;SG
--	-	_
 च्यौं	च्यौं	PRO
 भैया	भैया	N;3;SG;MASC
 साहब	साहब	3;MASC;FORM;N;SG
@@ -4998,12 +4397,10 @@ PUNCT	"	"	5
 क्यों	क्यों	PRO
 रोक	रोक	PROG;V;MASC;PRS;SG
 दियौ	दियौ	PROG;V;MASC;PRS;SG
-?	?	_
 
 बे	बे	3;MASC;FORM;SG;PRO
 बोल	बोले	PROG;V;MASC;PRS;SG
 देख	देखौ	PROG;V;MASC;FORM;PRS;SG
-,	,	_
 तुम	तुम	2;SG;PRO;MASC
 इतेक	इतेक	FORM;SG;DET;MASC
 बड़े	बड़े	ADJ;FORM;SG;MASC
@@ -5011,7 +4408,6 @@ PUNCT	"	"	5
 के	के	ADP;ACC;MASC;FORM;SG
 अतिथि	अतिथि	N;3;SG;MASC
 ए	हौ	PROG;V;MASC;FORM;PRS;SG
-।	।	_
 
 देख	देखिबे	PROG;V;MASC;PRS;SG
 बारे	बारे	PL;ADP;MASC
@@ -5030,7 +4426,6 @@ PUNCT	"	"	5
 कपड़ा	कपड़ाऊ	PL;N;3;MASC
 न	नांय	PART;NEG
 है	हैं	PL;PROG;V;MASC;PRS
-।	।	_
 
 बिन	बिनें	3;MASC;FORM;SG;PRO
 का	का	PRO
@@ -5046,23 +4441,19 @@ PUNCT	"	"	5
 घूम	घूम	PROG;V;MASC;PRS;SG
 रहे	रहे	PROG;V;MASC;FORM;PRS;SG
 है	हो	V;MASC;FORM;PRS;SG
-।	।	_
 
 जाकें	जाकें	3;MASC;FORM;SG;PRO
 जा	जाऔ	PROG;V;MASC;FORM;PRS;SG
-,	,	_
 बाकी	बाकी	3;SG;PRO;MASC
 इज्जत	इज्जत	N;3;FEM;SG
 कर	करिबौ	PROG;V;MASC;PRS;SG
 सीख	सीखौ	PROG;V;MASC;PRS;SG
-।	।	_
 
 बात	बात	N;3;FEM;SG
 समझ	समझ	PROG;V;MASC;PRS;SG
 में	में	ADP
 आ	आय	PROG;V;MASC;PRS;SG
 गई	गई	PROG;V;MASC;PRS;SG
-।	।	_
 
 अच्छौ	अच्छौ	ADJ;SG;MASC
 आतिथेय	आतिथेय	N;3;SG;MASC
@@ -5070,7 +4461,6 @@ PUNCT	"	"	5
 जितेक	जितेक	SG;PRO;MASC
 जरूरी	जरूरी	ADJ;FEM
 है	है	PRS;SG;V;MASC
-,	,	_
 बाते	बाते	PRO;MASC
 पहलें	पहलें	ADP;SG;MASC
 अच्छौ	अच्छौ	ADJ;SG;MASC
@@ -5080,7 +4470,6 @@ PUNCT	"	"	5
 बहुत	बहुत	ADJ
 जरूरी	जरूरी	ADJ;FEM
 है	है	PRS;SG;V;MASC
-।	।	_
 
 एक	एक	NUM
 बेर	बेर	N
@@ -5099,7 +4488,6 @@ PUNCT	"	"	5
 बना	बना	V;MASC;PFV;PST;SG
 दिये	दिये	V;MASC;FORM;PFV;PST;SG
 गये	गये	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 बे	बे	3;MASC;FORM;SG;PRO
 बरसन	बरसन	PL;N;MASC
@@ -5119,7 +4507,6 @@ PUNCT	"	"	5
 मंत्री	मंत्री	N;3;SG;MASC
 बन	बन	PROG;V;MASC;PRS;SG
 गये	गये	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 बिन	बिननें	3;MASC;FORM;SG;PRO
 अपनी	अपनी	FEM;PRO;SG
@@ -5129,7 +4516,6 @@ PUNCT	"	"	5
 मंत्री	मंत्री	N;3;SG;MASC
 बना	बनाइ	V;MASC;PFV;PST;SG
 दीनौं	दीनौं	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 प्रत्येक	प्रत्येक	SG;DET
@@ -5140,7 +4526,6 @@ PUNCT	"	"	5
 सलाह	सलाह	N;3;FEM;SG
 ते	ते	ADP
 कर	करतौ	V;MASC;PFV;PST;SG
-।	।	_
 
 एक	एक	NUM
 बेर	बेर	N
@@ -5160,7 +4545,6 @@ PUNCT	"	"	5
 कछु	कछु	DET
 उग्रता	उग्रता	V;MASC;PFV;PST;SG
 बरती	बरती	FEM;V;PFV;PST;SG
-।	।	_
 
 अति	अति	N
 बड़ी	बड़ी	ADJ;FEM
@@ -5202,13 +4586,10 @@ PUNCT	"	"	5
 ते	ते	ADP
 जानी	जानी	PROG;FEM;V;PRS;SG
 जायै	जायै	PROG;FEM;V;PRS;SG
-।	।	_
 
 सालबेग	सालबेग	PL;PROPN
-(	(	_
 सोलहवीं	सोलहवीं	PL;NUM
 सदी	सदी	N;FEM
-)	)	_
 संतकवि	संतकवि	N;3;SG;MASC
 ए	हे	V;MASC;FORM;PFV;PST;SG
 इनके	इनके	3;MASC;FORM;SG;PRO
@@ -5221,7 +4602,6 @@ PUNCT	"	"	5
 ब्राह्मण	ब्राह्मण	N;SG;MASC
 कन्या	कन्या	N;3;FEM;SG
 ए	ही	V;MASC;FORM;PFV;PST;SG
-।	।	_
 
 या	या	DET
 प्रकार	प्रकार	N
@@ -5246,7 +4626,6 @@ PUNCT	"	"	5
 पाम	पाम	PL;N;3;MASC
 पसारे	पसारे	PL;PROG;V;MASC;PRS
 है	हैं	PL;V;MASC;FORM;PRS
-।	।	_
 
 हिंदी	हिंदी	PROPN;3;FEM;SG
 साहित्य	साहित्य	N;3;SG;MASC
@@ -5291,7 +4670,6 @@ PUNCT	"	"	5
 निर्देश	निर्देश	N;3;SG;MASC
 न	नाँय	PART;NEG
 मिल	मिलै	PL;PROG;V;MASC;PRS
-।	।	_
 
 जामें	जामें	FEM;DET
 केरल	केरल	PROPN;3;SG;MASC
@@ -5303,12 +4681,10 @@ PUNCT	"	"	5
 देस	देस	N;3;SG;MASC
 कौ	कौ	NOM;ADP;SG;MASC
 अलग	अलग	ADJ
--	-	_
 थलग	थलग	ADJ
 पर्यौ	पर्यौ	PROG;V;MASC;PRS;SG
 प्रदेस	प्रदेस	N;3;SG;MASC
 है	है	PRS;SG;V;MASC
-।	।	_
 
 पाछै	पाछै	N
 तौ	तौ	PART
@@ -5325,7 +4701,6 @@ PUNCT	"	"	5
 प्रतिष्ठित	प्रतिष्ठित	N;3;SG;MASC
 है	है	V;MASC;PFV;PST;SG
 गई	गई	FEM;V;PFV;PST;SG
-।	।	_
 
 मुख्य	मुख्य	ADJ;MASC
 रूप	रूप	N;3;SG;MASC
@@ -5337,7 +4712,6 @@ PUNCT	"	"	5
 रूप	रूप	N;3;SG;MASC
 मिलैं	मिलैं	PROG;V;MASC;PRS;SG
 है	है	PRS;SG;V;MASC
-।	।	_
 
 एक	एक	NUM
 तौ	तौ	PART
@@ -5351,7 +4725,6 @@ PUNCT	"	"	5
 उपदेश	उपदेश	N;3;SG;MASC
 दियौ	दियौ	V;MASC;PFV;PRS;SG
 जाय	जाय	V;MASC;PFV;PRS;SG
-,	,	_
 दूजे	दूजे	NUM;MASC
 वे	वे	PL;3;PRO;MASC
 जिन	जिनमें	PL;3;MASC;FORM;PRO
@@ -5366,7 +4739,6 @@ PUNCT	"	"	5
 मनोरंजन	मनोरंजन	N;3;SG;MASC
 प्रधान	प्रधान	ADJ;MASC
 हौ	हौंय	V;MASC;FORM;PFV;PRS;SG
-।	।	_
 
 आज	आजऊ	ADJ
 प्राचीन	प्राचीनतम	ADJ;FEM
@@ -5378,7 +4750,6 @@ PUNCT	"	"	5
 रूप	रूपन	PL;N;3;MASC
 माँहि	माँहि	ADP
 होय	होय	PROG;V;MASC;PRS;SG
-।	।	_
 
 एक	एक	NUM
 तौ	तौ	PART
@@ -5389,14 +4760,11 @@ PUNCT	"	"	5
 समाज	समाज	N;3;SG;MASC
 माँहि	माँहि	ADP
 श्रुति	श्रुति	N;FEM;SG
--	-	_
 स्मृति	स्मृति	N;FEM;SG
 के	के	ADP;ACC;SG;MASC
 रूप	रूप	N;3;SG;MASC
 माँहि	माँहि	ADP
-PUNCT	"	"	16
 संतरणशील	संतरणशील	ADJ;MASC
-PUNCT	"	"	16
 अर्थात्	अर्थात्	CONJ
 कही	कही	FEM;V;PFV;PRS;SG
 सुन	सुनी	FEM;V;PFV;PRS;SG
@@ -5417,7 +4785,6 @@ PUNCT	"	"	16
 माँहि	माँहि	ADP
 मिलै	मिलै	PL;PROG;V;MASC;PRS
 है	है	PRS;SG;V;MASC
-।	।	_
 
 मुख्य	मुख्य	ADJ
 रूप	रूप	N;3;SG;MASC
@@ -5427,24 +4794,18 @@ PUNCT	"	"	16
 आख्यान	आख्यान	N;3;SG;MASC
 उपाख्यानन	उपाख्यानन	PL;N;3;MASC
 माँहि	माँहि	ADP
-,	,	_
 ब्राह्मण	ब्राह्मण	N;3;SG;MASC
--	-	_
 आरण्यक	आरण्यक	N;3;SG;MASC
--	-	_
 उपनिषद्न	उपनिषद्न	PL;N;3;MASC
 माँहि	माँहि	ADP
-,	,	_
 अरू	अरू	CONJ
 पालि	पालि	PROPN;3;FEM;SG
--	-	_
 प्राकृत	प्राकृत	PROPN;3;FEM;SG
 के	के	ADP;ACC;SG;MASC
 साहित्य	साहित्य	N;3;SG;MASC
 माँहि	माँहि	ADP
 मिल	मिलैं	PL;PROG;V;MASC;FORM;PRS
 है	हैं	PL;V;MASC;FORM;PRS
-।	।	_
 
 इन	इनकौई	PL;3;PRO;MASC
 विकास	विकास	N;3;SG;MASC
@@ -5454,7 +4815,6 @@ PUNCT	"	"	16
 माँहि	माँहि	ADP
 भयौ	भयौ	PROG;V;MASC;PRS;SG
 है	है	PRS;SG;V;MASC
-,	,	_
 जिन	जिनकौ	PL;3;MASC;FORM;PRO
 मिथक	मिथकीय	ADJ;FEM
 रूप	रूपउ	N;3;SG;MASC
@@ -5462,16 +4822,12 @@ PUNCT	"	"	16
 लोकप्रिय	लोकप्रिय	N;SG;MASC
 भयौ	भयौ	PROG;V;MASC;FORM;PRS;SG
 है	है	PRS;SG;V;MASC
-।	।	_
 
 गेल्डनर	गेल्डनर	PROPN;3;SG;MASC
 नैं	नैं	ADP;FORM
 ऋग्वेद	ऋग्वेद	PROPN;3;SG;MASC
-(	(	_
 10	10	NUM
-/	/	_
 95	95	NUM
-)	)	_
 के	के	PL;ADP;ACC;MASC
 सूक्त	सूक्तन	PL;N;3;MASC
 कौं	कौं	PL;ADP;ACC;MASC;FORM
@@ -5479,14 +4835,10 @@ PUNCT	"	"	16
 ई	ई	PART
 कह्यौ	कह्यौ	PROG;V;MASC;PRS;SG
 है	है	PRS;SG;V;MASC
-।	।	_
 
 जाई	जाई	FEM;PRO;SG
-PUNCT	"	"	3
 पुरूरवा	पुरूरवा	PROPN;3;SG;MASC
--	-	_
 उर्वशी	उर्वशी	PROPN;3;FEM;SG
-PUNCT	"	"	7
 सूक्त	सूक्त	N;3;SG;MASC
 के	के	PL;ADP;ACC;MASC
 आख्यान	आख्यान	N;3;SG;MASC
@@ -5495,41 +4847,29 @@ PUNCT	"	"	7
 लै	लैकैं	PROG;V;MASC;FORM;PRS;SG
 कालिदास	कालिदास	PROPN;3;SG;MASC
 नैं	नैं	ADP;FORM
-PUNCT	"	"	16
 विक्रमोर्वशीयम्	विक्रमोर्वशीयम्	PROPN;3;SG;MASC
-PUNCT	"	"	16
 की	की	ADP;ACC;FEM;SG
 रच	रचना	FEM;V;PFV;PST;SG
 कर	करी	V;MASC;PFV;PST;SG
-।	।	_
 
 मुख्यरूप	मुख्यरूप	ADV
 सौं	सौं	ADP
 ऋग्वेद	ऋग्वेद	PROPN;3;SG;MASC
 माँहि	माँहि	ADP
-'	'	_
 अपाला	अपाला	PROPN;3;SG;MASC
--	-	_
 आत्रेयी	आत्रेयी	N;3;FEM;SG
-'	'	_
 ऐतरेय	ऐतरेय	PROPN;3;SG;MASC
 ब्राह्मण	ब्राह्मण	N;3;SG;MASC
 माँहि	माँहि	ADP
-PUNCT	"	"	14
 शुन:	शुन:	PROPN;3;SG;MASC
 शेप	शेप	PROPN;3;SG;MASC
 उपाख्यान	उपाख्यान	N;3;SG;MASC
-,	,	_
 कठोपनिषद्	कठोपनिषद्	PROPN;3;SG;MASC
 माँहि	माँहि	ADP
-PUNCT	"	"	19
-PUNCT	"	"	22
 नचिकेतोपाख्यान	नचिकेतोपाख्यान	PROPN;3;SG;MASC
-PUNCT	"	"	22
 आदि	आदि	PART
 मिल	मिलैं	PL;PROG;V;MASC;PRS
 है	हैं	PL;PRS;V;MASC
-।	।	_
 
 इन	इनमें	PL;PRO;MASC
 गाथा	गाथा	N;3;FEM;SG
@@ -5541,7 +4881,6 @@ PUNCT	"	"	22
 ताँई	ताँई	ADP
 भयौ	भयौ	PROG;V;MASC;PRS;SG
 है	है	PRS;SG;V;MASC
-।	।	_
 
 परवर्ती	परवर्ती	ADJ;FEM;SG
 संस्कृत	संस्कृत	N;3;FEM;SG
@@ -5559,7 +4898,6 @@ PUNCT	"	"	22
 रचना	रचना	N;3;FEM;SG
 भई	भई	PROG;FEM;V;PRS;SG
 है	है	PRS;SG;V;MASC
-।	।	_
 
 बाद	बाद	N
 के	के	PL;ADP;ACC;MASC
@@ -5576,7 +4914,6 @@ PUNCT	"	"	22
 देखि	देखिबे	PROG;V;MASC;PRS;SG
 कूँ	कूँ	ADP
 मिल	मिलैं	PL;V;MASC;PRS
-।	।	_
 
 डॉ.	डॉ.	PROPN;SG;3
 सत्येन्द्र	सत्येन्द्र	PROPN;3;SG;MASC
@@ -5591,46 +4928,37 @@ PUNCT	"	"	22
 भेद	भेद	N;3;SG;MASC
 मान	माने	PL;V;MASC;PFV;PST
 है	हैं	PL;PRS;V;MASC
--	-	_
 1.	1.	NUM;SG
 गाथा	गाथा	N;3;FEM;SG
-,	,	_
 2.	2.	PL;NUM
 पशु	पशु	N;3;SG;MASC
 पच्छी	पच्छिन	PL;N;3;MASC
 की	की	ADP;ACC;FEM;SG
 कथा	कथा	N;3;FEM;SG
-,	,	_
 3.	3.	PL;NUM
 परी	परीन	PL;FEM;3;ACC;N
 की	की	ADP;FEM;SG
 कथा	कथा	N;3;FEM;SG
-,	,	_
 4.	4.	PL;NUM
 बुझौवल	बुझौवल	N;3;SG;MASC
 की	की	ADP;ACC;FEM;SG
 कथा	कथा	N;3;FEM;SG
-,	,	_
 5.	5.	PL;NUM
 साधु	साधु	N;3;SG;MASC
 फकीर	फकीरन	N;3;SG;MASC
 की	की	ADP;ACC;FEM;SG
 कथा	कथा	N;3;SG;MASC
-,	,	_
 6.	6.	PL;NUM
 विक्रम	विक्रम	N;3;SG;MASC
 आदि	आदि	PART
 की	की	ADP;ACC;FEM;SG
 कथा	कथा	N;3;SG;MASC
-,	,	_
 7.	7.	PL;NUM
 मिथक	मिथकीय	ADJ;FEM;SG
 कथा	कथा	N;3;FEM;SG
-,	,	_
 8.	8.	PL;NUM
 उपदेश	उपदेश	N;3;SG;MASC
 कथा	कथा	N;3;FEM;SG
-।	।	_
 
 लोककथा	लोककथा	N;3;FEM;SG
 मूलतः	मूलतः	ADV
@@ -5648,33 +4976,28 @@ PUNCT	"	"	22
 ई	ई	PART
 जीवित	जीवित	V;MASC;PFV;PRS;SG
 है	है	PRS;SG;V;MASC
-।	।	_
 
 इतेक	इतेक	PL;DET;MASC
 कथारूप	कथारूप	N;3;SG;MASC
 लिख	लिखित	ADJ;SG;MASC
 न	नाँय	PART;NEG
 मिल	मिलै	PL;V;MASC;PFV;PRS
-,	,	_
 जितेक	जितेक	PL;DET;MASC
 मौखिक	मौखिक	ADJ;MASC
 मिल	मिलै	PL;V;MASC;PFV;PRS
 हैं	हैं	PL;V;MASC;FORM;PRS
 विन	विनतेई	PL;3;PRO;MASC
-,	,	_
 लोक	लोक	N;3;SG;MASC
 परंपरा	परंपरान	PL;N;FEM;3
 कौ	कौ	ADP;ACC;SG;MASC
 ज्ञान	ज्ञान	N;3;SG;MASC
 होय	होय	V;MASC;PFV;PRS;SG
 है	है	PST;SG;V;MASC
-,	,	_
 देशज	देशज	ADJ;3;SG;MASC
 सोच	सोच	N;FEM;SG
 कौ	कौ	ADP;ACC;SG;MASC
 बोध	बोध	N;3;SG;MASC
 होय	होय	V;MASC;PFV;PRS;SG
-।	।	_
 
 जाते	जाते	SG;PRO;MASC
 ई	ई	PART
@@ -5689,7 +5012,6 @@ PUNCT	"	"	22
 मानी	मानी	PROG;FEM;V;PRS;SG
 जाय	जाय	PROG;FEM;V;PRS;SG
 है	है	PRS;SG;V;MASC
-।	।	_
 
 लोककथा	लोककथान	PL;N;FEM;3
 कौ	कौ	NOM;ADP;SG;MASC
@@ -5698,7 +5020,6 @@ PUNCT	"	"	22
 बदल	बदलतौ	V;MASC;PFV;PRS;SG
 रह	रह्यौ	V;MASC;PFV;PRS;SG
 है	है	PRS;FEM;V;SG
-।	।	_
 
 पै	पै	CONJ
 लोककथा	लोककथान	PL;N;FEM;3
@@ -5724,7 +5045,6 @@ PUNCT	"	"	22
 भूमि	भूमि	N;3;FEM;SG
 झलक	झलकनी	PROG;FEM;V;PRS;SG
 चाह	चहिए	PRS;SG;V;MASC
-।	।	_
 
 2.	2.	NUM
 लोककथा	लोककथान	PL;N;FEM;3
@@ -5739,19 +5059,14 @@ PUNCT	"	"	22
 प्रयोग	प्रयोग	N;3;SG;MASC
 मिल	मिलनी	PROG;FEM;V;PRS;SG
 चाह	चहिए	PRS;SG;V;MASC
-।	।	_
 
 3.	3.	NUM
 लोक	लोक	N;3;SG;MASC
 कथा	कथान	PL;N;FEM;3
 माँहि	माँहि	ADP
-PUNCT	"	"	6
 लोकरंग	लोकरंग	N;3;SG;MASC
-PUNCT	"	"	6
-(	(	_
 लोकल	लोकल	N;3;SG;MASC
 कलर	कलर	N;3;SG;MASC
-)	)	_
 अर्थात्	अर्थात्	CONJ
 प्राकृतिक	प्राकृतिक	ADJ;MASC
 अरू	अरू	CONJ
@@ -5761,7 +5076,6 @@ PUNCT	"	"	6
 अभिव्यक्ति	अभिव्यक्ति	N;3;SG;MASC
 जरूरी	जरूरी	ADJ;FEM
 होय	होय	FEM;V;PFV;PRS;SG
-।	।	_
 
 4.	4.	NUM
 लोककथा	लोककथान	PL;N;FEM;3
@@ -5772,7 +5086,6 @@ PUNCT	"	"	6
 आस्वाद	आस्वाद	N;3;SG;MASC
 हौ	हौंनों	PROG;V;MASC;PRS;SG
 चाह	चहिए	PRS;SG;V;MASC
-।	।	_
 
 5.	5.	NUM
 लोककथा	लोककथा	N;3;FEM;SG
@@ -5784,7 +5097,6 @@ PUNCT	"	"	6
 जरूरी	जरूरी	ADJ;FEM
 होय	होय	V;MASC;PFV;PRS;SG
 है	है	PRS;SG;V;MASC
-।	।	_
 
 6.	6.	NUM
 लोककथा	लोककथान	PL;N;FEM;3
@@ -5795,16 +5107,13 @@ PUNCT	"	"	6
 प्राचीन	प्राचीन	ADJ;MASC
 अरू	अरू	CONJ
 आदिम	आदिम	PL;ADJ;3;MASC
-,	,	_
 भोलेभाले	भोलेभाले	PL;ADJ;3;MASC
-,	,	_
 गरीब	गरीब	N;3;SG;MASC
 गुरुवान	गुरुवान	PL;N;3;MASC
 कौ	कौ	PL;ADP;ACC;MASC
 चित्रन	चित्रन	N;3;SG;MASC
 हो	होनौ	PL;PROG;V;MASC;PRS
 चाह	चहिए	PRS;SG;V;MASC
-।	।	_
 
 या	या	DET
 तरियाँ	तरियाँ	N;MASC
@@ -5816,13 +5125,11 @@ PUNCT	"	"	6
 कौ	कौ	ADP;ACC;SG;MASC
 स्वरूप	स्वरूप	N;3;SG;MASC
 होय	होय	V;MASC;PFV;PRS;SG
-।	।	_
 
 इन	इनके	PL;3;PRO;MASC
 रूप	रूप	N;3;SG;MASC
 विधान	विधान	N;3;SG;MASC
 माँहि	माँहि	ADP
-,	,	_
 कथनोपकथन	कथनोपकथन	N;3;SG;MASC
 माँहि	माँहि	ADP
 अलग	अलग	ADJ
@@ -5836,7 +5143,6 @@ PUNCT	"	"	6
 जरूरी	जरूरी	ADJ;FEM
 होय	होय	FEM;V;PFV;PRS;SG
 है	है	PRS;SG;V;MASC
-,	,	_
 जो	जो	3;SG;PRO;MASC
 अकृत्रिम	अकृत्रिम	ADJ;MASC
 रूप	रूप	N;3;SG;MASC
@@ -5846,7 +5152,6 @@ PUNCT	"	"	6
 कर	कर	PROG;V;MASC;PRS;SG
 ले	लेबै	PROG;V;MASC;PRS;SG
 है	है	PROG;V;MASC;PRS;SG
-।	।	_
 
 कालिदास	कालिदास	PROPN;3;SG;MASC
 नैं	नैं	ADP;FORM
@@ -5862,7 +5167,6 @@ PUNCT	"	"	6
 तबई	तबई	FEM;PRO
 कहयौ	कहयौ	V;MASC;PFV;PST;SG
 है	है	PRS;SG;V;MASC
--	-	_
 जाकौ	जाकौ	3;SG;PRO;MASC
 अभिप्राय	अभिप्राय	N;3;SG;MASC
 भयौ	भयौ	V;MASC;PFV;PRS;SG
@@ -5870,12 +5174,9 @@ PUNCT	"	"	6
 कितेकउ	कितेकउ	FEM;DET
 काटछांट	काटछांट	3;V;SG;MASC
 कैं	कैं	PROG;V;MASC;FORM;PRS;SG
-,	,	_
 सजाय	सजाय	PROG;FEM;V;PRS;SG
 कैं	कैं	PROG;V;MASC;FORM;PRS;SG
-,	,	_
 सँबार	सँबारकैं	PROG;FEM;V;FORM;PRS;SG
-,	,	_
 कृत्रिण	कृत्रिण	ADJ;MASC
 बन	बनाय	PROG;V;MASC;PRS;SG
 कैं	कैं	PROG;V;MASC;FORM;PRS;SG
@@ -5884,7 +5185,6 @@ PUNCT	"	"	6
 साहित्य	साहित्य	N;3;SG;MASC
 लिख	लिख्यौ	V;MASC;PFV;PRS;SG
 जाय	जाय	V;MASC;PRS;SG
-,	,	_
 पै	पै	CONJ
 बू	बू	INFM;3;MASC;SG;PRO
 आज	आजऊ	N
@@ -5896,13 +5196,11 @@ PUNCT	"	"	6
 सामई	सामई	N;MASC
 पानी	पानी	N;3;SG;MASC
 भरै	भरै	V;MASC;PFV;PRS;SG
-।	।	_
 
 मैं	मैंनें	1;SG;PRO;MASC
 त्यागपत्र	त्यागपत्र	N;3;SG;MASC
 दै	दै	V;MASC;PFV;PRS;SG
 दियौ	दियौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 कमलेश	कमलेश	PROPN;3;SG;MASC
 जी	जी	PART;3;MASC;FORM;SG
@@ -5911,7 +5209,6 @@ PUNCT	"	"	6
 तो	तो	PART
 ए	हौ	V;MASC;PFV;PST;SG
 ही	ही	PART
-।	।	_
 
 मेरी	मेरी	1;FEM;PRO;SG
 त्यागपत्र	त्यागपत्र	N;3;SG;MASC
@@ -5919,7 +5216,6 @@ PUNCT	"	"	6
 स्वीकार	स्वीकार	PROG;V;MASC;PRS;SG
 है	है	PROG;V;MASC;PRS;SG
 गयौ	गयौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 बाई	बाई	FEM;DET;SG
 छन	छन	N;3;SG;MASC
@@ -5929,7 +5225,6 @@ PUNCT	"	"	6
 त्यागपत्र	त्यागपत्र	N;3;SG;MASC
 दै	दै	PROG;V;MASC;PRS;SG
 दियौ	दियौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 जे	जे	SG;PRO;MASC
 कह	कहते	PROG;V;MASC;PRS;SG
@@ -5941,7 +5236,6 @@ PUNCT	"	"	6
 जो	जो	3;SG;PRO;MASC
 कछु	कछु	3;SG;PRO;MASC
 कियौ	कियौ	V;MASC;PFV;PRS;SG
-,	,	_
 मोसौं	मोसौं	1;SG;PRO;MASC
 पूछ	पूछकैं	PROG;V;MASC;FORM;PRS;SG
 और	और	CONJ
@@ -5949,15 +5243,12 @@ PUNCT	"	"	6
 नाम	नाम	N;3;SG;MASC
 पै	पै	ADP
 कियौ	कियौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 लोग	लोग	PL;N;3;MASC
 कहि	कहि	PROG;V;MASC;PRS;SG
--	-	_
 कहि	कहि	PROG;V;MASC;PRS;SG
 रहि	रहि	PROG;V;MASC;PRS;SG
 गये	गये	V;MASC;PFV;PST;SG
-।	।	_
 
 पै	पै	ADP
 पंडित	पंडित	PROPN;3;SG;MASC
@@ -5966,7 +5257,6 @@ PUNCT	"	"	6
 एक	एक	NUM;SG
 न	नांय	PART;NEG
 मानी	मानी	V;MASC;PFV;PST;SG
-।	।	_
 
 अपने	अपने	PL;1;PRO;MASC
 ते	ते	ADP
@@ -5987,7 +5277,6 @@ PUNCT	"	"	6
 ढूँढ़	ढूँढ़ेऊ	PL;PROG;V;MASC;PRS
 न	नांय	PART;NEG
 मिल	मिलिंगे	PROG;V;MASC;FORM;PRS;SG
-।	।	_
 
 जेई	जेई	FEM;DET
 कारन	कारन	N;3;SG;MASC
@@ -6002,7 +5291,6 @@ PUNCT	"	"	6
 है	है	PROG;V;MASC;PRS;SG
 गयौ	गयौ	PROG;V;MASC;PRS;SG
 है	है	PRS;SG;V;MASC
-।	।	_
 
 बड़े	बड़ेन	PL;3;MASC;FORM;N
 कूँ	कूँ	ADP;ACC;MASC;FORM;SG
@@ -6013,7 +5301,6 @@ PUNCT	"	"	6
 के	के	ADP;ACC;SG;MASC
 पात्र	पात्र	N;3;SG;MASC
 बनें	बनें	V;MASC;PROSP;FUT;SG
-।	।	_
 
 आगरा	आगरा	PROPN;3;SG;MASC
 के	के	PL;ADP;ACC;MASC
@@ -6024,7 +5311,6 @@ PUNCT	"	"	6
 पं.	पं.	PROPN;3;SG;MASC
 राजनाथ	राजनाथ	PROPN;3;SG;MASC
 कुंजरू	कुंजरू	PROPN;3;SG;MASC
-।	।	_
 
 बे	बे	3;MASC;FORM;SG;PRO
 मोमें	मोमें	1;SG;PRO;MASC
@@ -6040,21 +5326,18 @@ PUNCT	"	"	6
 कौ	कौ	ADP;ACC;SG;MASC
 विद्यार्था	विद्यार्था	N;3;SG;MASC
 हों	हों	V;MASC;FORM;PFV;PST;SG
-,	,	_
 बैसे	बैसे	CONJ
 मोपै	मोपै	1;SG;PRO;MASC
 बिन	बिनकी	3;FEM;PRO;SG
 सदा	सदाई	ADV
 कृपा	कृपा	N;3;FEM;SG
 ए	ही	V;MASC;PFV;PST;SG
-।	।	_
 
 एक	एक	NUM;SG
 बेर	बेर	N;SG;MASC
 की	की	ADP;ACC;FEM;SG
 बात	बात	N;3;FEM;SG
 है	है	V;MASC;PFV;PRS;SG
-।	।	_
 
 मेंने	मेंने	1;SG;PRO;MASC
 बिन	बिनते	3;MASC;FORM;SG;PRO
@@ -6072,7 +5355,6 @@ PUNCT	"	"	6
 जाइ	जाइ	PROG;V;MASC;PRS;SG
 रह	रह्यौ	PROG;V;MASC;PRS;SG
 है	हूं	PRS;SG;V;MASC
-।	।	_
 
 अतो	अतो	N;3;SG;MASC
 पतौ	पतौ	N;3;SG;MASC
@@ -6083,7 +5365,6 @@ PUNCT	"	"	6
 चुप	चुप	V;MASC;FORM;PFV;PRS;SG
 है	है	V;MASC;FORM;PFV;PRS;SG
 गये	गये	V;MASC;FORM;PFV;PRS;SG
-।	।	_
 
 जा	जाबे	PROG;V;MASC;PRS;SG
 के	के	ADP;ACC;SG;MASC
@@ -6093,7 +5374,6 @@ PUNCT	"	"	6
 दंग	दंग	PROG;V;MASC;PRS;SG
 रह	रह	PROG;V;MASC;PRS;SG
 गयौ	गयौ	V;MASC;PFV;PST;SG
-।	।	_
 
 जा	जाइबे	PROG;V;MASC;PRS;SG
 के	के	ADP;ACC;SG;MASC
@@ -6103,10 +5383,8 @@ PUNCT	"	"	6
 पै	पै	ADP
 मौजूद	मौजूद	PROG;V;MASC;PRS;SG
 ए	हे	PST;SG;V;MASC
-।	।	_
 
 बोल	बोले	PROG;V;MASC;FORM;PRS;SG
--	-	_
 चल	चलो	PROG;V;MASC;PRS;SG
 मैं	मैं	1;SG;PRO;MASC
 हूं	हूं	PART
@@ -6114,7 +5392,6 @@ PUNCT	"	"	6
 लैक्चर	लैक्चर	N;3;SG;MASC
 सुन	सुन	PROG;V;MASC;PRS;SG
 आऊँ	आऊँ	PROG;V;MASC;PRS;SG
-।	।	_
 
 पंडित	पंडित	PROPN;3;SG;MASC
 जी	जी	PART;3;MASC;FORM;SG
@@ -6130,7 +5407,6 @@ PUNCT	"	"	6
 ई	ई	PART
 सग	सग	ADP
 आए	आए	PROG;V;MASC;FORM;PRS;SG
-।	।	_
 
 अगले	अगले	ADJ;SG;MASC
 दिन	दिना	N;3;SG;MASC
@@ -6140,14 +5416,12 @@ PUNCT	"	"	6
 पास	पास	ADV
 गयौ	गयौ	V;MASC;PFV;PST;SG
 बोल	बोले	V;MASC;PFV;PST;SG
--	-	_
 भाई	भाई	N;3;SG;MASC
 तुम	तुम्हारौ	3;SG;PRO;MASC
 लैक्चर	लैक्चर	N;3;SG;MASC
 बहुत	बहुत	ADV
 बढ़िया	बढ़िया	ADJ;MASC
 ए	हौ	V;MASC;PFV;PST;SG
-।	।	_
 
 इन	इनके	3;MASC;FORM;SG;PRO
 ह्याँ	ह्याँ	N;3;SG;MASC
@@ -6155,7 +5429,6 @@ PUNCT	"	"	6
 आइन्दा	आइन्दा	ADV
 मत	मत	PART;NEG
 जइयौं	जइयौं	V;MASC;FORM;PROSP;FUT;SG
-?	?	_
 
 मेरी	मेरी	1;FEM;PRO;SG
 समझ	समझ	N;3;SG;MASC
@@ -6165,7 +5438,6 @@ PUNCT	"	"	6
 ठीक	ठीक	ADV
 न	नांय	PART;NEG
 रह	रहेगौ	V;MASC;PROSP;FUT;SG
-।	।	_
 
 पंडित	पंडित	PROPN;3;SG;MASC
 जी	जी	PART;3;MASC;FORM;SG
@@ -6173,7 +5445,6 @@ PUNCT	"	"	6
 राय	राय	N;3;FEM;SG
 कैसी	कैसी	FEM;DET;SG
 ए	ही	FEM;V;PFV;PST;SG
-,	,	_
 जा	जा	DET
 बात	बात	N;3;FEM;SG
 ते	ते	ADP
@@ -6181,7 +5452,6 @@ PUNCT	"	"	6
 कोऊ	कोऊ	SG;DET;MASC
 मतलब	मतलब	N;3;SG;MASC
 न	नांय	PART;NEG
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 तौ	तौ	PART
@@ -6208,7 +5478,6 @@ PUNCT	"	"	6
 नां	नांय	PART;NEG
 जान	जान	PROG;V;MASC;PRS;SG
 दैं	दैं	PROG;V;MASC;FORM;PRS;SG
-।	।	_
 
 भले	भलेई	PART
 खुद	खुद	3;SG;PRO;MASC
@@ -6218,14 +5487,12 @@ PUNCT	"	"	6
 कष्ट	कष्ट	N;3;SG;MASC
 है	है	PROG;V;MASC;PRS;SG
 जाय	जाय	PROG;V;MASC;PRS;SG
-।	।	_
 
 मैं	मैं	1;SG;PRO;MASC
 पंडित	पंडित	PROPN;3;SG;MASC
 जी	जी	PART;3;MASC;FORM;SG
 कौ	कौ	NOM;ADP;SG;MASC
 कौन	कौन	3;SG;PRO;MASC
-?	?	_
 
 उन	उनते	3;MASC;FORM;SG;PRO
 मेरौ	मेरौ	1;SG;PRO;MASC
@@ -6240,7 +5507,6 @@ PUNCT	"	"	6
 बड़ौ	बड़ौ	N;SG;MASC
 मान	मानतौ	V;MASC;PFV;PST;SG
 ए	हौ	PST;SG;V;MASC
-।	।	_
 
 हमारे	हमारे	PL;1;PRO;MASC
 कालेज	कालेज	N;3;SG;MASC
@@ -6261,7 +5527,6 @@ PUNCT	"	"	6
 बड़े	बड़े	ADJ
 नाउजरीक	नाउजरीक	ADJ;3;SG;MASC
 ए	हे	V;MASC;PFV;PST;SG
-।	।	_
 
 एक	एक	NUM;SG
 बेर	बेर	N;3;SG;MASC
@@ -6269,7 +5534,6 @@ PUNCT	"	"	6
 उन	उनते	3;MASC;FORM;SG;PRO
 मिल	मिलबे	V;MASC;PFV;PST;SG
 गयौ	गयौ	V;MASC;PFV;PST;SG
-।	।	_
 
 दफ्तर	दफ्तर	N;3;SG;MASC
 के	के	ADP;ACC;SG;MASC
@@ -6286,7 +5550,6 @@ PUNCT	"	"	6
 भीतर	भीतर	N;3;FEM;SG
 आइ	आइ	PROG;V;MASC;PRS;SG
 सक	सकूँ	PRS;SG;V;MASC
-।	।	_
 
 बात	बात	N;3;FEM;SG
 कर	करिकै	PROG;V;MASC;PRS;SG
@@ -6294,14 +5557,12 @@ PUNCT	"	"	6
 मैं	मैं	N;1;SG;MASC
 चल	चलिबे	PROG;V;MASC;PRS;SG
 लग	लगौ	PROG;V;MASC;PRS;SG
-,	,	_
 तब	तब	CONJ
 मौइ	मौकूँ	1;SG;PRO;MASC
 रोक	रोक	PROG;V;MASC;PRS;SG
 कै	कै	PROG;V;MASC;PRS;SG
 बे	बे	3;MASC;FORM;SG;PRO
 बोल	बोले	PROG;V;MASC;FORM;PRS;SG
-।	।	_
 
 भाई	भाई	N;3;SG;MASC
 अपने	अपने	3;SG;PRO;MASC
@@ -6312,7 +5573,6 @@ PUNCT	"	"	6
 कोई	कोई	SG;DET;MASC
 दुराव	दुराव	N;3;SG;MASC
 है	है	V;MASC;PFV;PRS;SG
-,	,	_
 न	न	PART
 काऊ	काऊ	SG;DET;MASC
 बात	बात	N;3;FEM;SG
@@ -6324,7 +5584,6 @@ PUNCT	"	"	6
 न	नांय	PART;NEG
 है	है	V;MASC;PFV;PRS;SG
 सक	सके	PRS;SG;V;MASC
-,	,	_
 जाइ	जाइ	FEM;PRO;SG
 मैं	मैं	1;SG;PRO;MASC
 अपने	अपने	3;SG;PRO;MASC
@@ -6334,7 +5593,6 @@ PUNCT	"	"	6
 न	नांय	PART;NEG
 कह	कहि	V;MASC;PFV;PRS;SG
 सक	सकौं	V;MASC;FORM;PST;SG
-।	।	_
 
 सो	सो	CONJ
 आइन्दा	आइन्दा	N
@@ -6345,14 +5603,12 @@ PUNCT	"	"	6
 बात	बात	N;3;FEM;SG
 कर	करनी	PROG;FEM;V;PRS;SG
 चाह	चाहौ	FUT;SG;V;MASC
-,	,	_
 बिना	बिना	PART;NEG
 पूछ	पूछे	V;MASC;PFV;PRS;SG
 बेधड़क	बेधड़क	ADV
 चल	चले	V;MASC;PFV;PRS;SG
 आ	आयौ	V;MASC;PFV;PRS;SG
 कर	करौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 अब	अब	N
 आप	आपई	3;SG;PRO;MASC
@@ -6367,7 +5623,6 @@ PUNCT	"	"	6
 कौ	कौ	ACC;SG;PRO;MASC
 न	न	PART;NEG
 मान	मानैनौ	PROG;V;MASC;PRS;SG
-?	?	_
 
 बे	बे	3;MASC;FORM;SG;PRO
 सब	सबते	PL;3;PRO;MASC
@@ -6376,7 +5631,6 @@ PUNCT	"	"	6
 नांई	नांई	ADP
 ब्यौहार	ब्यौहार	N;3;SG;MASC
 कर	करते	V;MASC;PFV;PST;SG
-,	,	_
 हम	हम	PL;1;PRO;MASC
 सब	सब	PL;3;DET;MASC
 बिन	बिन्नैं	3;MASC;FORM;SG;PRO
@@ -6385,7 +5639,6 @@ PUNCT	"	"	6
 कौ	कौ	ADP;ACC;SG;MASC
 बड़ौ	बड़ौ	N;3;SG;MASC
 मान	मानते	V;MASC;PFV;PST;SG
-।	।	_
 
 बड़े	बड़े	PL;ADJ;MASC
 अधिकार	अधिकारी	N;3;SG;MASC
@@ -6395,13 +5648,11 @@ PUNCT	"	"	6
 कछू	कछू	N;SG;MASC
 सीख	सीख	V;MASC;HAB;PRS;SG
 सक	सकैं	V;MASC;FORM;FUT;SG
-,	,	_
 तौ	तौ	CONJ
 प्रम	प्रम	N;SG;MASC
 भाव	भाव	N;3;SG;MASC
 ही	ही	PART
 पाइ	पामेंगे	V;MASC;PROSP;FUT;SG
-।	।	_
 
 अब	अब	N
 आखिर	आखिर	N;3;SG;MASC
@@ -6411,7 +5662,6 @@ PUNCT	"	"	6
 बात	बात	N;3;FEM;SG
 कह	कहनी	PROG;FEM;V;PRS;SG
 है	है	PRS;SG;V;MASC
-।	।	_
 
 लोकसभा	लोकसभा	PROPN;3;SG;MASC
 में	में	ADP
@@ -6420,7 +5670,6 @@ PUNCT	"	"	6
 विवाद	विवाद	N;3;SG;MASC
 चल	चल	PROG;V;MASC;PRS;SG
 रह	रह्यौ	V;MASC;PFV;PST;SG
-।	।	_
 
 उन	उन	PL;DET;MASC
 दिन	दिनान	PL;N;3;MASC
@@ -6431,7 +5680,6 @@ PUNCT	"	"	6
 के	के	ADP;ACC;SG;MASC
 उपमहानिदेशक	उपमहानिदेशक	N;3;SG;MASC
 ए	हे	V;MASC;PFV;PST;SG
-।	।	_
 
 उन	उनकौ	3;MASC;FORM;SG;PRO
 निवास	निवास	N;3;SG;MASC
@@ -6445,7 +5693,6 @@ PUNCT	"	"	6
 कौ	कौ	ADP;ACC;SG;MASC
 केन्द्र	केन्द्र	N;3;SG;MASC
 ए	हौ	V;MASC;PFV;PST;SG
-।	।	_
 
 या	या	DET
 सदर्भ	सदर्भ	N;3;SG;MASC
@@ -6462,7 +5709,6 @@ PUNCT	"	"	6
 तब	तब	ADV
 बुल	बुलाइ	V;MASC;PFV;PST;SG
 ले	लेते	V;MASC;PFV;PST;SG
-।	।	_
 
 एक	एक	NUM;SG
 दिन	दिना	N;3;SG;MASC
@@ -6472,7 +5718,6 @@ PUNCT	"	"	6
 देख	देखें	PROG;V;MASC;PRS;SG
 का	का	SG;PRO;MASC
 है	है	PRS;SG;V;MASC
-।	।	_
 
 राजर्षि	राजर्षि	PROPN;3;SG;MASC
 टंडन	टंडन	PROPN;3;SG;MASC
@@ -6487,12 +5732,10 @@ PUNCT	"	"	6
 आय	आय	PROG;V;MASC;PRS;SG
 रहे	रहे	PROG;V;MASC;PRS;SG
 है	हैं	V;MASC;FORM;PRS;SG
-।	।	_
 
 मोय	मोय	1;SG;PRO;MASC
 देख	देखकें	V;MASC;FORM;PFV;PRS;SG
 बोल	बोले	V;MASC;PFV;PRS;SG
-।	।	_
 
 रात	रात	N;3;FEM;SG
 कौ	कौ	ADP;ACC;SG;MASC
@@ -6500,27 +5743,22 @@ PUNCT	"	"	6
 बच	बच	PROG;V;MASC;PRS;SG
 रह	रह्यौ	V;MASC;PFV;PST;SG
 था	हो	PST;SG;V;MASC
-,	,	_
 सौ	सौ	CONJ
 मैंने	मैंने	1;SG;PRO;MASC
 जमाइ	जमाइ	V;MASC;HAB;PST;SG
 दी	दीनौ	V;MASC;PFV;PST;SG
-,	,	_
 कै	कै	CONJ
 खा	खाय	V;MASC;HAB;PST;SG
 ली	लीनौ	PST;V;SG;MASC
-।	।	_
 
 रेवती	रेवती	PROPN;3;FEM;SG
 की	की	ADP;ACC;FEM;SG
 बात	बात	N;3;FEM;SG
 साँची	साँची	ADJ;FEM
 लगी	लगी	FEM;V;PFV;PRS;SG
-,	,	_
 समझ	समझ	PROG;V;MASC;PRS;SG
 आ	आ	PROG;V;MASC;PRS;SG
 गई	गई	V;MASC;PRS;SG
-।	।	_
 
 जाई	जाई	DET
 उधेड़	उधेड़	N;3;SG;MASC
@@ -6528,61 +5766,44 @@ PUNCT	"	"	6
 में	में	ADP
 कै	कै	CONJ
 का	का	3;SG;DET;MASC
--	-	_
 का	का	3;SG;DET;MASC
 सौदा	सौदा	N;3;SG;MASC
 खरीद	खरीदौं	PROG;V;MASC;PRS;SG
 जाय	जाय	PROG;V;MASC;PRS;SG
-?	?	_
 
 बिन	बिनकी	FEM;3;FORM;SG;PRO
 सिग	सिगिरी	FEM;DET;SG
 रात	रात	N;3;FEM;SG
 निकर	निकर	V;MASC;PFV;PRS;SG
 गई	गई	FEM;V;PFV;PRS;SG
-।	।	_
 
 सबेरे	सबेरे	N;3;SG;MASC
 उठत	उठितेई	PROG;V;MASC;PRS;SG
--	-	_
 न्हा	न्हा	PROG;V;MASC;PRS;SG
--	-	_
 धो	धो	PROG;V;MASC;PRS;SG
-,	,	_
 कलेऊ	कलेऊ	PROG;V;MASC;PRS;SG
 कर	कर	V;MASC;PFV;PRS;SG
-,	,	_
 वे	वे	3;MASC;FORM;SG;PRO
 सीधे	सीधे	ADV;MASC
 बजार	बजार	N;3;SG;MASC
 माँऊ	माँऊ	ADP
 गए	गए	V;MASC;PFV;PRS;SG
-,	,	_
 अरु	अरु	CONJ
 उल्हास	उल्हास	N;3;SG;MASC
 ते	ते	ADP
 भरे	भरे	PL;N;3;MASC
 नई	नई	ADJ;FEM;SG
 साड़ी	साड़ी	N;3;FEM;SG
-,	,	_
 सायौ	सायौ	N;3;SG;MASC
-,	,	_
 सलूका	सलूका	N;3;SG;MASC
-(	(	_
 पोलका	पोलका	N;3;SG;MASC
-)	)	_
-,	,	_
 काजर	काजर	N;3;SG;MASC
--	-	_
 बिन्दी	बिन्दी	N;3;FEM;SG
-,	,	_
 बिछुआ	बिछुआ	N;3;SG;MASC
-,	,	_
 पाजेब	पाजेब	N;3;FEM;SG
 खरीद	खरीद	PROG;V;MASC;PRS;SG
 लै	लै	PROG;V;MASC;PRS;SG
 आए	आए	V;MASC;PFV;PRS;SG
-।	।	_
 
 सिग	सिगिरे	PL;DET;MASC
 सामान	सामान	N;3;SG;MASC
@@ -6592,14 +5813,11 @@ PUNCT	"	"	6
 कूँ	कूँ	ADP;ACC;FEM;SG
 दै	दैकैं	PROG;V;MASC;PRS;SG
 बोल	बोले	PROG;V;MASC;PRS;SG
--	-	_
 ठकुरानी	ठकुरानी	N;3;FEM;SG
-!	!	_
 अब	अब	N
 तू	तू	INFM;MASC;2;SG;PRO
 खूब	खूब	PART
 सज	सज	PROG;V;MASC;PRS;SG
--	-	_
 धज	धजिकैं	PROG;V;MASC;PRS;SG
 भैंन	भैंन	N;3;FEM;SG
 के	के	NOM;ADP;SG;MASC
@@ -6607,7 +5825,6 @@ PUNCT	"	"	6
 बैठ	बैठिकैई	V;MASC;PROSP;FUT;SG
 गाँम	गाँम	N;3;SG;MASC
 चल	चलियौ	V;MASC;PROSP;FUT;SG
-।	।	_
 
 ताई	ताई	PROPN;3;FEM;SG
 नैं	नैं	ADP;FORM;SG;MASC
@@ -6617,14 +5834,12 @@ PUNCT	"	"	6
 बिन	बिनपैते	3;MASC;FORM;SG;PRO
 ले	ले	PROG;V;MASC;PRS;SG
 लियौ	लियौ	PROG;V;MASC;PRS;SG
-।	।	_
 
 दुपैर	दुपैर	N;3;FEM;SG
 पीछे	पीछे	ADP
 की	की	ADP;ACC;SG;MASC
 बिदाई	बिदाई	N;3;FEM;SG
 ए	ही	V;MASC;PFV;PST;SG
-।	।	_
 
 सिग	सिगिरी	PL;FEM;DET
 गूजरी	गूजरी	N;3;FEM;SG
@@ -6642,11 +5857,9 @@ PUNCT	"	"	6
 जाय	जाय	PROG;FEM;V;PRS;SG
 रह	रहीं	FEM;V;FORM;PFV;PST;SG
 ए	हीं	FEM;V;FORM;PST;SG
-।	।	_
 
 नए	नए	PL;ADJ;MASC
 लता	लता	N;3;SG;MASC
--	-	_
 कपरा	कपरान	PL;N;3;MASC
 में	में	ADP
 सज	सजी	PROG;FEM;V;PRS;SG
@@ -6658,13 +5871,11 @@ PUNCT	"	"	6
 बारे	बारे	PL;ADP;MASC
 छोरा	छोरा	N;3;SG;MASC
 नौ	नौ	PL;NUM
--	-	_
 नौ	नौ	PL;NUM
 हाथ	हाथ	N;3;SG;MASC
 ऊँचे	ऊँचे	PL;ADJ;MASC
 उछरि	उछरिबे	PROG;V;MASC;PRS;SG
 लगे	लगे	V;MASC;PFV;PST;SG
-।	।	_
 
 सोच	सोच	PROG;V;MASC;PRS;SG
 रहे	रहे	PROG;V;MASC;PRS;SG
@@ -6677,12 +5888,10 @@ PUNCT	"	"	6
 जा	जाइबे	PROG;V;MASC;PRS;SG
 ते	ते	ADP
 बड़े	बड़े	PL;N;3;MASC
--	-	_
 बूढ़े	बूढ़े	PL;N;3;MASC
 हमें	हमें	PL;3;MASC;FORM;PRO
 साबासी	साबासी	N;3;FEM;SG
 दिंगे	दिंगे	PL;V;MASC;FORM;PROSP;FUT
-।	।	_
 
 दुल्हैन	दुल्हैन	N;3;FEM;SG
 जब	जब	CONJ
@@ -6698,7 +5907,6 @@ PUNCT	"	"	6
 की	की	ADP;ACC;FEM;SG
 कह	कहिबे	PROG;V;MASC;PRS;SG
 लगे	लगे	PL;PROG;V;MASC;PRS
-।	।	_
 
 तबई	तबई	N;FEM
 सिग	सिगरी	PL;ADJ;FEM;3
@@ -6706,22 +5914,18 @@ PUNCT	"	"	6
 नैं	नैं	ADP
 तारी	तारी	N;3;FEM;SG
 पीट	पीट	PROG;FEM;V;PRS;SG
--	-	_
 पीट	पीटकैं	PROG;FEM;V;PRS;SG
 गा	गाइबौ	PROG;FEM;V;PRS;SG
 सुरू	सुरू	PROG;V;MASC;PRS;SG
 कियौ	कियौ	PROG;V;MASC;PRS;SG
-।	।	_
 
 रेवती	रेवती	PROPN;3;FEM;SG
 ताई	ताई	PROPN;3;FEM;SG
 बिन	बिनपै	3;MASC;FORM;SG;PRO
 अर्रा	अर्राई	PROG;FEM;V;PRS;SG
--	-	_
 मैरौ	मैरौ	1;SG;PRO;MASC
 जाय	जाय	PROG;V;MASC;PRS;SG
 सिंगट्ट	सिंगट्टा	N;3;SG;MASC
-।	।	_
 
 निपूतेन्नें	निपूतेन्नें	PL;N;3;MASC
 हुरदंग	हुरदंग	N;3;SG;MASC
@@ -6731,13 +5935,11 @@ PUNCT	"	"	6
 अधर	अधर	N
 उठ	उठाय	V;MASC;PFV;PRS;SG
 लियौ	लियौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 आए	आए	PL;PROG;V;MASC;PRS
 ठट्ठा	ठट्ठा	N;3;SG;MASC
 कर	करिबे	PL;N;3;MASC
 वारे	वारे	PL;3;ADP;MASC
-।	।	_
 
 गाँम	गाँम	N;3;SG;MASC
 में	में	ADP
@@ -6750,7 +5952,6 @@ PUNCT	"	"	6
 कौ	कौ	ADP;ACC;SG;MASC
 हो	होयौ	V;MASC;PFV;PRS;SG
 है	करै	PRS;SG;V;MASC
-।	।	_
 
 रेवती	रेवती	PROPN;3;FEM;SG
 ताई	ताई	PROPN;3;FEM;SG
@@ -6766,29 +5967,24 @@ PUNCT	"	"	6
 पीरे	पीरे	PL;ADJ;MASC
 परि	परि	PROG;V;MASC;PRS;SG
 गए	गए	PROG;V;MASC;PRS;SG
-।	।	_
 
 बिचारे	बिचारे	PL;ADJ;3;MASC
 का	का	3;SG;PRO;MASC
 कर	करते	PL;PROG;V;MASC;PRS
-?	?	_
 
 लट्ठ	लट्ठ	N;3;SG;MASC
 चल	चलामिते	PL;PROG;V;MASC;PRS
-?	?	_
 
 नीची	नीची	ADJ;FEM;SG
 नार	नार	N;3;FEM;SG
 कर	करिकें	PL;PROG;V;MASC;FORM;PRS
 चल	चल	PROG;V;MASC;PRS;SG
 दिए	दिए	PL;PROG;V;MASC;PRS
-।	।	_
 
 गाँम	गाँम	N;3;SG;MASC
 में	में	ADP
 जब	जब	CONJ
 बड़े	बड़े	PL;N;3;MASC
--	-	_
 बूढ़े	बूढ़ेन्नें	PL;N;3;MASC
 जे	जे	SG;DET
 किस्सा	किस्सा	N;3;SG;MASC
@@ -6796,7 +5992,6 @@ PUNCT	"	"	6
 तौ	तौ	CONJ
 कह	कहिबे	PL;PROG;V;MASC;PRS
 लग	लगे	PROG;V;MASC;PRS;SG
--	-	_
 हमारे	हमारे	PL;1;PRO;MASC
 छोरा	छोरा	N;3;SG;MASC
 तौ	तौ	PART
@@ -6810,33 +6005,26 @@ PUNCT	"	"	6
 इनकीऊ	इनकीऊ	PL;3;FEM;PRO
 गुरू	गुरू	N;3;SG;MASC
 निकर	निकरी	FEM;V;PFV;PRS;SG
-।	।	_
 
-'	'	_
 लैजा	लैजा	PROG;V;MASC;PRS;SG
 भैया	भैया	3;MASC;FORM;N;SG
 लैजा	लैजा	PROG;V;MASC;PRS;SG
-'	'	_
 कुम्हारी	कुम्हारी	N;3;FEM;SG
 नैं	नैं	ADP;FORM
 मूँड	मूँड	N;3;SG;MASC
 हल	हलाय	PROG;V;MASC;PRS;SG
 कें	कें	PROG;V;MASC;PRS;SG
 कह	कही	PROG;FEM;V;PRS;SG
-।	।	_
 
 बिलोमनी	बिलोमनी	N;3;FEM;SG
 लै	लैकें	PROG;V;MASC;FORM;PRS;SG
 मूसौ	मूसौ	N;3;SG;MASC
 आगें	आगें	N
 चल	चल्यौ	PROG;V;MASC;PRS;SG
-।	।	_
 
 चल	चलतौ	PROG;V;MASC;PRS;SG
 गयौ	गयौ	PRS;SG;V;MASC
-,	,	_
 चल	चलतौ	PROG;V;MASC;PRS;SG
--	-	_
 चल	चलतौ	PROG;V;MASC;PRS;SG
 एक	एक	NUM;SG
 गूजरी	गूजरी	N;3;FEM;SG
@@ -6845,18 +6033,15 @@ PUNCT	"	"	6
 कें	कें	ADP;FORM;MASC
 आगे	आगे	N
 पहुच	पहुच्यौ	V;MASC;PFV;PRS;SG
-।	।	_
 
 बानें	बानें	3;SG;PRO;MASC
 देख	देख्यौ	V;MASC;PFV;PRS;SG
-,	,	_
 गूजरी	गूजरी	N;3;FEM;SG
 ओखरी	ओखरी	N;3;FEM;SG
 में	में	ADP
 दही	दही	N;3;SG;MASC
 बिलोय	बिलोय	V;MASC;HAB;PRS;SG
 रह	रहीऐ	V;MASC;HAB;PRS;SG
-।	।	_
 
 देख	देखकैं	PROG;V;MASC;FORM;PRS;SG
 मूसे	मूसे	3;MASC;N;SG
@@ -6864,21 +6049,14 @@ PUNCT	"	"	6
 न	न	PART;NEG
 रह	रह्यौ	V;MASC;PFV;PRS;SG
 गयौ	गयौ	V;MASC;PFV;PRS;SG
-,	,	_
 बोल	बोल्यौ	V;MASC;PFV;PRS;SG
--	-	_
-PUNCT	"	"	11
 गूजरी	गूजरी	N;3;FEM;SG
-!	!	_
 गूजरी	गूजरी	N;3;FEM;SG
-!	!	_
 जि	जि	SG;PRO
 कहा	कहा	3;SG;PRO;MASC
 कर	करि	V;MASC;HAB;PRS;SG
 रह	रही	FEM;V;HAB;PRS;SG
 है	है	PRS;SG;V;MASC
-?	?	_
-PUNCT	"	"	20
 
 मूँसे	मूँसे	N;3;SG;MASC
 भैया	भैया	3;MASC;FORM;N;SG
@@ -6891,32 +6069,25 @@ PUNCT	"	"	20
 दूध	दूध	N;3;SG;MASC
 परौंद	परौंद	V;MASC;HAB;PRS;SG
 दियौ	दियौ	V;MASC;HAB;PRS;SG
-।	।	_
 
-PUNCT	"	"	2
 बिलोमनी	बिलोमनी	3;FEM;PRO;SG
 तौ	तौ	PART
 तोकूँ	तोकूँ	INFM;2;SG;PRO
 मैं	मैं	1;SG;PRO;MASC
 दऊँ	दऊँ	INFM;V;MASC;PROSP;FUT;SG
-?	?	_
-PUNCT	"	"	7
 मूसे	मूसे	N;3;SG;MASC
 नै	नै	ADP
 कही	कही	PROG;FEM;V;PRS;SG
-।	।	_
 
 दै	दै	PROG;V;MASC;PRS;SG
 दै	दै	PROG;V;MASC;PRS;SG
 भैया	भैया	N;3;SG;MASC
-।	।	_
 
 मेरौ	मेरौ	1;SG;PRO;MASC
 बिगर्यौ	बिगर्यौ	ADJ;SG;MASC
 काम	काम	N;3;SG;MASC
 बन	बन	V;MASC;PFV;PRS;SG
 जा	जायगौ	V;MASC;PROSP;FUT;SG
-।	।	_
 
 न	नहीं	PART;NEG
 तौ	तौ	CONJ
@@ -6926,13 +6097,10 @@ PUNCT	"	"	7
 में	में	ADP
 मिल	मिल	PROG;V;MASC;PRS;SG
 जा	जायगौ	V;MASC;PROSP;FUT;SG
-।	।	_
 
-'	'	_
 लै	लै	PROG;V;MASC;PRS;SG
 भैना	भैना	N;3;FEM;SG
 लै	लै	PROG;V;MASC;PRS;SG
-'	'	_
 कह	कहकै	PROG;V;MASC;PRS;SG
 मूँस	मूँसेनें	N;3;SG;MASC
 बिलोमनी	बिलोमनी	N;3;FEM;SG
@@ -6940,7 +6108,6 @@ PUNCT	"	"	7
 कूँ	कूँ	ADP;ACC;SG
 दै	दै	V;MASC;PFV;PRS;SG
 दई	दई	PRS;FEM;V;SG
-।	।	_
 
 गूजरी	गूजरी	N;3;FEM;SG
 नैं	नैं	ADP
@@ -6954,10 +6121,8 @@ PUNCT	"	"	7
 अरू	अरू	CONJ
 लगी	लगी	FEM;V;HAB;PRS;SG
 घम्मर	घम्मर	ADV
--	-	_
 घम्मर	घम्मर	ADV
 बिलोय	बिलोयवे	V;MASC;HAB;PRS;SG
-।	।	_
 
 वा	वा	SG;DET;MASC
 दही	दही	N;3;SG;MASC
@@ -6968,7 +6133,6 @@ PUNCT	"	"	7
 घी	घी	N;3;SG;MASC
 के	के	PL;ADP;ACC;MASC
 निकर	निकरे	PL;V;MASC;PFV;PRS
-।	।	_
 
 अब	अब	N
 तौ	तौ	PART
@@ -6977,7 +6141,6 @@ PUNCT	"	"	7
 मन	मन	N;3;SG;MASC
 चल	चल	PROG;V;MASC;PRS;SG
 गयौ	गयौ	PROG;V;MASC;PRS;SG
-।	।	_
 
 फुदक	फुदकै	PROG;V;MASC;PRS;SG
 या	या	SG;DET;MASC
@@ -6987,17 +6150,12 @@ PUNCT	"	"	7
 बा	बा	SG;DET;MASC
 लौंदा	लौंदा	N;3;SG;MASC
 पै	पै	ADP
-।	।	_
 
-'	'	_
 मूसे	मूसे	3;MASC;FORM;N;SG
 मूसे	मूसे	3;MASC;FORM;N;SG
 कहा	कहा	3;SG;PRO;MASC
 करै	करै	PROG;V;MASC;PRS;SG
-।	।	_
-'	'	_
 गूजरी	गूजरी	N;3;FEM;SG
 नैं	नैं	ADP;FORM
 पूछी	पूछी	V;MASC;HAB;PRS;SG
-।	।	_
 
