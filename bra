@@ -703,7 +703,6 @@
 दिन	दिना	N;MASC;SG;3
 दिन	दिनान	N;MASC;PL;3
 दिमाग	दिमाग	N;MASC;SG;3
-दिआ	दिये	N;PL;SG;3
 दऔ	दिये	V;PFV;MASC;PL;PRS
 दऔ	दिये	V;PFV;MASC;SG;FORM;PST
 दऔ	दियौ	V;HAB;MASC;SG;PRS
@@ -1058,7 +1057,6 @@
 प्राचीन	प्राचीन	ADJ;FEM
 प्राचीन	प्राचीनतम	ADJ;FEM
 प्रानी	प्रानिन	N;MASC;PL;3
-प्रानी	प्रानी	N;MASC;SL;3
 प्रानी	प्रानीन	N;MASC;PL;3
 प्राप्त	प्राप्त	V;PROG;MASC;SG;PRS
 प्राप्त	प्राप्ति	N;FEM;SG
@@ -1198,7 +1196,7 @@
 बुरौ	बुरौ	ADJ;MASC;SG
 बुलऊआ	बुलऊआ	N;MASC;SG;3
 बुलन्द	बुलन्दी	N;FEM;SG;3
-बुल	बुलाइ	V;Prog;MASC;SG;PST
+बुल	बुलाइ	V;PROG;MASC;SG;PST
 बुला	बुलाकैं	V;MASC;SG
 बुला	बुलायौ	V;PFV;MASC;SG;PST
 बुहार	बुहारी	N;FEM;SG;3
