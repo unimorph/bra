@@ -258,7 +258,17 @@ Shyam Ratan, Ritesh Kumar
 | कपड़ा | कपड़न  | N;3;ACC;PL;MASC    |
 
 ## Shared Tasks
+2021: [SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages](https://aclanthology.org/2021.sigmorphon-1.25/)
 
+## References
+```
+@article{kumar2018automatic,
+  title={Automatic identification of closely-related Indian languages: Resources and experiments},
+  author={Kumar, Ritesh and Lahiri, Bornini and Alok, Deepak and Ojha, Atul Kr and Jain, Mayank and Basit, Abdul and Dawer, Yogesh},
+  journal={arXiv preprint arXiv:1803.09405},
+  year={2018}
+}
+```
 
 ## License
 - [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
